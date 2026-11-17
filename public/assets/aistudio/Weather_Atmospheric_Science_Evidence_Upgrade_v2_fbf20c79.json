@@ -1,0 +1,2928 @@
+{
+  "category_id": "weather_atmospheric_science",
+  "heading": "Weather and Atmospheric Science",
+  "version": "2.0-research-enriched-draft",
+  "status": "preliminary_research_dataset",
+  "description": "Fifty illustrated topics exploring winds, towering storm clouds, lightning, hailstones, rainfall, and our protective upper sky.",
+  "entries": [
+    {
+      "id": "ATM-001",
+      "title": "Clouds being driven by winds",
+      "quran_reference": [
+        "30:48",
+        "35:9"
+      ],
+      "scientific_topic": "Atmospheric circulation and cloud movement",
+      "scientific_finding": "Clouds are transported by atmospheric winds, with their movement depending on wind speed and direction at different altitudes.",
+      "connection": "The verses describe winds driving clouds before rainfall.",
+      "limitations": "They do not provide a technical account of atmospheric circulation or cloud dynamics.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the Arabic wording with meteorological explanations.",
+      "quranic_evidence": {
+        "references": [
+          "30:48",
+          "35:9"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/48",
+          "https://quran.com/35/9"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds are transported by atmospheric winds, with their movement depending on wind speed and direction at different altitudes.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe winds driving clouds before rainfall.",
+        "interpretive_limit": "They do not provide a technical account of atmospheric circulation or cloud dynamics.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-002",
+      "title": "Clouds gathering together",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Cloud development and organization",
+      "scientific_finding": "Cloud systems can develop, merge and organize through atmospheric motion, moisture supply and changing temperature.",
+      "connection": "The verse describes clouds being driven, brought together and made into a mass.",
+      "limitations": "The verse is not a complete scientific description of cloud formation or all cloud types.",
+      "evidence_grade": "B",
+      "research_status": "High-priority research candidate; examine the Arabic verbs and classical tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Cloud systems can develop, merge and organize through atmospheric motion, moisture supply and changing temperature.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes clouds being driven, brought together and made into a mass.",
+        "interpretive_limit": "The verse is not a complete scientific description of cloud formation or all cloud types.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-003",
+      "title": "Clouds becoming layered or piled",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Cloud structure",
+      "scientific_finding": "Clouds can form extensive layered structures or vertically developed masses, depending on atmospheric conditions.",
+      "connection": "The verse uses the expression rukaman, commonly translated as a mass or piled-up formation.",
+      "limitations": "The precise meteorological meaning should not be assumed from a modern translation alone.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate the Arabic term and historical explanations.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds can form extensive layered structures or vertically developed masses, depending on atmospheric conditions.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse uses the expression rukaman, commonly translated as a mass or piled-up formation.",
+        "interpretive_limit": "The precise meteorological meaning should not be assumed from a modern translation alone.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-004",
+      "title": "Rain emerging from clouds",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Precipitation",
+      "scientific_finding": "Rain develops when cloud droplets grow large enough to fall through the atmosphere, through processes including collision and cloud droplets joining together (coalescence) and ice-crystal growth.",
+      "connection": "The verse describes rain emerging from within the cloud formation.",
+      "limitations": "It does not explain the microscopic processes that cause precipitation.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study cloud microphysics.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Rain develops when cloud droplets grow large enough to fall through the atmosphere, through processes including collision and cloud droplets joining together (coalescence) and ice-crystal growth.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes rain emerging from within the cloud formation.",
+        "interpretive_limit": "It does not explain the microscopic processes that cause precipitation.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-005",
+      "title": "Rain-bearing clouds",
+      "quran_reference": [
+        "7:57",
+        "30:48"
+      ],
+      "scientific_topic": "Cloud moisture and rainfall",
+      "scientific_finding": "Clouds contain liquid droplets, ice crystals or both. Some cloud systems produce precipitation when particles grow sufficiently large.",
+      "connection": "The verses describe clouds being carried and followed by rainfall.",
+      "limitations": "Not every cloud produces rain, and the passages do not classify cloud types.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare cloud types and precipitation conditions.",
+      "quranic_evidence": {
+        "references": [
+          "7:57",
+          "30:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/57",
+          "https://quran.com/30/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds contain liquid droplets, ice crystals or both. Some cloud systems produce precipitation when particles grow sufficiently large.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe clouds being carried and followed by rainfall.",
+        "interpretive_limit": "Not every cloud produces rain, and the passages do not classify cloud types.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-006",
+      "title": "Rain sent down in measured amounts",
+      "quran_reference": [
+        "23:18",
+        "43:11"
+      ],
+      "scientific_topic": "Precipitation and water distribution",
+      "scientific_finding": "Rainfall varies by region, season and atmospheric conditions, and contributes to Earth's water distribution.",
+      "connection": "The verses describe water being sent down in a measured or determined amount.",
+      "limitations": "Do not assume that the word measured refers to modern rainfall calculations or a fixed global quantity.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; examine the Arabic expression and tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "23:18",
+          "43:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/23/18",
+          "https://quran.com/43/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall varies by region, season and atmospheric conditions, and contributes to Earth's water distribution.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water being sent down in a measured or determined amount.",
+        "interpretive_limit": "Do not assume that the word measured refers to modern rainfall calculations or a fixed global quantity.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-007",
+      "title": "Rain as a source of Earth's renewal",
+      "quran_reference": [
+        "7:57",
+        "16:65"
+      ],
+      "scientific_topic": "Rainfall and ecological recovery",
+      "scientific_finding": "Rainfall can restore soil moisture and enable vegetation to grow after dry periods.",
+      "connection": "The verses describe rainfall bringing life to land that had become dry.",
+      "limitations": "Ecological recovery depends on soil, temperature, seeds and the severity of drought.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate drought ecology.",
+      "quranic_evidence": {
+        "references": [
+          "7:57",
+          "16:65"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/57",
+          "https://quran.com/16/65"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall can restore soil moisture and enable vegetation to grow after dry periods.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe rainfall bringing life to land that had become dry.",
+        "interpretive_limit": "Ecological recovery depends on soil, temperature, seeds and the severity of drought.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-008",
+      "title": "Rainfall and vegetation",
+      "quran_reference": [
+        "2:22",
+        "6:99"
+      ],
+      "scientific_topic": "Water availability and plant growth",
+      "scientific_finding": "Water is essential for photosynthesis, nutrient transport and plant development.",
+      "connection": "The verses connect rain with the growth of plants and produce.",
+      "limitations": "Rain alone does not determine plant growth; sunlight, nutrients and temperature also matter.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use plant physiology sources.",
+      "quranic_evidence": {
+        "references": [
+          "2:22",
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/22",
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is essential for photosynthesis, nutrient transport and plant development.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses connect rain with the growth of plants and produce.",
+        "interpretive_limit": "Rain alone does not determine plant growth; sunlight, nutrients and temperature also matter.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-009",
+      "title": "Winds as a precursor to rainfall",
+      "quran_reference": [
+        "7:57",
+        "30:48"
+      ],
+      "scientific_topic": "Moisture transport",
+      "scientific_finding": "Winds transport water vapour and moisture from oceans and other sources into regions where precipitation may occur.",
+      "connection": "The verses describe winds preceding the arrival or movement of rain-bearing clouds.",
+      "limitations": "Not every wind brings rain; the source and atmospheric conditions determine its moisture content.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine moisture transport and regional weather systems.",
+      "quranic_evidence": {
+        "references": [
+          "7:57",
+          "30:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/57",
+          "https://quran.com/30/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Winds transport water vapour and moisture from oceans and other sources into regions where precipitation may occur.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe winds preceding the arrival or movement of rain-bearing clouds.",
+        "interpretive_limit": "Not every wind brings rain; the source and atmospheric conditions determine its moisture content.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-010",
+      "title": "Winds described as fertilizing",
+      "quran_reference": [
+        "15:22"
+      ],
+      "scientific_topic": "Wind pollination and atmospheric transport",
+      "scientific_finding": "Wind transports pollen in many plant species and also moves clouds, moisture and atmospheric particles.",
+      "connection": "The verse describes winds as lawaqih, a term commonly translated in relation to fertilizing or impregnating.",
+      "limitations": "Classical explanations of the term should be examined. It should not be claimed that the verse exclusively describes modern plant pollination or cloud processes.",
+      "evidence_grade": "C",
+      "research_status": "High-priority linguistic and tafsir investigation.",
+      "quranic_evidence": {
+        "references": [
+          "15:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/15/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The expression commonly rendered as winds that fertilize requires linguistic and classical tafsir review. Possible interpretations should not be collapsed into the modern technical concept of wind pollination alone."
+      },
+      "scientific_evidence": {
+        "summary": "Wind transports pollen in many plant species and also moves clouds, moisture and atmospheric particles.",
+        "source_ids": [
+          "NOAA_JETSTREAM",
+          "NOAA_CLOUDS"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes winds as lawaqih, a term commonly translated in relation to fertilizing or impregnating.",
+        "interpretive_limit": "Classical explanations of the term should be examined. It should not be claimed that the verse exclusively describes modern plant pollination or cloud processes.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-011",
+      "title": "Winds carrying clouds",
+      "quran_reference": [
+        "30:48",
+        "35:9"
+      ],
+      "scientific_topic": "Cloud transport",
+      "scientific_finding": "Atmospheric winds carry clouds and influence their development, movement and dissipation.",
+      "connection": "The verses explicitly associate winds with the movement of clouds.",
+      "limitations": "The passages do not explain jet streams, pressure systems or upper-atmosphere circulation.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate atmospheric wind systems.",
+      "quranic_evidence": {
+        "references": [
+          "30:48",
+          "35:9"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/48",
+          "https://quran.com/35/9"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Atmospheric winds carry clouds and influence their development, movement and dissipation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses explicitly associate winds with the movement of clouds.",
+        "interpretive_limit": "The passages do not explain jet streams, pressure systems or upper-atmosphere circulation.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-012",
+      "title": "Winds as a sign of divine provision",
+      "quran_reference": [
+        "30:46",
+        "45:5"
+      ],
+      "scientific_topic": "Atmospheric processes and climate",
+      "scientific_finding": "Wind affects temperature, humidity, evaporation, cloud movement and the distribution of precipitation.",
+      "connection": "The verses describe winds among the signs and provisions that benefit humanity.",
+      "limitations": "This is a broad reflection rather than a specific meteorological prediction.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; suitable for an educational entry.",
+      "quranic_evidence": {
+        "references": [
+          "30:46",
+          "45:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/46",
+          "https://quran.com/45/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Wind affects temperature, humidity, evaporation, cloud movement and the distribution of precipitation.",
+        "source_ids": [
+          "NOAA_JETSTREAM",
+          "NOAA_CLOUDS"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe winds among the signs and provisions that benefit humanity.",
+        "interpretive_limit": "This is a broad reflection rather than a specific meteorological prediction.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-013",
+      "title": "Thunder as an atmospheric phenomenon",
+      "quran_reference": [
+        "13:13",
+        "2:19"
+      ],
+      "scientific_topic": "Thunder",
+      "scientific_finding": "Thunder is the sound produced by rapid heating and expansion of air along a lightning channel.",
+      "connection": "The verses mention thunder as part of the signs of nature.",
+      "limitations": "The verses do not give the physical mechanism that produces thunder.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; distinguish the Quranic description from modern physics.",
+      "quranic_evidence": {
+        "references": [
+          "13:13",
+          "2:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/13",
+          "https://quran.com/2/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Thunder is the sound produced by rapid heating and expansion of air along a lightning channel.",
+        "source_ids": [
+          "NOAA_LIGHTNING",
+          "NOAA_THUNDERSTORM_LIFE",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention thunder as part of the signs of nature.",
+        "interpretive_limit": "The verses do not give the physical mechanism that produces thunder.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-014",
+      "title": "Lightning associated with storms",
+      "quran_reference": [
+        "13:12",
+        "24:43"
+      ],
+      "scientific_topic": "Lightning",
+      "scientific_finding": "Lightning is an electrical discharge that occurs within clouds, between clouds or between clouds and the ground.",
+      "connection": "The verses mention lightning in connection with clouds, fear and hope, or the power of its flash.",
+      "limitations": "The passages do not explain electrical charge separation or discharge mechanisms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study atmospheric electricity.",
+      "quranic_evidence": {
+        "references": [
+          "13:12",
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/12",
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Lightning is an electrical discharge that occurs within clouds, between clouds or between clouds and the ground.",
+        "source_ids": [
+          "NOAA_LIGHTNING",
+          "NOAA_THUNDERSTORM_LIFE",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention lightning in connection with clouds, fear and hope, or the power of its flash.",
+        "interpretive_limit": "The passages do not explain electrical charge separation or discharge mechanisms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-015",
+      "title": "Lightning flashes that can affect eyesight",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Brightness of lightning",
+      "scientific_finding": "Lightning can produce an extremely intense flash of light that may temporarily impair vision or cause visual discomfort.",
+      "connection": "The verse describes the flash of lightning as nearly taking away eyesight.",
+      "limitations": "The wording is expressive and should not be treated as a medical description of lightning-induced eye injury.",
+      "evidence_grade": "C",
+      "research_status": "Researchable; examine the Arabic expression and eye-safety evidence.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Lightning can produce an extremely intense flash of light that may temporarily impair vision or cause visual discomfort.",
+        "source_ids": [
+          "NOAA_LIGHTNING",
+          "NOAA_THUNDERSTORM_LIFE",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the flash of lightning as nearly taking away eyesight.",
+        "interpretive_limit": "The wording is expressive and should not be treated as a medical description of lightning-induced eye injury.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-016",
+      "title": "Thunder and lightning occurring together",
+      "quran_reference": [
+        "2:19",
+        "13:12-13"
+      ],
+      "scientific_topic": "Thunderstorm electricity and sound",
+      "scientific_finding": "Thunder and lightning are produced by the same electrical discharge, although light reaches an observer before sound.",
+      "connection": "The verses refer to thunder and lightning in descriptions of storm conditions.",
+      "limitations": "The passages do not explain the time difference between seeing lightning and hearing thunder.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study the physics of sound and light.",
+      "quranic_evidence": {
+        "references": [
+          "2:19",
+          "13:12-13"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/19",
+          "https://quran.com/13/12-13"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Thunder and lightning are produced by the same electrical discharge, although light reaches an observer before sound.",
+        "source_ids": [
+          "NOAA_LIGHTNING",
+          "NOAA_THUNDERSTORM_LIFE",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to thunder and lightning in descriptions of storm conditions.",
+        "interpretive_limit": "The passages do not explain the time difference between seeing lightning and hearing thunder.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-017",
+      "title": "Hail falling from storm clouds",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Hail formation",
+      "scientific_finding": "Hail forms in strong thunderstorm updrafts when ice particles are carried through supercooled water droplets and grow in layers.",
+      "connection": "The verse mentions hail within cloud formations described with mountain-like imagery.",
+      "limitations": "The verse does not specify the modern microphysical process of hail growth.",
+      "evidence_grade": "B",
+      "research_status": "High-priority research candidate; study hail formation and the word jibal.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Hail forms in strong thunderstorm updrafts when ice particles are carried through supercooled water droplets and grow in layers.",
+        "source_ids": [
+          "NOAA_CLOUD_TYPES",
+          "NOAA_WEATHER_PHENOMENA",
+          "NOAA_THUNDERSTORM_LIFE"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions hail within cloud formations described with mountain-like imagery.",
+        "interpretive_limit": "The verse does not specify the modern microphysical process of hail growth.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-018",
+      "title": "Large hail-bearing cloud formations",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Severe thunderstorm clouds",
+      "scientific_finding": "Some cumulonimbus clouds grow to great vertical heights and can produce hail, heavy rainfall and lightning.",
+      "connection": "The verse describes mountain-like formations associated with hail.",
+      "limitations": "Whether the imagery refers to cloud shape, hail-bearing masses or another meaning must be investigated through tafsir and Arabic usage.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; avoid claiming a precise modern cloud classification.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Some cumulonimbus clouds grow to great vertical heights and can produce hail, heavy rainfall and lightning.",
+        "source_ids": [
+          "NOAA_CLOUD_TYPES",
+          "NOAA_WEATHER_PHENOMENA",
+          "NOAA_THUNDERSTORM_LIFE"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes mountain-like formations associated with hail.",
+        "interpretive_limit": "Whether the imagery refers to cloud shape, hail-bearing masses or another meaning must be investigated through tafsir and Arabic usage.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-019",
+      "title": "Storms as a source of fear",
+      "quran_reference": [
+        "2:19",
+        "10:22"
+      ],
+      "scientific_topic": "Severe weather hazards",
+      "scientific_finding": "Thunderstorms can involve lightning, intense rain, strong winds and flooding, creating risks to people and property.",
+      "connection": "The verses use storm conditions to illustrate fear and human vulnerability.",
+      "limitations": "These are illustrative descriptions rather than modern weather-hazard classifications.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the verses in their full context.",
+      "quranic_evidence": {
+        "references": [
+          "2:19",
+          "10:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/19",
+          "https://quran.com/10/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Thunderstorms can involve lightning, intense rain, strong winds and flooding, creating risks to people and property.",
+        "source_ids": [
+          "NOAA_THUNDERSTORM_LIFE",
+          "NOAA_JETSTREAM",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses use storm conditions to illustrate fear and human vulnerability.",
+        "interpretive_limit": "These are illustrative descriptions rather than modern weather-hazard classifications.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-020",
+      "title": "Strong winds and their destructive potential",
+      "quran_reference": [
+        "41:16",
+        "54:19"
+      ],
+      "scientific_topic": "Severe wind events",
+      "scientific_finding": "Powerful winds can damage buildings, uproot trees and carry dust and debris.",
+      "connection": "The verses describe destructive winds in accounts of earlier communities.",
+      "limitations": "The passages concern historical and theological narratives, not a meteorological classification of windstorms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study wind hazards and narrative context.",
+      "quranic_evidence": {
+        "references": [
+          "41:16",
+          "54:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/41/16",
+          "https://quran.com/54/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Powerful winds can damage buildings, uproot trees and carry dust and debris.",
+        "source_ids": [
+          "NOAA_THUNDERSTORM_LIFE",
+          "NOAA_JETSTREAM",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe destructive winds in accounts of earlier communities.",
+        "interpretive_limit": "The passages concern historical and theological narratives, not a meteorological classification of windstorms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-021",
+      "title": "A violent wind lasting several days",
+      "quran_reference": [
+        "69:6-7"
+      ],
+      "scientific_topic": "Prolonged severe wind events",
+      "scientific_finding": "Severe wind systems can persist for extended periods and cause widespread damage.",
+      "connection": "The verses describe a destructive wind sent against the people of 'Ad over a stated period.",
+      "limitations": "The narrative should not be equated with a specific modern storm type without evidence.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate historical and exegetical context.",
+      "quranic_evidence": {
+        "references": [
+          "69:6-7"
+        ],
+        "quran_com_links": [
+          "https://quran.com/69/6-7"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Severe wind systems can persist for extended periods and cause widespread damage.",
+        "source_ids": [
+          "NOAA_THUNDERSTORM_LIFE",
+          "NOAA_JETSTREAM",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe a destructive wind sent against the people of 'Ad over a stated period.",
+        "interpretive_limit": "The narrative should not be equated with a specific modern storm type without evidence.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-022",
+      "title": "Wind sent against earlier communities",
+      "quran_reference": [
+        "51:41-42",
+        "54:19"
+      ],
+      "scientific_topic": "Destructive wind events",
+      "scientific_finding": "Extreme wind events can cause severe erosion and damage to human settlements and ecosystems.",
+      "connection": "The verses describe destructive winds in accounts of earlier peoples.",
+      "limitations": "A particular geological or meteorological event cannot be identified from the verses alone.",
+      "evidence_grade": "D",
+      "research_status": "Historical and interpretive; avoid speculative event identification.",
+      "quranic_evidence": {
+        "references": [
+          "51:41-42",
+          "54:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/51/41-42",
+          "https://quran.com/54/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Extreme wind events can cause severe erosion and damage to human settlements and ecosystems.",
+        "source_ids": [
+          "NOAA_THUNDERSTORM_LIFE",
+          "NOAA_JETSTREAM",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe destructive winds in accounts of earlier peoples.",
+        "interpretive_limit": "A particular geological or meteorological event cannot be identified from the verses alone.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-023",
+      "title": "Winds bringing beneficial rain",
+      "quran_reference": [
+        "7:57",
+        "30:48"
+      ],
+      "scientific_topic": "Moisture transport and precipitation",
+      "scientific_finding": "Winds can carry moist air into regions where rising and cooling air produces clouds and precipitation.",
+      "connection": "The verses describe winds preceding clouds and rainfall.",
+      "limitations": "Wind does not always cause rain; local atmospheric conditions are decisive.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare wind transport with rainfall formation.",
+      "quranic_evidence": {
+        "references": [
+          "7:57",
+          "30:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/57",
+          "https://quran.com/30/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Winds can carry moist air into regions where rising and cooling air produces clouds and precipitation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe winds preceding clouds and rainfall.",
+        "interpretive_limit": "Wind does not always cause rain; local atmospheric conditions are decisive.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-024",
+      "title": "Rain as a mercy",
+      "quran_reference": [
+        "42:28"
+      ],
+      "scientific_topic": "Rainfall and water security",
+      "scientific_finding": "Rain replenishes freshwater resources and supports agriculture and ecosystems.",
+      "connection": "The verse describes rainfall after people have despaired and presents it as a mercy.",
+      "limitations": "This is a theological description of provision, not a technical account of rainfall.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study the social and ecological importance of rainfall.",
+      "quranic_evidence": {
+        "references": [
+          "42:28"
+        ],
+        "quran_com_links": [
+          "https://quran.com/42/28"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rain replenishes freshwater resources and supports agriculture and ecosystems.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes rainfall after people have despaired and presents it as a mercy.",
+        "interpretive_limit": "This is a theological description of provision, not a technical account of rainfall.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-025",
+      "title": "Rain descending from the sky",
+      "quran_reference": [
+        "16:10",
+        "25:48"
+      ],
+      "scientific_topic": "Precipitation",
+      "scientific_finding": "Water evaporates from Earth's surface, enters the atmosphere and returns through precipitation.",
+      "connection": "The verses describe water being sent down from the sky.",
+      "limitations": "They do not explain the full water cycle in modern scientific terminology.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the verses with the hydrological cycle.",
+      "quranic_evidence": {
+        "references": [
+          "16:10",
+          "25:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10",
+          "https://quran.com/25/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water evaporates from Earth's surface, enters the atmosphere and returns through precipitation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water being sent down from the sky.",
+        "interpretive_limit": "They do not explain the full water cycle in modern scientific terminology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-026",
+      "title": "Rain as a purifying source",
+      "quran_reference": [
+        "8:11",
+        "25:48"
+      ],
+      "scientific_topic": "Rainwater and cleansing",
+      "scientific_finding": "Water can remove dust and soluble substances from surfaces, while rain also scavenges some atmospheric particles.",
+      "connection": "The verses describe water sent down for purification or cleansing.",
+      "limitations": "Rainwater is not necessarily microbiologically or chemically safe for drinking.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; distinguish ritual purification from environmental chemistry.",
+      "quranic_evidence": {
+        "references": [
+          "8:11",
+          "25:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/8/11",
+          "https://quran.com/25/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water can remove dust and soluble substances from surfaces, while rain also scavenges some atmospheric particles.",
+        "source_ids": [
+          "NOAA_PRECIPITATION",
+          "NOAA_CLOUD_FORMATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water sent down for purification or cleansing.",
+        "interpretive_limit": "Rainwater is not necessarily microbiologically or chemically safe for drinking.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-027",
+      "title": "Rain and the cleansing of the atmosphere",
+      "quran_reference": [
+        "8:11",
+        "25:48"
+      ],
+      "scientific_topic": "Atmospheric wet deposition",
+      "scientific_finding": "Rain removes some particles and soluble gases from the atmosphere through processes known as wet deposition.",
+      "connection": "The Quranic references to water and purification can prompt investigation of rain's atmospheric cleansing effects.",
+      "limitations": "The verses do not explicitly describe wet deposition or air pollution removal.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; do not claim this mechanism is directly stated.",
+      "quranic_evidence": {
+        "references": [
+          "8:11",
+          "25:48"
+        ],
+        "quran_com_links": [
+          "https://quran.com/8/11",
+          "https://quran.com/25/48"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rain removes some particles and soluble gases from the atmosphere through processes known as wet deposition.",
+        "source_ids": [
+          "NOAA_PRECIPITATION",
+          "NOAA_CLOUD_FORMATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The Quranic references to water and purification can prompt investigation of rain's atmospheric cleansing effects.",
+        "interpretive_limit": "The verses do not explicitly describe wet deposition or air pollution removal.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-028",
+      "title": "Rainfall and the revival of dry land",
+      "quran_reference": [
+        "16:65",
+        "22:5"
+      ],
+      "scientific_topic": "Soil moisture and plant recovery",
+      "scientific_finding": "Rainfall increases soil moisture and can enable dormant seeds and plants to resume growth.",
+      "connection": "The verses describe land becoming alive after rainfall.",
+      "limitations": "The biological response varies across plant species and ecosystems.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine plant dormancy and soil moisture.",
+      "quranic_evidence": {
+        "references": [
+          "16:65",
+          "22:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/65",
+          "https://quran.com/22/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall increases soil moisture and can enable dormant seeds and plants to resume growth.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe land becoming alive after rainfall.",
+        "interpretive_limit": "The biological response varies across plant species and ecosystems.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-029",
+      "title": "Rainfall and agricultural production",
+      "quran_reference": [
+        "2:22",
+        "16:10-11"
+      ],
+      "scientific_topic": "Rain-fed agriculture",
+      "scientific_finding": "Rainfall supplies water for crops and influences agricultural productivity.",
+      "connection": "The verses associate water from the sky with vegetation and agricultural produce.",
+      "limitations": "Excessive or insufficient rainfall can both harm agriculture.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate rainfall variability and crop yields.",
+      "quranic_evidence": {
+        "references": [
+          "2:22",
+          "16:10-11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/22",
+          "https://quran.com/16/10-11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall supplies water for crops and influences agricultural productivity.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses associate water from the sky with vegetation and agricultural produce.",
+        "interpretive_limit": "Excessive or insufficient rainfall can both harm agriculture.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-030",
+      "title": "Rainfall and seasonal provision",
+      "quran_reference": [
+        "28:73",
+        "45:5"
+      ],
+      "scientific_topic": "Seasonal weather patterns",
+      "scientific_finding": "Seasonal changes in atmospheric circulation influence rainfall patterns and the availability of water for ecosystems.",
+      "connection": "The verses mention night, day and provision from the natural environment.",
+      "limitations": "The passages do not describe monsoons or modern climate classifications.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate the exact context before making a climate connection.",
+      "quranic_evidence": {
+        "references": [
+          "28:73",
+          "45:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/28/73",
+          "https://quran.com/45/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Seasonal changes in atmospheric circulation influence rainfall patterns and the availability of water for ecosystems.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention night, day and provision from the natural environment.",
+        "interpretive_limit": "The passages do not describe monsoons or modern climate classifications.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-031",
+      "title": "Clouds and the water cycle",
+      "quran_reference": [
+        "30:48",
+        "35:9"
+      ],
+      "scientific_topic": "Hydrological cycle",
+      "scientific_finding": "Clouds are part of the water cycle, transporting atmospheric moisture and contributing to precipitation.",
+      "connection": "The verses describe winds moving clouds and clouds being followed by rain.",
+      "limitations": "They do not provide a complete account of evaporation, condensation, runoff and groundwater recharge.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use an authoritative hydrology reference.",
+      "quranic_evidence": {
+        "references": [
+          "30:48",
+          "35:9"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/48",
+          "https://quran.com/35/9"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds are part of the water cycle, transporting atmospheric moisture and contributing to precipitation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe winds moving clouds and clouds being followed by rain.",
+        "interpretive_limit": "They do not provide a complete account of evaporation, condensation, runoff and groundwater recharge.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-032",
+      "title": "Water vapour and atmospheric moisture",
+      "quran_reference": [
+        "30:48",
+        "56:68-70"
+      ],
+      "scientific_topic": "Atmospheric humidity",
+      "scientific_finding": "Water exists in the atmosphere as invisible water vapour, which contributes to cloud formation and precipitation.",
+      "connection": "The verses discuss rain, clouds and water, which can be studied in relation to atmospheric moisture.",
+      "limitations": "These passages do not explicitly identify water vapour or humidity.",
+      "evidence_grade": "D",
+      "research_status": "Broad educational connection only; not a specific Quranic scientific claim.",
+      "quranic_evidence": {
+        "references": [
+          "30:48",
+          "56:68-70"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/48",
+          "https://quran.com/56/68-70"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water exists in the atmosphere as invisible water vapour, which contributes to cloud formation and precipitation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses discuss rain, clouds and water, which can be studied in relation to atmospheric moisture.",
+        "interpretive_limit": "These passages do not explicitly identify water vapour or humidity.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-033",
+      "title": "Clouds containing water droplets and ice",
+      "quran_reference": [
+        "24:43"
+      ],
+      "scientific_topic": "Cloud microphysics",
+      "scientific_finding": "Clouds can contain supercooled liquid droplets, ice crystals or a mixture of liquid and frozen particles.",
+      "connection": "The verse discusses clouds and hail, offering a starting point for studying the different physical states of water in storms.",
+      "limitations": "The verse does not describe supercooling or the internal microphysics of clouds.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; do not attribute modern terminology to the verse.",
+      "quranic_evidence": {
+        "references": [
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds can contain supercooled liquid droplets, ice crystals or a mixture of liquid and frozen particles.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse discusses clouds and hail, offering a starting point for studying the different physical states of water in storms.",
+        "interpretive_limit": "The verse does not describe supercooling or the internal microphysics of clouds.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-034",
+      "title": "Clouds of different forms",
+      "quran_reference": [
+        "24:43",
+        "52:44"
+      ],
+      "scientific_topic": "Cloud morphology",
+      "scientific_finding": "Clouds vary in shape, altitude, thickness and vertical development according to atmospheric conditions.",
+      "connection": "The verses use descriptions of cloud masses and formations.",
+      "limitations": "The passages do not establish a modern cloud taxonomy.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; compare Arabic descriptions with cloud classification.",
+      "quranic_evidence": {
+        "references": [
+          "24:43",
+          "52:44"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43",
+          "https://quran.com/52/44"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds vary in shape, altitude, thickness and vertical development according to atmospheric conditions.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses use descriptions of cloud masses and formations.",
+        "interpretive_limit": "The passages do not establish a modern cloud taxonomy.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-035",
+      "title": "The sky as a protected canopy",
+      "quran_reference": [
+        "21:32"
+      ],
+      "scientific_topic": "Atmospheric protection",
+      "scientific_finding": "Earth's atmosphere helps regulate temperature and protects life by absorbing or reducing exposure to some harmful radiation and small incoming objects.",
+      "connection": "The verse describes the sky as a protected or guarded ceiling.",
+      "limitations": "The Arabic wording and classical tafsir need study. The verse should not be reduced to a modern claim about the ozone layer or magnetosphere.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; examine the meaning of mahfuz and the context.",
+      "quranic_evidence": {
+        "references": [
+          "21:32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/21/32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The 'protected roof/canopy' expression requires tafsir and contextual analysis. Any comparison with atmospheric protection should specify which mechanisms are meant and avoid implying the atmosphere blocks all hazards."
+      },
+      "scientific_evidence": {
+        "summary": "Earth's atmosphere helps regulate temperature and protects life by absorbing or reducing exposure to some harmful radiation and small incoming objects.",
+        "source_ids": [
+          "NASA_ATMOSPHERE",
+          "NASA_OZONE_UV",
+          "NASA_ENERGY_BUDGET"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the sky as a protected or guarded ceiling.",
+        "interpretive_limit": "The Arabic wording and classical tafsir need study. The verse should not be reduced to a modern claim about the ozone layer or magnetosphere.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-036",
+      "title": "The sky as a raised structure",
+      "quran_reference": [
+        "13:2",
+        "55:7"
+      ],
+      "scientific_topic": "Earth's atmosphere and the sky",
+      "scientific_finding": "Earth is surrounded by an atmosphere extending through layers with different temperature and pressure characteristics.",
+      "connection": "The verses describe the sky being raised or elevated.",
+      "limitations": "The passages are not technical descriptions of atmospheric layers or their physical boundaries.",
+      "evidence_grade": "D",
+      "research_status": "Broad interpretive connection; not a strong scientific claim.",
+      "quranic_evidence": {
+        "references": [
+          "13:2",
+          "55:7"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/2",
+          "https://quran.com/55/7"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth is surrounded by an atmosphere extending through layers with different temperature and pressure characteristics.",
+        "source_ids": [
+          "NASA_ATMOSPHERE",
+          "NASA_OZONE_UV",
+          "NASA_ENERGY_BUDGET"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe the sky being raised or elevated.",
+        "interpretive_limit": "The passages are not technical descriptions of atmospheric layers or their physical boundaries.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-037",
+      "title": "The sky and atmospheric order",
+      "quran_reference": [
+        "67:3-4"
+      ],
+      "scientific_topic": "Atmospheric systems and physical regularities",
+      "scientific_finding": "Atmospheric processes follow physical laws involving pressure, temperature, radiation and fluid motion.",
+      "connection": "The verses invite reflection on order and the absence of flaw in creation.",
+      "limitations": "The passage is a broad theological reflection, not a description of atmospheric physics.",
+      "evidence_grade": "D",
+      "research_status": "Theological reflection; avoid presenting it as a meteorological discovery.",
+      "quranic_evidence": {
+        "references": [
+          "67:3-4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/67/3-4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Atmospheric processes follow physical laws involving pressure, temperature, radiation and fluid motion.",
+        "source_ids": [
+          "NASA_ATMOSPHERE",
+          "NASA_OZONE_UV",
+          "NASA_ENERGY_BUDGET"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on order and the absence of flaw in creation.",
+        "interpretive_limit": "The passage is a broad theological reflection, not a description of atmospheric physics.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-038",
+      "title": "Clouds and shade",
+      "quran_reference": [
+        "2:57",
+        "7:160"
+      ],
+      "scientific_topic": "Cloud cover and solar radiation",
+      "scientific_finding": "Clouds can reduce incoming sunlight at Earth's surface and provide shade, while their effects on heat vary with cloud type and altitude.",
+      "connection": "The verses describe cloud cover providing shade to a people.",
+      "limitations": "The passage is historical and theological in context, not an explanation of how heat and light move through the air.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine cloud radiative effects and narrative context.",
+      "quranic_evidence": {
+        "references": [
+          "2:57",
+          "7:160"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/57",
+          "https://quran.com/7/160"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds can reduce incoming sunlight at Earth's surface and provide shade, while their effects on heat vary with cloud type and altitude.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe cloud cover providing shade to a people.",
+        "interpretive_limit": "The passage is historical and theological in context, not an explanation of how heat and light move through the air.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-039",
+      "title": "Clouds and temperature regulation",
+      "quran_reference": [
+        "2:57",
+        "7:160"
+      ],
+      "scientific_topic": "Clouds and Earth's energy balance",
+      "scientific_finding": "Clouds influence Earth's energy balance by reflecting some sunlight and absorbing and re-emitting infrared radiation.",
+      "connection": "The Quranic references to clouds and shade can introduce study of their effects on surface conditions.",
+      "limitations": "The verses do not describe the greenhouse effect or quantify how clouds warm or cool the Earth.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; build the scientific explanation independently.",
+      "quranic_evidence": {
+        "references": [
+          "2:57",
+          "7:160"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/57",
+          "https://quran.com/7/160"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clouds influence Earth's energy balance by reflecting some sunlight and absorbing and re-emitting infrared radiation.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The Quranic references to clouds and shade can introduce study of their effects on surface conditions.",
+        "interpretive_limit": "The verses do not describe the greenhouse effect or quantify how clouds warm or cool the Earth.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-040",
+      "title": "Heat and the natural environment",
+      "quran_reference": [
+        "16:81"
+      ],
+      "scientific_topic": "Environmental heat and shelter",
+      "scientific_finding": "Shade and shelter reduce direct exposure to solar radiation and can lower heat stress.",
+      "connection": "The verse refers to shelters and protection from heat.",
+      "limitations": "It is a general reference to human protection, not a technical description of heat transfer.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate heat exposure and thermal comfort.",
+      "quranic_evidence": {
+        "references": [
+          "16:81"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/81"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Shade and shelter reduce direct exposure to solar radiation and can lower heat stress.",
+        "source_ids": [
+          "NASA_ATMOSPHERE",
+          "NASA_ENERGY_BUDGET"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to shelters and protection from heat.",
+        "interpretive_limit": "It is a general reference to human protection, not a technical description of heat transfer.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-041",
+      "title": "Cold and environmental conditions",
+      "quran_reference": [
+        "16:81"
+      ],
+      "scientific_topic": "Thermal protection",
+      "scientific_finding": "Clothing and shelter help reduce heat loss and protect people from cold environments.",
+      "connection": "The verse describes clothing and protection from environmental conditions.",
+      "limitations": "The passage does not discuss thermoregulation or insulation science in modern terms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; distinguish the verse's practical context from scientific explanation.",
+      "quranic_evidence": {
+        "references": [
+          "16:81"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/81"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clothing and shelter help reduce heat loss and protect people from cold environments.",
+        "source_ids": [
+          "NASA_ATMOSPHERE",
+          "NASA_ENERGY_BUDGET"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes clothing and protection from environmental conditions.",
+        "interpretive_limit": "The passage does not discuss thermoregulation or insulation science in modern terms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-042",
+      "title": "Clouds and the movement of atmospheric water",
+      "quran_reference": [
+        "24:43",
+        "35:9"
+      ],
+      "scientific_topic": "Atmospheric water transport",
+      "scientific_finding": "Atmospheric circulation transports moisture over short and long distances, affecting regional rainfall.",
+      "connection": "The verses describe wind-driven cloud movement and rainfall.",
+      "limitations": "They do not identify global circulation cells or quantify moisture transport.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate atmospheric moisture transport.",
+      "quranic_evidence": {
+        "references": [
+          "24:43",
+          "35:9"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/43",
+          "https://quran.com/35/9"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Atmospheric circulation transports moisture over short and long distances, affecting regional rainfall.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe wind-driven cloud movement and rainfall.",
+        "interpretive_limit": "They do not identify global circulation cells or quantify moisture transport.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-043",
+      "title": "Rainfall and the replenishment of water resources",
+      "quran_reference": [
+        "23:18",
+        "39:21"
+      ],
+      "scientific_topic": "Water resource replenishment",
+      "scientific_finding": "Precipitation replenishes rivers, lakes, soil moisture and groundwater, though the amount reaching each reservoir varies.",
+      "connection": "The verses describe water being sent down and made to flow or remain in the Earth.",
+      "limitations": "The verses do not provide a modern modern water-cycle computer model or reservoir measurements.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study precipitation, runoff and infiltration.",
+      "quranic_evidence": {
+        "references": [
+          "23:18",
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/23/18",
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Precipitation replenishes rivers, lakes, soil moisture and groundwater, though the amount reaching each reservoir varies.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water being sent down and made to flow or remain in the Earth.",
+        "interpretive_limit": "The verses do not provide a modern modern water-cycle computer model or reservoir measurements.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-044",
+      "title": "Rainfall and the formation of springs",
+      "quran_reference": [
+        "39:21"
+      ],
+      "scientific_topic": "Groundwater recharge and spring discharge",
+      "scientific_finding": "Some rainwater infiltrates the ground, replenishes groundwater and may later emerge through springs.",
+      "connection": "The verse describes water being sent down and made to flow as springs in the Earth.",
+      "limitations": "Not all springs are directly replenished by recent rainfall; groundwater systems differ.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate groundwater recharge pathways.",
+      "quranic_evidence": {
+        "references": [
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Some rainwater infiltrates the ground, replenishes groundwater and may later emerge through springs.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water being sent down and made to flow as springs in the Earth.",
+        "interpretive_limit": "Not all springs are directly replenished by recent rainfall; groundwater systems differ.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-045",
+      "title": "Rainfall and the diversity of crops",
+      "quran_reference": [
+        "16:11",
+        "20:53"
+      ],
+      "scientific_topic": "Rain-fed plant diversity",
+      "scientific_finding": "Different plant species have different water requirements and adaptations to rainfall patterns.",
+      "connection": "The verses connect rain and water with the growth of different plants and crops.",
+      "limitations": "Plant diversity depends on genetic, climatic, ecological and soil factors, not rainfall alone.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate plant adaptations to water availability.",
+      "quranic_evidence": {
+        "references": [
+          "16:11",
+          "20:53"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/11",
+          "https://quran.com/20/53"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Different plant species have different water requirements and adaptations to rainfall patterns.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses connect rain and water with the growth of different plants and crops.",
+        "interpretive_limit": "Plant diversity depends on genetic, climatic, ecological and soil factors, not rainfall alone.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-046",
+      "title": "Rainfall as a source of drinking water",
+      "quran_reference": [
+        "16:10",
+        "56:68-70"
+      ],
+      "scientific_topic": "Freshwater and drinking water",
+      "scientific_finding": "Rainfall replenishes freshwater resources and can be collected for human use when appropriate safety measures are applied.",
+      "connection": "The verses invite reflection on water provided for drinking.",
+      "limitations": "Rainwater quality varies and can be affected by airborne and collection-surface contaminants.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; consult public-health and water-quality sources.",
+      "quranic_evidence": {
+        "references": [
+          "16:10",
+          "56:68-70"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10",
+          "https://quran.com/56/68-70"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall replenishes freshwater resources and can be collected for human use when appropriate safety measures are applied.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on water provided for drinking.",
+        "interpretive_limit": "Rainwater quality varies and can be affected by airborne and collection-surface contaminants.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-047",
+      "title": "Weather as a sign of changing natural conditions",
+      "quran_reference": [
+        "30:48",
+        "45:5"
+      ],
+      "scientific_topic": "Weather variability",
+      "scientific_finding": "Weather changes through interacting atmospheric processes involving moisture, temperature, pressure and wind.",
+      "connection": "The verses invite reflection on winds, clouds, rainfall and changing natural conditions.",
+      "limitations": "This is a broad thematic connection, not a prediction of modern weather science.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; suitable for an introductory entry.",
+      "quranic_evidence": {
+        "references": [
+          "30:48",
+          "45:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/48",
+          "https://quran.com/45/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Weather changes through interacting atmospheric processes involving moisture, temperature, pressure and wind.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on winds, clouds, rainfall and changing natural conditions.",
+        "interpretive_limit": "This is a broad thematic connection, not a prediction of modern weather science.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-048",
+      "title": "Rain and human dependence on the atmosphere",
+      "quran_reference": [
+        "56:68-70",
+        "67:30"
+      ],
+      "scientific_topic": "Atmospheric water and human survival",
+      "scientific_finding": "Human societies depend on precipitation for freshwater, agriculture and ecosystem functioning.",
+      "connection": "The verses ask people to reflect on the water they drink and their dependence on its provision.",
+      "limitations": "The passages are theological reflections rather than a scientific account of atmospheric processes.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate human dependence on rainfall.",
+      "quranic_evidence": {
+        "references": [
+          "56:68-70",
+          "67:30"
+        ],
+        "quran_com_links": [
+          "https://quran.com/56/68-70",
+          "https://quran.com/67/30"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Human societies depend on precipitation for freshwater, agriculture and ecosystem functioning.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses ask people to reflect on the water they drink and their dependence on its provision.",
+        "interpretive_limit": "The passages are theological reflections rather than a scientific account of atmospheric processes.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-049",
+      "title": "Weather hazards and human vulnerability",
+      "quran_reference": [
+        "2:19",
+        "24:43"
+      ],
+      "scientific_topic": "Severe weather risks",
+      "scientific_finding": "Lightning, hail, flooding and strong winds can cause injuries, damage infrastructure and threaten lives.",
+      "connection": "The verses describe dangerous weather phenomena and their potential effects.",
+      "limitations": "The passages do not provide modern risk models, warnings or safety guidance.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use disaster-risk and meteorological sources.",
+      "quranic_evidence": {
+        "references": [
+          "2:19",
+          "24:43"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/19",
+          "https://quran.com/24/43"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The cloud imagery in 24:43 should be read in its full rhetorical and scholarly context. Modern cumulonimbus structure and hail microphysics are not automatically the verse's exclusive intended referents."
+      },
+      "scientific_evidence": {
+        "summary": "Lightning, hail, flooding and strong winds can cause injuries, damage infrastructure and threaten lives.",
+        "source_ids": [
+          "NOAA_THUNDERSTORM_LIFE",
+          "NOAA_JETSTREAM",
+          "NWS_LIGHTNING_SAFETY"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe dangerous weather phenomena and their potential effects.",
+        "interpretive_limit": "The passages do not provide modern risk models, warnings or safety guidance.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "ATM-050",
+      "title": "Weather phenomena as signs for reflection",
+      "quran_reference": [
+        "30:24",
+        "45:5"
+      ],
+      "scientific_topic": "Atmospheric phenomena and natural systems",
+      "scientific_finding": "Rain, lightning, winds and changes in atmospheric conditions are interconnected parts of Earth's weather system.",
+      "connection": "The verses present natural phenomena as signs inviting people to reflect.",
+      "limitations": "A general invitation to reflection should not be represented as a specific scientific prediction.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; suitable as a concluding educational entry.",
+      "quranic_evidence": {
+        "references": [
+          "30:24",
+          "45:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/24",
+          "https://quran.com/45/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a meteorological interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rain, lightning, winds and changes in atmospheric conditions are interconnected parts of Earth's weather system.",
+        "source_ids": [
+          "NOAA_CLOUDS",
+          "NOAA_CLOUD_FORMATION",
+          "NOAA_PRECIPITATION"
+        ],
+        "source_scope_note": "The cited NOAA/NASA sources support the general meteorological or atmospheric science background. They do not independently prove that the verse anticipated the scientific explanation."
+      },
+      "connection_analysis": {
+        "assessment": "The verses present natural phenomena as signs inviting people to reflect.",
+        "interpretive_limit": "A general invitation to reflection should not be represented as a specific scientific prediction.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Avoid presenting modern meteorological terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    }
+  ],
+  "recommended_sources": {
+    "quran_and_language": [
+      {
+        "name": "Quran.com",
+        "url": "https://quran.com/"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Altafsir",
+        "url": "https://www.altafsir.com/"
+      },
+      {
+        "name": "Tanzil",
+        "url": "https://tanzil.net/"
+      }
+    ],
+    "scientific_sources": [
+      {
+        "name": "NOAA JetStream Weather School",
+        "url": "https://www.noaa.gov/jetstream"
+      },
+      {
+        "name": "NOAA How Clouds Form",
+        "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form"
+      },
+      {
+        "name": "NOAA Precipitation",
+        "url": "https://www.noaa.gov/jetstream/atmosphere/precipitation"
+      },
+      {
+        "name": "NOAA Clouds",
+        "url": "https://www.noaa.gov/jetstream/clouds"
+      },
+      {
+        "name": "UCAR Center for Science Education",
+        "url": "https://scied.ucar.edu/"
+      },
+      {
+        "name": "NASA Earth Science",
+        "url": "https://science.nasa.gov/earth-science/"
+      },
+      {
+        "name": "World Meteorological Organization",
+        "url": "https://wmo.int/"
+      }
+    ]
+  },
+  "research_rules": [
+    "Verify every Quran reference, Arabic word and translation before publication.",
+    "Read the complete passage and its surrounding verses.",
+    "Consult classical tafsir before assigning a modern meteorological meaning.",
+    "Distinguish Quranic wording from classical interpretation and modern scientific explanation.",
+    "Do not claim that every cloud produces rain.",
+    "Do not claim that the Quran explicitly explains modern cloud microphysics.",
+    "Do not claim that the word fertilizing in 15:22 has only one scientific interpretation.",
+    "Do not equate mountain-like cloud imagery with a modern cloud classification without linguistic and tafsir evidence.",
+    "Do not claim that every rainstorm has the same formation mechanism.",
+    "Do not invent hadith, authenticity grades, scientific papers, authors or publication details.",
+    "Use authoritative meteorological institutions and peer-reviewed research for specific scientific claims.",
+    "Treat evidence grades as provisional and revise them after detailed research.",
+    "A similarity between a verse and a scientific observation is not automatically a scientific miracle."
+  ],
+  "research_scope": {
+    "purpose": "Source-linked research draft for evaluating the 50 original weather and atmospheric topic candidates; not a declaration that all are scientific miracles.",
+    "method": "Original supplied entries, Quran references, scientific findings, connection text, limitations, and provisional grades are preserved. Institutional sources are linked for scientific background with explicit scope notes.",
+    "grading_note": "Original evidence grades are preserved unchanged and remain provisional; links to general meteorology sources do not justify upgrading a grade.",
+    "interpretive_rule": "Keep Qur'anic wording and context, classical tafsir, modern meteorology, and proposed correspondence distinct. Do not treat a resemblance as proof of a scientific prediction."
+  },
+  "source_catalog": {
+    "NOAA_CLOUDS": {
+      "title": "Clouds",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/clouds",
+      "supports": "Clouds are visible aggregates of tiny liquid water droplets and/or ice crystals; clouds can be transported by winds and affect sunlight and temperature."
+    },
+    "NOAA_CLOUD_FORMATION": {
+      "title": "How Clouds Form",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/clouds/how-clouds-form",
+      "supports": "Cloud condensation nuclei, saturation, cooling of rising air, condensation, and ongoing evaporation/condensation within clouds."
+    },
+    "NOAA_CLOUD_TYPES": {
+      "title": "Ten Basic Clouds",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
+      "supports": "Cloud forms including cumulonimbus; thunderstorm clouds can have great vertical extent and produce precipitation, hail and tornadoes."
+    },
+    "NOAA_PRECIPITATION": {
+      "title": "Precipitation",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/atmosphere/precipitation",
+      "supports": "Moisture transport, lifting, cloud formation, collision-coalescence and ice-crystal precipitation processes."
+    },
+    "NOAA_THUNDERSTORM_LIFE": {
+      "title": "Life Cycle of a Thunderstorm",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/thunderstorms/life-cycle-of-thunderstorm",
+      "supports": "Thunderstorm updrafts, downdrafts, mature-stage hazards, heavy precipitation, hail and damaging winds."
+    },
+    "NOAA_LIGHTNING": {
+      "title": "How Lightning is Created",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/lightning/how-lightning-is-created",
+      "supports": "Charge separation in thunderstorms through collisions among ice particles, graupel and supercooled droplets."
+    },
+    "NWS_LIGHTNING_SAFETY": {
+      "title": "Lightning: What You Need to Know",
+      "publisher": "National Weather Service",
+      "url": "https://www.weather.gov/safety/lightning-tips",
+      "supports": "Lightning hazards and practical safety guidance; thunder indicates nearby lightning risk."
+    },
+    "NOAA_WEATHER_PHENOMENA": {
+      "title": "Types of Weather Phenomena",
+      "publisher": "NOAA National Weather Service JetStream",
+      "url": "https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena",
+      "supports": "Meteorological definitions of precipitation types including rain, hail, snow and ice pellets."
+    },
+    "NASA_ENERGY_BUDGET": {
+      "title": "Climate and Earth's Energy Budget",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/climate-and-earths-energy-budget/",
+      "supports": "Solar energy, clouds, atmospheric absorption/reflection, evaporation, convection and Earth's energy balance."
+    },
+    "NASA_OZONE_UV": {
+      "title": "Ultraviolet Radiation: How It Affects Life on Earth",
+      "publisher": "NASA Earth Observatory",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+      "supports": "Stratospheric ozone absorbs much biologically harmful UV radiation; atmospheric protection is specific, not a complete shield against all hazards."
+    },
+    "NASA_ATMOSPHERE": {
+      "title": "What Is Earth's Atmosphere?",
+      "publisher": "NASA",
+      "url": "https://www.nasa.gov/general/what-is-earths-atmosphere/",
+      "supports": "Atmosphere supplies breathable air, helps regulate temperature and protects life from harmful ultraviolet radiation."
+    },
+    "NOAA_JETSTREAM": {
+      "title": "JetStream: An Online School for Weather",
+      "publisher": "NOAA National Weather Service",
+      "url": "https://www.noaa.gov/jetstream",
+      "supports": "Background resource for atmospheric circulation, winds, thunderstorms, lightning, hail, tropical storms and severe weather."
+    }
+  },
+  "quality_control_summary": {
+    "input_entries": 50,
+    "output_entries": 50,
+    "original_ids_preserved": true,
+    "original_topic_fields_preserved": true,
+    "source_catalog_records": 12,
+    "entries_with_scientific_source_links": 50,
+    "arabic_texts_individually_verified": 0,
+    "translations_individually_verified": 0,
+    "individual_classical_tafsir_reviews_completed": 0,
+    "evidence_grades": "Original provisional grades retained unchanged.",
+    "critical_cautions": [
+      "Clouds consist of liquid droplets and/or ice crystals; not every cloud produces precipitation.",
+      "Cloud formation depends on moisture, nuclei, cooling and saturation; avoid reducing all cloud formation to one mechanism.",
+      "The phrase 'winds that fertilize' in 15:22 has interpretive range and should not be asserted to mean only wind pollination.",
+      "The mountain-like cloud imagery in 24:43 should not automatically be identified with a specific modern cloud type or used as proof of detailed cloud microphysics.",
+      "Lightning is an electrical discharge associated with charge separation in storms; thunder is the sound associated with rapid heating and expansion of air, not the same phenomenon as lightning.",
+      "Hail forms in suitable storm updraft and supercooled-water conditions; not every storm cloud produces hail.",
+      "The atmosphere provides several forms of protection, including UV absorption by stratospheric ozone and thermal regulation, but it is not an absolute shield.",
+      "Clouds can both reflect incoming sunlight and absorb/trap outgoing infrared radiation; their net effect depends on cloud properties and context.",
+      "Rain can remove some aerosols and soluble substances from air, but 'rain as purification' should not be turned into a claim that rain sterilizes or makes all water safe.",
+      "Historical destructive-wind passages should not be treated as a forecast model or as proof that every severe wind event has the same meteorological cause."
+    ],
+    "release_status": "research-enriched draft; requires verse-by-verse Arabic, translation, context and classical tafsir review plus topic-specific meteorological literature validation before public claims."
+  }
+}

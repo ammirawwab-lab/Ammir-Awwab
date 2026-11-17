@@ -1,0 +1,3340 @@
+{
+  "heading": "Animals and Biological Systems",
+  "category_id": "animals_biological_systems",
+  "version": "2.0",
+  "description": "Fifty illustrated topics exploring how animals live, fly, work together in colonies, care for their young, and fit their habitats alongside Qur’anic verses.",
+  "grading_guide": {
+    "A": "Clear, direct match between what the verse describes and what science well understands—still read thoughtfully rather than as a lab textbook.",
+    "B": "Good, helpful connection with observable nature, health, mind, or community life—where context and careful reading matter.",
+    "C": "Open to thoughtful discussion—clear science paired with a broad theme or a verse understood in more than one careful way.",
+    "D": "Faith and spiritual guidance—teaches beliefs, morals, or the afterlife, which belong to faith rather than science experiments."
+  },
+  "entries": [
+    {
+      "id": "ANI-001",
+      "title": "Animals as communities",
+      "quran_reference": [
+        "6:38"
+      ],
+      "scientific_topic": "Animal populations and social organisation",
+      "scientific_finding": "Many animal species form populations or organised social groups with patterns of interaction, reproduction, communication and resource use.",
+      "connection": "The verse describes animals and birds as communities similar to human communities.",
+      "limitations": "The verse is not a technical classification of animal societies. Classical interpretations of umam should be examined.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the Arabic term umam with animal ecology.",
+      "quranic_evidence": {
+        "references": [
+          "6:38"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/38",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse is not a technical classification of animal societies. Classical interpretations of umam should be examined.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many animal species form populations or organised social groups with patterns of interaction, reproduction, communication and resource use.",
+        "explanation": "Many animal species form populations or organised social groups with patterns of interaction, reproduction, communication and resource use.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse is not a technical classification of animal societies. Classical interpretations of umam should be examined."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes animals and birds as communities similar to human communities.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-002",
+      "title": "Animal diversity",
+      "quran_reference": [
+        "24:45"
+      ],
+      "scientific_topic": "Animal biodiversity",
+      "scientific_finding": "Animals exhibit enormous diversity in body structures, reproduction, movement, habitats and feeding strategies.",
+      "connection": "The verse describes living creatures created from water and moving in different ways.",
+      "limitations": "The verse does not provide a modern biological classification of animal groups.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate the meaning of the verse and animal diversity.",
+      "quranic_evidence": {
+        "references": [
+          "24:45"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/24/45",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not provide a modern biological classification of animal groups.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animals exhibit enormous diversity in body structures, reproduction, movement, habitats and feeding strategies.",
+        "explanation": "Animals exhibit enormous diversity in body structures, reproduction, movement, habitats and feeding strategies.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not provide a modern biological classification of animal groups."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes living creatures created from water and moving in different ways.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-003",
+      "title": "Animals created from water",
+      "quran_reference": [
+        "24:45"
+      ],
+      "scientific_topic": "Water and animal biology",
+      "scientific_finding": "Water is essential for animal metabolism, cellular processes, digestion, circulation and temperature regulation.",
+      "connection": "The verse states that Allah created every living creature from water.",
+      "limitations": "The wording is broad and should not be treated as a technical account of the evolutionary origin of animals.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate the Arabic wording and biological role of water.",
+      "quranic_evidence": {
+        "references": [
+          "24:45"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/24/45",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The wording is broad and should not be treated as a technical account of the evolutionary origin of animals.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Water is essential for animal metabolism, cellular processes, digestion, circulation and temperature regulation.",
+        "explanation": "Water is essential for animal metabolism, cellular processes, digestion, circulation and temperature regulation.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The wording is broad and should not be treated as a technical account of the evolutionary origin of animals."
+      },
+      "connection_analysis": {
+        "relationship": "The verse states that Allah created every living creature from water.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-004",
+      "title": "Different forms of animal movement",
+      "quran_reference": [
+        "24:45"
+      ],
+      "scientific_topic": "Animal locomotion",
+      "scientific_finding": "Animals move through different mechanisms, including walking, crawling, swimming and flying.",
+      "connection": "The verse distinguishes creatures that move on their bellies, on two legs and on four legs.",
+      "limitations": "This is an observable grouping, not a complete classification of locomotion. Many animals use other movement patterns.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study comparative animal locomotion.",
+      "quranic_evidence": {
+        "references": [
+          "24:45"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/24/45",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "This is an observable grouping, not a complete classification of locomotion. Many animals use other movement patterns.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animals move through different mechanisms, including walking, crawling, swimming and flying.",
+        "explanation": "Animals move through different mechanisms, including walking, crawling, swimming and flying.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "This is an observable grouping, not a complete classification of locomotion. Many animals use other movement patterns."
+      },
+      "connection_analysis": {
+        "relationship": "The verse distinguishes creatures that move on their bellies, on two legs and on four legs.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-005",
+      "title": "Animals living in different habitats",
+      "quran_reference": [
+        "6:38",
+        "16:5-8"
+      ],
+      "scientific_topic": "Animal habitats",
+      "scientific_finding": "Animal species occupy habitats such as forests, grasslands, deserts, freshwater environments and oceans.",
+      "connection": "The verses refer broadly to animal communities and the benefits of livestock.",
+      "limitations": "The passages do not provide a modern habitat classification.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use ecology as explanatory context.",
+      "quranic_evidence": {
+        "references": [
+          "6:38",
+          "16:5-8"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/38",
+        "additional_source_urls": [
+          "https://quran.com/16/5-8"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages do not provide a modern habitat classification.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animal species occupy habitats such as forests, grasslands, deserts, freshwater environments and oceans.",
+        "explanation": "Animal species occupy habitats such as forests, grasslands, deserts, freshwater environments and oceans.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages do not provide a modern habitat classification."
+      },
+      "connection_analysis": {
+        "relationship": "The verses refer broadly to animal communities and the benefits of livestock.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-006",
+      "title": "Animal communities and social behaviour",
+      "quran_reference": [
+        "6:38"
+      ],
+      "scientific_topic": "Social behaviour in animals",
+      "scientific_finding": "Many species cooperate, compete, communicate and establish social relationships within groups.",
+      "connection": "The verse's description of animals as communities provides a starting point for investigating social behaviour.",
+      "limitations": "Not every animal species lives in social groups, and the verse does not describe specific behaviours.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate animal social systems.",
+      "quranic_evidence": {
+        "references": [
+          "6:38"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/38",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Not every animal species lives in social groups, and the verse does not describe specific behaviours.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many species cooperate, compete, communicate and establish social relationships within groups.",
+        "explanation": "Many species cooperate, compete, communicate and establish social relationships within groups.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Not every animal species lives in social groups, and the verse does not describe specific behaviours."
+      },
+      "connection_analysis": {
+        "relationship": "The verse's description of animals as communities provides a starting point for investigating social behaviour.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-007",
+      "title": "Animal movement on land",
+      "quran_reference": [
+        "24:45"
+      ],
+      "scientific_topic": "Terrestrial locomotion",
+      "scientific_finding": "Land animals use different skeletal structures and muscle systems to walk, run, crawl and climb.",
+      "connection": "The verse mentions animals moving on their bellies, two legs or four legs.",
+      "limitations": "It does not explain biomechanics or the evolution of limb structures.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study comparative anatomy.",
+      "quranic_evidence": {
+        "references": [
+          "24:45"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/24/45",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "It does not explain biomechanics or the evolution of limb structures.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Land animals use different skeletal structures and muscle systems to walk, run, crawl and climb.",
+        "explanation": "Land animals use different skeletal structures and muscle systems to walk, run, crawl and climb.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "It does not explain biomechanics or the evolution of limb structures."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions animals moving on their bellies, two legs or four legs.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-008",
+      "title": "Birds flying with wings",
+      "quran_reference": [
+        "6:38",
+        "16:79"
+      ],
+      "scientific_topic": "Bird flight",
+      "scientific_finding": "Birds generate lift and thrust through wing movements and interactions with surrounding air.",
+      "connection": "The verses explicitly mention birds flying with their wings and being held in the sky.",
+      "limitations": "The verses do not explain how air flows around wings (aerodynamics), lift or wing anatomy.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate bird flight mechanics.",
+      "quranic_evidence": {
+        "references": [
+          "6:38",
+          "16:79"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/38",
+        "additional_source_urls": [
+          "https://quran.com/16/79"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verses do not explain how air flows around wings (aerodynamics), lift or wing anatomy.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds generate lift and thrust through wing movements and interactions with surrounding air.",
+        "explanation": "Birds generate lift and thrust through wing movements and interactions with surrounding air.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verses do not explain how air flows around wings (aerodynamics), lift or wing anatomy."
+      },
+      "connection_analysis": {
+        "relationship": "The verses explicitly mention birds flying with their wings and being held in the sky.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-009",
+      "title": "Birds held in the sky",
+      "quran_reference": [
+        "16:79",
+        "67:19"
+      ],
+      "scientific_topic": "Aerodynamics and flight",
+      "scientific_finding": "Birds remain airborne through aerodynamic forces generated by their wings and interaction with air.",
+      "connection": "The verses invite reflection on birds flying and being supported in the sky.",
+      "limitations": "The passages are theological reflections, not technical explanations of airflow and lift forces.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study the physics of flight.",
+      "quranic_evidence": {
+        "references": [
+          "16:79",
+          "67:19"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/79",
+        "additional_source_urls": [
+          "https://quran.com/67/19"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages are theological reflections, not technical explanations of aerodynamic forces.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds remain airborne through airflow and lift forces generated by their wings and interaction with air.",
+        "explanation": "Birds remain airborne through airflow and lift forces generated by their wings and interaction with air.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages are theological reflections, not technical explanations of aerodynamic forces."
+      },
+      "connection_analysis": {
+        "relationship": "The verses invite reflection on birds flying and being supported in the sky.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-010",
+      "title": "Birds flying in formations",
+      "quran_reference": [
+        "67:19",
+        "24:41"
+      ],
+      "scientific_topic": "Flocking behaviour",
+      "scientific_finding": "Many bird species fly in coordinated groups, using visual and social cues to maintain spacing and direction.",
+      "connection": "The verses describe birds spreading and gathering their wings during flight.",
+      "limitations": "They do not explicitly describe flocking algorithms or formation how air flows around wings (aerodynamics).",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate bird flocking behaviour.",
+      "quranic_evidence": {
+        "references": [
+          "67:19",
+          "24:41"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/67/19",
+        "additional_source_urls": [
+          "https://quran.com/24/41"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "They do not explicitly describe flocking algorithms or formation how air flows around wings (aerodynamics).",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many bird species fly in coordinated groups, using visual and social cues to maintain spacing and direction.",
+        "explanation": "Many bird species fly in coordinated groups, using visual and social cues to maintain spacing and direction.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "They do not explicitly describe flocking algorithms or formation how air flows around wings (aerodynamics)."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe birds spreading and gathering their wings during flight.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-011",
+      "title": "Birds and animal communication",
+      "quran_reference": [
+        "24:41"
+      ],
+      "scientific_topic": "Bird vocalisation and communication",
+      "scientific_finding": "Birds communicate through calls, songs, visual displays and other signals.",
+      "connection": "The verse refers to birds glorifying Allah and knowing their prayer and glorification.",
+      "limitations": "The verse does not explain bird vocal communication scientifically.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate bird communication.",
+      "quranic_evidence": {
+        "references": [
+          "24:41"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/24/41",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explain bird vocal communication scientifically.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds communicate through calls, songs, visual displays and other signals.",
+        "explanation": "Birds communicate through calls, songs, visual displays and other signals.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explain bird vocal communication scientifically."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to birds glorifying Allah and knowing their prayer and glorification.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-012",
+      "title": "Bird migration",
+      "quran_reference": [
+        "67:19"
+      ],
+      "scientific_topic": "Animal migration",
+      "scientific_finding": "Many bird species migrate seasonally in response to food availability, breeding conditions and environmental changes.",
+      "connection": "The verse mentions birds spreading and gathering their wings, which can prompt a study of bird movement.",
+      "limitations": "The verse does not explicitly describe seasonal migration or navigation.",
+      "evidence_grade": "D",
+      "research_status": "Broad thematic association only; do not claim a direct prediction.",
+      "quranic_evidence": {
+        "references": [
+          "67:19"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/67/19",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explicitly describe seasonal migration or navigation.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many bird species migrate seasonally in response to food availability, breeding conditions and environmental changes.",
+        "explanation": "Many bird species migrate seasonally in response to food availability, breeding conditions and environmental changes.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explicitly describe seasonal migration or navigation."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions birds spreading and gathering their wings, which can prompt a study of bird movement.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-013",
+      "title": "Birds as signs in nature",
+      "quran_reference": [
+        "16:79",
+        "67:19"
+      ],
+      "scientific_topic": "Bird ecology",
+      "scientific_finding": "Birds occupy diverse ecological roles, including pollination, seed dispersal, insect control and scavenging.",
+      "connection": "The verses invite reflection on birds and their flight.",
+      "limitations": "The verses do not enumerate the ecological roles of birds.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use ornithology as explanatory context.",
+      "quranic_evidence": {
+        "references": [
+          "16:79",
+          "67:19"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/79",
+        "additional_source_urls": [
+          "https://quran.com/67/19"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verses do not enumerate the ecological roles of birds.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds occupy diverse ecological roles, including pollination, seed dispersal, insect control and scavenging.",
+        "explanation": "Birds occupy diverse ecological roles, including pollination, seed dispersal, insect control and scavenging.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verses do not enumerate the ecological roles of birds."
+      },
+      "connection_analysis": {
+        "relationship": "The verses invite reflection on birds and their flight.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-014",
+      "title": "The ant and organised activity",
+      "quran_reference": [
+        "27:18"
+      ],
+      "scientific_topic": "Ant colonies and collective behaviour",
+      "scientific_finding": "Many ant species live in colonies with organised activities involving foraging, brood care, nest maintenance and defence.",
+      "connection": "The verse describes an ant warning other ants to enter their dwellings.",
+      "limitations": "Ant societies vary widely between species. The verse does not describe the full structure of an ant colony.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study ant colony organisation.",
+      "quranic_evidence": {
+        "references": [
+          "27:18"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/27/18",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Ant societies vary widely between species. The verse does not describe the full structure of an ant colony.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many ant species live in colonies with organised activities involving foraging, brood care, nest maintenance and defence.",
+        "explanation": "Many ant species live in colonies with organised activities involving foraging, brood care, nest maintenance and defence.",
+        "sources": [
+          "ANI-S03",
+          "ANI-S04"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Ant societies vary widely between species. The verse does not describe the full structure of an ant colony."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes an ant warning other ants to enter their dwellings.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S03",
+          "title": "Trail Pheromones: An Integrative View of Their Role in Social Insect Colony Organization",
+          "author_or_institution": "Annual Review of Entomology",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-ento-010814-020627",
+          "what_it_supports": "Ant trail pheromones, foraging recruitment, colony organisation and interactions with memory."
+        },
+        {
+          "source_id": "ANI-S04",
+          "title": "The Budding Neuroscience of Ant Social Behavior",
+          "author_or_institution": "Annual Review of Neuroscience",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-neuro-083023-102101",
+          "what_it_supports": "Ant sensory systems, pheromone communication and neural mechanisms associated with social behaviour."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-015",
+      "title": "Communication among ants",
+      "quran_reference": [
+        "27:18"
+      ],
+      "scientific_topic": "Ant communication",
+      "scientific_finding": "Ants communicate through chemical signals, touch, vibration and other sensory cues.",
+      "connection": "The verse describes an ant communicating a warning to other ants.",
+      "limitations": "It does not identify pheromones or explain chemical communication.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate ant communication systems.",
+      "quranic_evidence": {
+        "references": [
+          "27:18"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/27/18",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "It does not identify pheromones or explain chemical communication.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Ants communicate through chemical signals, touch, vibration and other sensory cues.",
+        "explanation": "Ants communicate through chemical signals, touch, vibration and other sensory cues.",
+        "sources": [
+          "ANI-S03",
+          "ANI-S04"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "It does not identify pheromones or explain chemical communication."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes an ant communicating a warning to other ants.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S03",
+          "title": "Trail Pheromones: An Integrative View of Their Role in Social Insect Colony Organization",
+          "author_or_institution": "Annual Review of Entomology",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-ento-010814-020627",
+          "what_it_supports": "Ant trail pheromones, foraging recruitment, colony organisation and interactions with memory."
+        },
+        {
+          "source_id": "ANI-S04",
+          "title": "The Budding Neuroscience of Ant Social Behavior",
+          "author_or_institution": "Annual Review of Neuroscience",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-neuro-083023-102101",
+          "what_it_supports": "Ant sensory systems, pheromone communication and neural mechanisms associated with social behaviour."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-016",
+      "title": "Ant warning and collective protection",
+      "quran_reference": [
+        "27:18-19"
+      ],
+      "scientific_topic": "Collective defence and risk avoidance",
+      "scientific_finding": "Social insects can respond collectively to danger through alarm signals, defensive behaviour and movement to protected locations.",
+      "connection": "The ant in the passage warns its community to avoid being harmed.",
+      "limitations": "The verse is a narrative and does not establish the exact mechanism of the ant's warning.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the narrative with studies of ant alarm behaviour.",
+      "quranic_evidence": {
+        "references": [
+          "27:18-19"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/27/18-19",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse is a narrative and does not establish the exact mechanism of the ant's warning.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Social insects can respond collectively to danger through alarm signals, defensive behaviour and movement to protected locations.",
+        "explanation": "Social insects can respond collectively to danger through alarm signals, defensive behaviour and movement to protected locations.",
+        "sources": [
+          "ANI-S03",
+          "ANI-S04"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse is a narrative and does not establish the exact mechanism of the ant's warning."
+      },
+      "connection_analysis": {
+        "relationship": "The ant in the passage warns its community to avoid being harmed.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S03",
+          "title": "Trail Pheromones: An Integrative View of Their Role in Social Insect Colony Organization",
+          "author_or_institution": "Annual Review of Entomology",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-ento-010814-020627",
+          "what_it_supports": "Ant trail pheromones, foraging recruitment, colony organisation and interactions with memory."
+        },
+        {
+          "source_id": "ANI-S04",
+          "title": "The Budding Neuroscience of Ant Social Behavior",
+          "author_or_institution": "Annual Review of Neuroscience",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-neuro-083023-102101",
+          "what_it_supports": "Ant sensory systems, pheromone communication and neural mechanisms associated with social behaviour."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-017",
+      "title": "The honeybee and its dwelling",
+      "quran_reference": [
+        "16:68"
+      ],
+      "scientific_topic": "Honeybee nesting behaviour",
+      "scientific_finding": "Honeybees establish colonies in natural cavities and managed hives, while some species nest in other structures.",
+      "connection": "The verse mentions bees making dwellings in mountains, trees and human constructions.",
+      "limitations": "Not all bee species are social honeybees or build large colonies.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate bee species and nesting behaviour.",
+      "quranic_evidence": {
+        "references": [
+          "16:68"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/68",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Not all bee species are social honeybees or build large colonies.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honeybees establish colonies in natural cavities and managed hives, while some species nest in other structures.",
+        "explanation": "Honeybees establish colonies in natural cavities and managed hives, while some species nest in other structures.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Not all bee species are social honeybees or build large colonies."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions bees making dwellings in mountains, trees and human constructions.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-018",
+      "title": "Honeybee navigation",
+      "quran_reference": [
+        "16:69"
+      ],
+      "scientific_topic": "Bee orientation and navigation",
+      "scientific_finding": "Honeybees use visual landmarks, the sun's position, learned routes and other environmental cues to navigate.",
+      "connection": "The verse describes bees following paths made easy for them.",
+      "limitations": "The verse does not explain the mechanisms of navigation or identify the sun compass.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study honeybee navigation.",
+      "quranic_evidence": {
+        "references": [
+          "16:69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explain the mechanisms of navigation or identify the sun compass.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honeybees use visual landmarks, the sun's position, learned routes and other environmental cues to navigate.",
+        "explanation": "Honeybees use visual landmarks, the sun's position, learned routes and other environmental cues to navigate.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explain the mechanisms of navigation or identify the sun compass."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes bees following paths made easy for them.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-019",
+      "title": "Honey production by bees",
+      "quran_reference": [
+        "16:69"
+      ],
+      "scientific_topic": "Honey production",
+      "scientific_finding": "Honeybees transform collected nectar through enzymatic activity and evaporation, producing honey that can be stored in comb cells.",
+      "connection": "The verse describes a drink of varying colours emerging from bees.",
+      "limitations": "The verse does not explain the biochemical steps of honey production.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine honey production and bee biology.",
+      "quranic_evidence": {
+        "references": [
+          "16:69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explain the biochemical steps of honey production.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honeybees transform collected nectar through enzymatic activity and evaporation, producing honey that can be stored in comb cells.",
+        "explanation": "Honeybees transform collected nectar through enzymatic activity and evaporation, producing honey that can be stored in comb cells.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explain the biochemical steps of honey production."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes a drink of varying colours emerging from bees.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-020",
+      "title": "Different colours of honey",
+      "quran_reference": [
+        "16:69"
+      ],
+      "scientific_topic": "Honey composition and colour",
+      "scientific_finding": "Honey colour varies with floral source, mineral content, pigments, storage and processing conditions.",
+      "connection": "The verse explicitly describes honey as a liquid of varying colours.",
+      "limitations": "The verse does not explain the chemical reasons for colour differences.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study honey composition.",
+      "quranic_evidence": {
+        "references": [
+          "16:69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explain the chemical reasons for colour differences.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honey colour varies with floral source, mineral content, pigments, storage and processing conditions.",
+        "explanation": "Honey colour varies with floral source, mineral content, pigments, storage and processing conditions.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explain the chemical reasons for colour differences."
+      },
+      "connection_analysis": {
+        "relationship": "The verse explicitly describes honey as a liquid of varying colours.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-021",
+      "title": "The bee and flowers",
+      "quran_reference": [
+        "16:69"
+      ],
+      "scientific_topic": "Bee foraging",
+      "scientific_finding": "Bees visit flowering plants to collect nectar and pollen, using these resources for energy and colony nutrition.",
+      "connection": "The verse describes bees feeding from fruits or flowering plants, depending on translation and interpretation.",
+      "limitations": "The exact meaning of the Arabic word thamarat should be investigated; translations sometimes add explanatory wording.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine Arabic wording and bee foraging.",
+      "quranic_evidence": {
+        "references": [
+          "16:69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The exact meaning of the Arabic word thamarat should be investigated; translations sometimes add explanatory wording.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Bees visit flowering plants to collect nectar and pollen, using these resources for energy and colony nutrition.",
+        "explanation": "Bees visit flowering plants to collect nectar and pollen, using these resources for energy and colony nutrition.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The exact meaning of the Arabic word thamarat should be investigated; translations sometimes add explanatory wording."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes bees feeding from fruits or flowering plants, depending on translation and interpretation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-022",
+      "title": "Honeybees and plant pollination",
+      "quran_reference": [
+        "16:68-69"
+      ],
+      "scientific_topic": "Pollination ecology",
+      "scientific_finding": "Honeybees transfer pollen between flowers while foraging, supporting reproduction in many flowering plant species.",
+      "connection": "The verses describe bees feeding from plants and producing honey, providing a context for studying their ecological relationships with plants.",
+      "limitations": "The verses do not explicitly state that bees pollinate plants.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate bee pollination scientifically.",
+      "quranic_evidence": {
+        "references": [
+          "16:68-69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/68-69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verses do not explicitly state that bees pollinate plants.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honeybees transfer pollen between flowers while foraging, supporting reproduction in many flowering plant species.",
+        "explanation": "Honeybees transfer pollen between flowers while foraging, supporting reproduction in many flowering plant species.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verses do not explicitly state that bees pollinate plants."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe bees feeding from plants and producing honey, providing a context for studying their ecological relationships with plants.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-023",
+      "title": "The honeybee as a social insect",
+      "quran_reference": [
+        "16:68-69"
+      ],
+      "scientific_topic": "Social organisation in honeybees",
+      "scientific_finding": "Honeybee colonies contain queens, workers and drones with different reproductive and behavioural roles.",
+      "connection": "The passage describes bees and their organised activities.",
+      "limitations": "The passage does not describe castes, division of labour or colony genetics.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study honeybee colony structure.",
+      "quranic_evidence": {
+        "references": [
+          "16:68-69"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/68-69",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passage does not describe castes, division of labour or colony genetics.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Honeybee colonies contain queens, workers and drones with different reproductive and behavioural roles.",
+        "explanation": "Honeybee colonies contain queens, workers and drones with different reproductive and behavioural roles.",
+        "sources": [
+          "ANI-S05"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passage does not describe castes, division of labour or colony genetics."
+      },
+      "connection_analysis": {
+        "relationship": "The passage describes bees and their organised activities.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S05",
+          "title": "Honey bee biology and pollination resources",
+          "author_or_institution": "USDA Agricultural Research Service",
+          "year": null,
+          "url": "https://www.ars.usda.gov/",
+          "what_it_supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-024",
+      "title": "The spider and its web",
+      "quran_reference": [
+        "29:41"
+      ],
+      "scientific_topic": "Spider silk and web construction",
+      "scientific_finding": "Many spiders produce silk proteins and construct webs or other silk structures used for prey capture, shelter or reproduction.",
+      "connection": "The verse uses the spider's house as an example in a parable.",
+      "limitations": "The verse is a parable about reliance, not a technical statement about spider silk strength.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; do not present the parable as a materials-science prediction.",
+      "quranic_evidence": {
+        "references": [
+          "29:41"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/29/41",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse is a parable about reliance, not a technical statement about spider silk strength.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many spiders produce silk proteins and construct webs or other silk structures used for prey capture, shelter or reproduction.",
+        "explanation": "Many spiders produce silk proteins and construct webs or other silk structures used for prey capture, shelter or reproduction.",
+        "sources": [
+          "ANI-S06",
+          "ANI-S07"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse is a parable about reliance, not a technical statement about spider silk strength."
+      },
+      "connection_analysis": {
+        "relationship": "The verse uses the spider's house as an example in a parable.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S06",
+          "title": "Spider Survey: Spider Biology",
+          "author_or_institution": "Natural History Museum of Los Angeles County",
+          "year": null,
+          "url": "https://nhm.org/community-science-nhm/spider-survey",
+          "what_it_supports": "Spider anatomy, spinnerets, silk and varied uses of silk and webs."
+        },
+        {
+          "source_id": "ANI-S07",
+          "title": "Why Spiders Do Not Stick to Their Own Sticky Web Sites",
+          "author_or_institution": "Smithsonian Institution / Smithsonian Tropical Research Institute",
+          "year": null,
+          "url": "https://www.si.edu/newsdesk/releases/why-spiders-do-not-stick-their-own-sticky-web-sites",
+          "what_it_supports": "Research on spider leg hairs, surface coatings and movement on sticky silk."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-025",
+      "title": "The fly as a biological organism",
+      "quran_reference": [
+        "22:73"
+      ],
+      "scientific_topic": "Insect biology",
+      "scientific_finding": "Flies are insects with specialised sensory organs, wings, feeding structures and complex life cycles.",
+      "connection": "The verse uses a fly in a parable about the inability of false objects of worship to create even a small creature.",
+      "limitations": "The verse is not a technical description of fly anatomy or physiology.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use as a broad biological reflection.",
+      "quranic_evidence": {
+        "references": [
+          "22:73"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/22/73",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse is not a technical description of fly anatomy or physiology.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Flies are insects with specialised sensory organs, wings, feeding structures and complex life cycles.",
+        "explanation": "Flies are insects with specialised sensory organs, wings, feeding structures and complex life cycles.",
+        "sources": [
+          "ANI-S08",
+          "ANI-S09"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse is not a technical description of fly anatomy or physiology."
+      },
+      "connection_analysis": {
+        "relationship": "The verse uses a fly in a parable about the inability of false objects of worship to create even a small creature.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S08",
+          "title": "About Mosquitoes",
+          "author_or_institution": "U.S. Centers for Disease Control and Prevention",
+          "year": null,
+          "url": "https://www.cdc.gov/mosquitoes/about/index.html",
+          "what_it_supports": "Mosquito anatomy, species diversity, feeding and disease-vector biology."
+        },
+        {
+          "source_id": "ANI-S09",
+          "title": "Life Cycle of Aedes Mosquitoes",
+          "author_or_institution": "U.S. Centers for Disease Control and Prevention",
+          "year": null,
+          "url": "https://www.cdc.gov/mosquitoes/about/life-cycle-of-Aedes-mosquitoes.html",
+          "what_it_supports": "Egg, larval, pupal and adult stages in Aedes mosquitoes."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-026",
+      "title": "The mosquito as a small but complex creature",
+      "quran_reference": [
+        "2:26"
+      ],
+      "scientific_topic": "Mosquito biology",
+      "scientific_finding": "Mosquitoes have specialised mouthparts, sensory systems and life cycles involving aquatic larval stages.",
+      "connection": "The verse mentions the mosquito as an example of a creature used in a divine parable.",
+      "limitations": "The verse does not describe mosquito anatomy or disease transmission.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate mosquito biology separately.",
+      "quranic_evidence": {
+        "references": [
+          "2:26"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/2/26",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not describe mosquito anatomy or disease transmission.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Mosquitoes have specialised mouthparts, sensory systems and life cycles involving aquatic larval stages.",
+        "explanation": "Mosquitoes have specialised mouthparts, sensory systems and life cycles involving aquatic larval stages.",
+        "sources": [
+          "ANI-S08",
+          "ANI-S09"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not describe mosquito anatomy or disease transmission."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions the mosquito as an example of a creature used in a divine parable.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S08",
+          "title": "About Mosquitoes",
+          "author_or_institution": "U.S. Centers for Disease Control and Prevention",
+          "year": null,
+          "url": "https://www.cdc.gov/mosquitoes/about/index.html",
+          "what_it_supports": "Mosquito anatomy, species diversity, feeding and disease-vector biology."
+        },
+        {
+          "source_id": "ANI-S09",
+          "title": "Life Cycle of Aedes Mosquitoes",
+          "author_or_institution": "U.S. Centers for Disease Control and Prevention",
+          "year": null,
+          "url": "https://www.cdc.gov/mosquitoes/about/life-cycle-of-Aedes-mosquitoes.html",
+          "what_it_supports": "Egg, larval, pupal and adult stages in Aedes mosquitoes."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-027",
+      "title": "Livestock as a source of food",
+      "quran_reference": [
+        "16:5",
+        "23:21"
+      ],
+      "scientific_topic": "Animal agriculture",
+      "scientific_finding": "Livestock provide food products including meat and milk, depending on the species and production system.",
+      "connection": "The verses describe livestock and their benefits to human communities.",
+      "limitations": "They do not provide modern agricultural recommendations or nutritional comparisons.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study livestock systems.",
+      "quranic_evidence": {
+        "references": [
+          "16:5",
+          "23:21"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/5",
+        "additional_source_urls": [
+          "https://quran.com/23/21"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "They do not provide modern agricultural recommendations or nutritional comparisons.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Livestock provide food products including meat and milk, depending on the species and production system.",
+        "explanation": "Livestock provide food products including meat and milk, depending on the species and production system.",
+        "sources": [
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "They do not provide modern agricultural recommendations or nutritional comparisons."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe livestock and their benefits to human communities.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-028",
+      "title": "Livestock providing milk",
+      "quran_reference": [
+        "16:66"
+      ],
+      "scientific_topic": "Milk production and mammalian physiology",
+      "scientific_finding": "Mammalian females produce milk in mammary glands to nourish their young.",
+      "connection": "The verse describes milk produced from livestock as a pure and pleasant drink.",
+      "limitations": "The verse's description should not be treated as a detailed explanation of how mammals make milk inside their bodies.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate lactation biology and the verse's wording.",
+      "quranic_evidence": {
+        "references": [
+          "16:66"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/66",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse's description should not be treated as a detailed explanation of how mammals make milk inside their bodies.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Mammalian females produce milk in mammary glands to nourish their young.",
+        "explanation": "Mammalian females produce milk in mammary glands to nourish their young.",
+        "sources": [
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse's description should not be treated as a detailed explanation of how mammals make milk inside their bodies."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes milk produced from livestock as a pure and pleasant drink.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-029",
+      "title": "Milk production in mammals",
+      "quran_reference": [
+        "16:66"
+      ],
+      "scientific_topic": "Lactation",
+      "scientific_finding": "Milk production is regulated by hormonal and physiological processes, including prolactin and oxytocin.",
+      "connection": "The verse invites reflection on the production of milk from livestock.",
+      "limitations": "The verse does not name hormones or describe the endocrine system.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use mammalian physiology for scientific explanation.",
+      "quranic_evidence": {
+        "references": [
+          "16:66"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/66",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not name hormones or describe the endocrine system.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Milk production is regulated by hormonal and physiological processes, including prolactin and oxytocin.",
+        "explanation": "Milk production is regulated by hormonal and physiological processes, including prolactin and oxytocin.",
+        "sources": [
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not name hormones or describe the endocrine system."
+      },
+      "connection_analysis": {
+        "relationship": "The verse invites reflection on the production of milk from livestock.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-030",
+      "title": "Milk and its relationship to digestion",
+      "quran_reference": [
+        "16:66"
+      ],
+      "scientific_topic": "Ruminant digestion and milk production",
+      "scientific_finding": "In ruminants, digestion involves microbial fermentation in the rumen and nutrient absorption. Milk is synthesised in mammary glands using nutrients transported through the blood.",
+      "connection": "The verse refers to milk in relation to the contents of livestock and describes it as a pure drink.",
+      "limitations": "The verse does not provide a modern anatomical map of digestion or milk synthesis. Avoid overstating the meaning of the expression between digested contents and blood.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; compare translations and classical tafsir with ruminant physiology.",
+      "quranic_evidence": {
+        "references": [
+          "16:66"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/66",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not provide a modern anatomical map of digestion or milk synthesis. Avoid overstating the meaning of the expression between digested contents and blood.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "In ruminants, digestion involves microbial fermentation in the rumen and nutrient absorption. Milk is synthesised in mammary glands using nutrients transported through the blood.",
+        "explanation": "In ruminants, digestion involves microbial fermentation in the rumen and nutrient absorption. Milk is synthesised in mammary glands using nutrients transported through the blood.",
+        "sources": [
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not provide a modern anatomical map of digestion or milk synthesis. Avoid overstating the meaning of the expression between digested contents and blood."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to milk in relation to the contents of livestock and describes it as a pure drink.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-031",
+      "title": "Camels and adaptation to desert environments",
+      "quran_reference": [
+        "88:17"
+      ],
+      "scientific_topic": "Camel adaptations",
+      "scientific_finding": "Camels possess adaptations that help them survive in arid environments, including water conservation mechanisms and physiological tolerance of dehydration.",
+      "connection": "The verse invites people to reflect on how camels are created.",
+      "limitations": "The verse does not specify individual physiological adaptations.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study camel physiology.",
+      "quranic_evidence": {
+        "references": [
+          "88:17"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/88/17",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not specify individual physiological adaptations.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Camels possess adaptations that help them survive in arid environments, including water conservation mechanisms and physiological tolerance of dehydration.",
+        "explanation": "Camels possess adaptations that help them survive in arid environments, including water conservation mechanisms and physiological tolerance of dehydration.",
+        "sources": [
+          "ANI-S11",
+          "ANI-S12"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not specify individual physiological adaptations."
+      },
+      "connection_analysis": {
+        "relationship": "The verse invites people to reflect on how camels are created.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S11",
+          "title": "Genomic insights into the convergent evolution of desert adaptation in camels and antelopes",
+          "author_or_institution": "PubMed Central",
+          "year": null,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464377/",
+          "what_it_supports": "Comparative desert adaptations including water conservation, heat tolerance and locomotor features."
+        },
+        {
+          "source_id": "ANI-S12",
+          "title": "The locomotion of the camel (Camelus dromedarius)",
+          "author_or_institution": "Journal of Zoology",
+          "year": null,
+          "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+          "what_it_supports": "Camel foot structure, gait and locomotion on soft sand."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-032",
+      "title": "Camel feet and movement on sand",
+      "quran_reference": [
+        "88:17"
+      ],
+      "scientific_topic": "Animal locomotion and foot structure",
+      "scientific_finding": "Camel feet have broad, padded structures that distribute body weight and help movement across soft ground.",
+      "connection": "The verse invites reflection on the camel's physical creation.",
+      "limitations": "The verse does not explicitly mention foot anatomy or desert locomotion.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate camel anatomy.",
+      "quranic_evidence": {
+        "references": [
+          "88:17"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/88/17",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explicitly mention foot anatomy or desert locomotion.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Camel feet have broad, padded structures that distribute body weight and help movement across soft ground.",
+        "explanation": "Camel feet have broad, padded structures that distribute body weight and help movement across soft ground.",
+        "sources": [
+          "ANI-S11",
+          "ANI-S12"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explicitly mention foot anatomy or desert locomotion."
+      },
+      "connection_analysis": {
+        "relationship": "The verse invites reflection on the camel's physical creation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S11",
+          "title": "Genomic insights into the convergent evolution of desert adaptation in camels and antelopes",
+          "author_or_institution": "PubMed Central",
+          "year": null,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464377/",
+          "what_it_supports": "Comparative desert adaptations including water conservation, heat tolerance and locomotor features."
+        },
+        {
+          "source_id": "ANI-S12",
+          "title": "The locomotion of the camel (Camelus dromedarius)",
+          "author_or_institution": "Journal of Zoology",
+          "year": null,
+          "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+          "what_it_supports": "Camel foot structure, gait and locomotion on soft sand."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-033",
+      "title": "Camels and water conservation",
+      "quran_reference": [
+        "88:17"
+      ],
+      "scientific_topic": "Dehydration tolerance",
+      "scientific_finding": "Camels can tolerate substantial water loss and conserve water through physiological adaptations.",
+      "connection": "The camel is presented as an animal worthy of reflection, offering a broad opportunity to study desert adaptation.",
+      "limitations": "The verse does not explicitly describe water conservation, and camels still require water.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use comparative mammalian physiology.",
+      "quranic_evidence": {
+        "references": [
+          "88:17"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/88/17",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explicitly describe water conservation, and camels still require water.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Camels can tolerate substantial water loss and conserve water through physiological adaptations.",
+        "explanation": "Camels can tolerate substantial water loss and conserve water through physiological adaptations.",
+        "sources": [
+          "ANI-S11",
+          "ANI-S12"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explicitly describe water conservation, and camels still require water."
+      },
+      "connection_analysis": {
+        "relationship": "The camel is presented as an animal worthy of reflection, offering a broad opportunity to study desert adaptation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S11",
+          "title": "Genomic insights into the convergent evolution of desert adaptation in camels and antelopes",
+          "author_or_institution": "PubMed Central",
+          "year": null,
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464377/",
+          "what_it_supports": "Comparative desert adaptations including water conservation, heat tolerance and locomotor features."
+        },
+        {
+          "source_id": "ANI-S12",
+          "title": "The locomotion of the camel (Camelus dromedarius)",
+          "author_or_institution": "Journal of Zoology",
+          "year": null,
+          "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+          "what_it_supports": "Camel foot structure, gait and locomotion on soft sand."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-034",
+      "title": "Livestock providing transport",
+      "quran_reference": [
+        "16:7",
+        "16:8"
+      ],
+      "scientific_topic": "Animal locomotion and human transport",
+      "scientific_finding": "Humans have historically used horses, camels and other domesticated animals for transport and carrying loads.",
+      "connection": "The verses mention animals used for carrying burdens and transportation.",
+      "limitations": "This is a practical and historical observation, not a modern biological discovery.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate domestication and working animals.",
+      "quranic_evidence": {
+        "references": [
+          "16:7",
+          "16:8"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/7",
+        "additional_source_urls": [
+          "https://quran.com/16/8"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "This is a practical and historical observation, not a modern biological discovery.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Humans have historically used horses, camels and other domesticated animals for transport and carrying loads.",
+        "explanation": "Humans have historically used horses, camels and other domesticated animals for transport and carrying loads.",
+        "sources": [
+          "ANI-S12",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "This is a practical and historical observation, not a modern biological discovery."
+      },
+      "connection_analysis": {
+        "relationship": "The verses mention animals used for carrying burdens and transportation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S12",
+          "title": "The locomotion of the camel (Camelus dromedarius)",
+          "author_or_institution": "Journal of Zoology",
+          "year": null,
+          "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+          "what_it_supports": "Camel foot structure, gait and locomotion on soft sand."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-035",
+      "title": "Horses and animal speed",
+      "quran_reference": [
+        "100:1-5"
+      ],
+      "scientific_topic": "Equine locomotion",
+      "scientific_finding": "Horses have specialised musculoskeletal systems that enable fast running and sustained movement.",
+      "connection": "The verses describe charging horses and their movement.",
+      "limitations": "The passage is an oath using vivid imagery, not a technical explanation of horse biomechanics.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate equine movement.",
+      "quranic_evidence": {
+        "references": [
+          "100:1-5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/100/1-5",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passage is an oath using vivid imagery, not a technical explanation of horse biomechanics.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Horses have specialised musculoskeletal systems that enable fast running and sustained movement.",
+        "explanation": "Horses have specialised musculoskeletal systems that enable fast running and sustained movement.",
+        "sources": [
+          "ANI-S12",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passage is an oath using vivid imagery, not a technical explanation of horse biomechanics."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe charging horses and their movement.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S12",
+          "title": "The locomotion of the camel (Camelus dromedarius)",
+          "author_or_institution": "Journal of Zoology",
+          "year": null,
+          "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+          "what_it_supports": "Camel foot structure, gait and locomotion on soft sand."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-036",
+      "title": "Livestock and multiple uses",
+      "quran_reference": [
+        "16:5-8",
+        "40:79-80"
+      ],
+      "scientific_topic": "Domesticated animal resources",
+      "scientific_finding": "Domesticated animals can provide food, fibre, transport, labour and other resources.",
+      "connection": "The verses describe benefits people obtain from livestock.",
+      "limitations": "The passages do not evaluate modern animal husbandry or animal welfare standards.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine domestication and livestock use.",
+      "quranic_evidence": {
+        "references": [
+          "16:5-8",
+          "40:79-80"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/5-8",
+        "additional_source_urls": [
+          "https://quran.com/40/79-80"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages do not evaluate modern animal husbandry or animal welfare standards.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Domesticated animals can provide food, fibre, transport, labour and other resources.",
+        "explanation": "Domesticated animals can provide food, fibre, transport, labour and other resources.",
+        "sources": [
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages do not evaluate modern animal husbandry or animal welfare standards."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe benefits people obtain from livestock.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-037",
+      "title": "Animal skins and protective coverings",
+      "quran_reference": [
+        "16:80"
+      ],
+      "scientific_topic": "Animal-derived materials",
+      "scientific_finding": "Animal hides can be processed into leather and used for clothing, shelter and other materials.",
+      "connection": "The verse refers to animal skins being used for homes and coverings.",
+      "limitations": "The verse describes a practical use rather than a scientific discovery about skin structure.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate skin structure and leather processing.",
+      "quranic_evidence": {
+        "references": [
+          "16:80"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/80",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse describes a practical use rather than a scientific discovery about skin structure.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animal hides can be processed into leather and used for clothing, shelter and other materials.",
+        "explanation": "Animal hides can be processed into leather and used for clothing, shelter and other materials.",
+        "sources": [
+          "ANI-S01",
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse describes a practical use rather than a scientific discovery about skin structure."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to animal skins being used for homes and coverings.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        },
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-038",
+      "title": "Animal wool and fibres",
+      "quran_reference": [
+        "16:80"
+      ],
+      "scientific_topic": "Animal fibres",
+      "scientific_finding": "Wool and hair fibres have structural properties that make them useful for insulation and textile production.",
+      "connection": "The verse mentions wool, fur and hair as sources of household goods and clothing.",
+      "limitations": "The verse does not explain fibre chemistry or thermal insulation mechanisms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study animal fibre biology.",
+      "quranic_evidence": {
+        "references": [
+          "16:80"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/80",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not explain fibre chemistry or thermal insulation mechanisms.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Wool and hair fibres have structural properties that make them useful for insulation and textile production.",
+        "explanation": "Wool and hair fibres have structural properties that make them useful for insulation and textile production.",
+        "sources": [
+          "ANI-S01",
+          "ANI-S10"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not explain fibre chemistry or thermal insulation mechanisms."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions wool, fur and hair as sources of household goods and clothing.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        },
+        {
+          "source_id": "ANI-S10",
+          "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+          "author_or_institution": "University of Alaska Fairbanks Cooperative Extension",
+          "year": null,
+          "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+          "what_it_supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-039",
+      "title": "Animal colours and physical diversity",
+      "quran_reference": [
+        "35:28"
+      ],
+      "scientific_topic": "Animal pigmentation",
+      "scientific_finding": "Animal colours result from pigments, structural coloration and other biological mechanisms.",
+      "connection": "The verse mentions different colours among humans, animals and livestock in the context of creation.",
+      "limitations": "The verse does not describe melanin, carotenoids or structural colour mechanisms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate biological pigmentation.",
+      "quranic_evidence": {
+        "references": [
+          "35:28"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/35/28",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The verse does not describe melanin, carotenoids or structural colour mechanisms.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animal colours result from pigments, structural coloration and other biological mechanisms.",
+        "explanation": "Animal colours result from pigments, structural coloration and other biological mechanisms.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The verse does not describe melanin, carotenoids or structural colour mechanisms."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions different colours among humans, animals and livestock in the context of creation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-040",
+      "title": "Animal diversity in colour and appearance",
+      "quran_reference": [
+        "35:27-28"
+      ],
+      "scientific_topic": "Biodiversity and phenotypic variation",
+      "scientific_finding": "Animals show variation in colour, size, shape and other traits within and between species.",
+      "connection": "The passage highlights visible diversity in living creation.",
+      "limitations": "The passage does not give a genetic explanation for variation.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study animal variation and biodiversity.",
+      "quranic_evidence": {
+        "references": [
+          "35:27-28"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/35/27-28",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passage does not give a genetic explanation for variation.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animals show variation in colour, size, shape and other traits within and between species.",
+        "explanation": "Animals show variation in colour, size, shape and other traits within and between species.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passage does not give a genetic explanation for variation."
+      },
+      "connection_analysis": {
+        "relationship": "The passage highlights visible diversity in living creation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-041",
+      "title": "Animal reproduction in pairs",
+      "quran_reference": [
+        "42:11",
+        "53:45-46"
+      ],
+      "scientific_topic": "Sexual reproduction",
+      "scientific_finding": "In many animal species, sexual reproduction involves male and female reproductive contributions and the fusion of gametes.",
+      "connection": "The verses mention the creation of pairs and human reproduction from male and female reproductive material.",
+      "limitations": "Animal reproductive systems vary, and not all species reproduce through ordinary male-female sexual reproduction.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate reproductive diversity.",
+      "quranic_evidence": {
+        "references": [
+          "42:11",
+          "53:45-46"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/42/11",
+        "additional_source_urls": [
+          "https://quran.com/53/45-46"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Animal reproductive systems vary, and not all species reproduce through ordinary male-female sexual reproduction.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "In many animal species, sexual reproduction involves male and female reproductive contributions and the fusion of gametes.",
+        "explanation": "In many animal species, sexual reproduction involves male and female reproductive contributions and the fusion of gametes.",
+        "sources": [
+          "ANI-S13",
+          "ANI-S14",
+          "ANI-S16"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Animal reproductive systems vary, and not all species reproduce through ordinary male-female sexual reproduction."
+      },
+      "connection_analysis": {
+        "relationship": "The verses mention the creation of pairs and human reproduction from male and female reproductive material.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S14",
+          "title": "Fertilization and Early Embryonic Development",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-6-fertilization-and-early-embryonic-development",
+          "what_it_supports": "Gamete fusion, zygote formation, cleavage and gastrulation."
+        },
+        {
+          "source_id": "ANI-S16",
+          "title": "Animal Reproductive Structures and Functions",
+          "author_or_institution": "Georgia Tech Organismal Biology",
+          "year": null,
+          "url": "https://organismalbio.biosci.gatech.edu/growth-and-reproduction/animal-reproduction-ii-reproductive-structure-and-function/",
+          "what_it_supports": "Comparative animal reproductive anatomy and reproductive strategies."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-042",
+      "title": "Animal development before birth",
+      "quran_reference": [
+        "23:12-14"
+      ],
+      "scientific_topic": "Embryonic development",
+      "scientific_finding": "Mammalian embryos undergo stages of cell division, differentiation and organ development before birth.",
+      "connection": "The verses describe stages in human creation and development in the womb.",
+      "limitations": "These verses primarily concern human development and should be treated in detail in the human biology category rather than claimed as a general animal embryology description.",
+      "evidence_grade": "C",
+      "research_status": "Cross-category topic; reserve detailed analysis for human biology.",
+      "quranic_evidence": {
+        "references": [
+          "23:12-14"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/23/12-14",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "These verses primarily concern human development and should be treated in detail in the human biology category rather than claimed as a general animal embryology description.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Mammalian embryos undergo stages of cell division, differentiation and organ development before birth.",
+        "explanation": "Mammalian embryos undergo stages of cell division, differentiation and organ development before birth.",
+        "sources": [
+          "ANI-S13",
+          "ANI-S14",
+          "ANI-S16"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "These verses primarily concern human development and should be treated in detail in the human biology category rather than claimed as a general animal embryology description."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe stages in human creation and development in the womb.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S14",
+          "title": "Fertilization and Early Embryonic Development",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-6-fertilization-and-early-embryonic-development",
+          "what_it_supports": "Gamete fusion, zygote formation, cleavage and gastrulation."
+        },
+        {
+          "source_id": "ANI-S16",
+          "title": "Animal Reproductive Structures and Functions",
+          "author_or_institution": "Georgia Tech Organismal Biology",
+          "year": null,
+          "url": "https://organismalbio.biosci.gatech.edu/growth-and-reproduction/animal-reproduction-ii-reproductive-structure-and-function/",
+          "what_it_supports": "Comparative animal reproductive anatomy and reproductive strategies."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-043",
+      "title": "Animals and their offspring",
+      "quran_reference": [
+        "16:5-8",
+        "42:49-50"
+      ],
+      "scientific_topic": "Animal reproduction and parental care",
+      "scientific_finding": "Animal species use diverse reproductive strategies and levels of parental investment, from extensive care to little or none.",
+      "connection": "The verses discuss livestock and the creation of offspring as part of divine provision.",
+      "limitations": "They do not describe comparative reproductive strategies or parental behaviour.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate animal reproductive ecology.",
+      "quranic_evidence": {
+        "references": [
+          "16:5-8",
+          "42:49-50"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/5-8",
+        "additional_source_urls": [
+          "https://quran.com/42/49-50"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "They do not describe comparative reproductive strategies or parental behaviour.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animal species use diverse reproductive strategies and levels of parental investment, from extensive care to little or none.",
+        "explanation": "Animal species use diverse reproductive strategies and levels of parental investment, from extensive care to little or none.",
+        "sources": [
+          "ANI-S13",
+          "ANI-S15"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "They do not describe comparative reproductive strategies or parental behaviour."
+      },
+      "connection_analysis": {
+        "relationship": "The verses discuss livestock and the creation of offspring as part of divine provision.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S15",
+          "title": "Outline of the evolution of behavioral and nonbehavioral patterns of parental care among the vertebrates",
+          "author_or_institution": "Scandinavian Journal of Psychology / PubMed",
+          "year": null,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12914590/",
+          "what_it_supports": "Diversity of parental care among fish, amphibians, reptiles, birds and mammals."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-044",
+      "title": "Animal behaviour and instinct",
+      "quran_reference": [
+        "16:68",
+        "20:50"
+      ],
+      "scientific_topic": "Instinctive and learned behaviour",
+      "scientific_finding": "Animal behaviour can involve inherited behavioural patterns, learning, memory and responses to environmental signals.",
+      "connection": "The verses describe divine guidance and the behaviour of animals, including bees.",
+      "limitations": "Theological guidance and scientific concepts of instinct are not identical. Do not treat the wording as a formal theory of animal behaviour.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate animal behaviour.",
+      "quranic_evidence": {
+        "references": [
+          "16:68",
+          "20:50"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/68",
+        "additional_source_urls": [
+          "https://quran.com/20/50"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Theological guidance and scientific concepts of instinct are not identical. Do not treat the wording as a formal theory of animal behaviour.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animal behaviour can involve inherited behavioural patterns, learning, memory and responses to environmental signals.",
+        "explanation": "Animal behaviour can involve inherited behavioural patterns, learning, memory and responses to environmental signals.",
+        "sources": [
+          "ANI-S04",
+          "ANI-S13"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Theological guidance and scientific concepts of instinct are not identical. Do not treat the wording as a formal theory of animal behaviour."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe divine guidance and the behaviour of animals, including bees.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S04",
+          "title": "The Budding Neuroscience of Ant Social Behavior",
+          "author_or_institution": "Annual Review of Neuroscience",
+          "year": null,
+          "url": "https://doi.org/10.1146/annurev-neuro-083023-102101",
+          "what_it_supports": "Ant sensory systems, pheromone communication and neural mechanisms associated with social behaviour."
+        },
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-045",
+      "title": "The hoopoe and animal communication",
+      "quran_reference": [
+        "27:20-22"
+      ],
+      "scientific_topic": "Bird behaviour and information transfer",
+      "scientific_finding": "Birds use vocalisations, visual displays and behavioural cues to communicate information.",
+      "connection": "The Qur'anic narrative describes the hoopoe bringing information to Prophet Sulayman.",
+      "limitations": "This is a narrative involving a prophet and a bird. It is not an experimental claim about language or human-like speech in birds.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; distinguish narrative meaning from animal communication research.",
+      "quranic_evidence": {
+        "references": [
+          "27:20-22"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/27/20-22",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "This is a narrative involving a prophet and a bird. It is not an experimental claim about language or human-like speech in birds.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds use vocalisations, visual displays and behavioural cues to communicate information.",
+        "explanation": "Birds use vocalisations, visual displays and behavioural cues to communicate information.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "This is a narrative involving a prophet and a bird. It is not an experimental claim about language or human-like speech in birds."
+      },
+      "connection_analysis": {
+        "relationship": "The Qur'anic narrative describes the hoopoe bringing information to Prophet Sulayman.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-046",
+      "title": "The hoopoe's searching behaviour",
+      "quran_reference": [
+        "27:20-22"
+      ],
+      "scientific_topic": "Bird foraging and environmental exploration",
+      "scientific_finding": "Birds explore their environments to find food, water, nesting sites and other resources.",
+      "connection": "The narrative describes the hoopoe returning after observing something not known to Prophet Sulayman.",
+      "limitations": "Do not interpret the narrative as proof of a particular modern bird sensory ability.",
+      "evidence_grade": "D",
+      "research_status": "Thematic association; avoid a scientific-miracle claim.",
+      "quranic_evidence": {
+        "references": [
+          "27:20-22"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/27/20-22",
+        "additional_source_urls": [],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "Do not interpret the narrative as proof of a particular modern bird sensory ability.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Birds explore their environments to find food, water, nesting sites and other resources.",
+        "explanation": "Birds explore their environments to find food, water, nesting sites and other resources.",
+        "sources": [
+          "ANI-S02",
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "Do not interpret the narrative as proof of a particular modern bird sensory ability."
+      },
+      "connection_analysis": {
+        "relationship": "The narrative describes the hoopoe returning after observing something not known to Prophet Sulayman.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S02",
+          "title": "Bird flight, behaviour and ecology resources",
+          "author_or_institution": "Cornell Lab of Ornithology",
+          "year": null,
+          "url": "https://www.allaboutbirds.org/",
+          "what_it_supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+        },
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-047",
+      "title": "The dog and animal companionship",
+      "quran_reference": [
+        "18:18",
+        "18:22"
+      ],
+      "scientific_topic": "Domestication and human-animal relationships",
+      "scientific_finding": "Dogs have a long history of domestication and can form social relationships with humans.",
+      "connection": "The People of the Cave narrative mentions a dog accompanying the group.",
+      "limitations": "The narrative is not a scientific account of dog domestication or animal cognition.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study canine domestication separately.",
+      "quranic_evidence": {
+        "references": [
+          "18:18",
+          "18:22"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/18/18",
+        "additional_source_urls": [
+          "https://quran.com/18/22"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The narrative is not a scientific account of dog domestication or animal cognition.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Dogs have a long history of domestication and can form social relationships with humans.",
+        "explanation": "Dogs have a long history of domestication and can form social relationships with humans.",
+        "sources": [
+          "ANI-S01",
+          "ANI-S13",
+          "ANI-S15"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The narrative is not a scientific account of dog domestication or animal cognition."
+      },
+      "connection_analysis": {
+        "relationship": "The People of the Cave narrative mentions a dog accompanying the group.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        },
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S15",
+          "title": "Outline of the evolution of behavioral and nonbehavioral patterns of parental care among the vertebrates",
+          "author_or_institution": "Scandinavian Journal of Psychology / PubMed",
+          "year": null,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12914590/",
+          "what_it_supports": "Diversity of parental care among fish, amphibians, reptiles, birds and mammals."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-048",
+      "title": "The fish and aquatic animal life",
+      "quran_reference": [
+        "18:61-63",
+        "37:142"
+      ],
+      "scientific_topic": "Fish biology and aquatic ecosystems",
+      "scientific_finding": "Fish display diverse adaptations for aquatic respiration, movement, feeding and survival.",
+      "connection": "The verses mention a fish in narratives involving Musa and Yunus.",
+      "limitations": "The passages do not explain fish anatomy, gills or aquatic adaptations.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use as an entry into aquatic animal biology.",
+      "quranic_evidence": {
+        "references": [
+          "18:61-63",
+          "37:142"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/18/61-63",
+        "additional_source_urls": [
+          "https://quran.com/37/142"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages do not explain fish anatomy, gills or aquatic adaptations.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Fish display diverse adaptations for aquatic respiration, movement, feeding and survival.",
+        "explanation": "Fish display diverse adaptations for aquatic respiration, movement, feeding and survival.",
+        "sources": [
+          "ANI-S01",
+          "ANI-S13",
+          "ANI-S15"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages do not explain fish anatomy, gills or aquatic adaptations."
+      },
+      "connection_analysis": {
+        "relationship": "The verses mention a fish in narratives involving Musa and Yunus.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        },
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S15",
+          "title": "Outline of the evolution of behavioral and nonbehavioral patterns of parental care among the vertebrates",
+          "author_or_institution": "Scandinavian Journal of Psychology / PubMed",
+          "year": null,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12914590/",
+          "what_it_supports": "Diversity of parental care among fish, amphibians, reptiles, birds and mammals."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-049",
+      "title": "Animals and their dependence on food and water",
+      "quran_reference": [
+        "16:10-11",
+        "29:60"
+      ],
+      "scientific_topic": "Animal nutrition and survival",
+      "scientific_finding": "Animals require energy, nutrients and water to maintain metabolism, growth, reproduction and survival.",
+      "connection": "The verses describe provision in nature and creatures whose sustenance is provided by Allah.",
+      "limitations": "The passages do not explain nutritional physiology or food-web dynamics.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate animal nutrition and ecology.",
+      "quranic_evidence": {
+        "references": [
+          "16:10-11",
+          "29:60"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/10-11",
+        "additional_source_urls": [
+          "https://quran.com/29/60"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages do not explain nutritional physiology or food-web dynamics.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animals require energy, nutrients and water to maintain metabolism, growth, reproduction and survival.",
+        "explanation": "Animals require energy, nutrients and water to maintain metabolism, growth, reproduction and survival.",
+        "sources": [
+          "ANI-S01",
+          "ANI-S13",
+          "ANI-S15"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages do not explain nutritional physiology or food-web dynamics."
+      },
+      "connection_analysis": {
+        "relationship": "The verses describe provision in nature and creatures whose sustenance is provided by Allah.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        },
+        {
+          "source_id": "ANI-S13",
+          "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+          "author_or_institution": "OpenStax",
+          "year": null,
+          "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+          "what_it_supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+        },
+        {
+          "source_id": "ANI-S15",
+          "title": "Outline of the evolution of behavioral and nonbehavioral patterns of parental care among the vertebrates",
+          "author_or_institution": "Scandinavian Journal of Psychology / PubMed",
+          "year": null,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12914590/",
+          "what_it_supports": "Diversity of parental care among fish, amphibians, reptiles, birds and mammals."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "ANI-050",
+      "title": "Animals as part of the wider natural world",
+      "quran_reference": [
+        "6:38",
+        "45:4"
+      ],
+      "scientific_topic": "Animal ecology and biodiversity",
+      "scientific_finding": "Animals are interconnected with plants, microorganisms and physical environments through food webs, pollination, decomposition and nutrient cycles.",
+      "connection": "The verses invite reflection on living creatures as signs within creation.",
+      "limitations": "The passages do not present modern ecosystem theory or a technical description of ecological interdependence.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; suitable as a general educational entry.",
+      "quranic_evidence": {
+        "references": [
+          "6:38",
+          "45:4"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/38",
+        "additional_source_urls": [
+          "https://quran.com/45/4"
+        ],
+        "text_verification": "References retained from the supplied research dataset. Exact Arabic wording, translation and surrounding context still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "specific_caution": "The passages do not present modern ecosystem theory or a technical description of ecological interdependence.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Animals are interconnected with plants, microorganisms and physical environments through food webs, pollination, decomposition and nutrient cycles.",
+        "explanation": "Animals are interconnected with plants, microorganisms and physical environments through food webs, pollination, decomposition and nutrient cycles.",
+        "sources": [
+          "ANI-S01"
+        ],
+        "consensus_note": "General scientific background; the strength of the proposed verse-to-science connection remains interpretive and must be assessed separately.",
+        "limitations": "The passages do not present modern ecosystem theory or a technical description of ecological interdependence."
+      },
+      "connection_analysis": {
+        "relationship": "The verses invite reflection on living creatures as signs within creation.",
+        "connection_type": "thematic_or_background_connection",
+        "assessment": "The biological background is relevant to the topic, but the verse-to-science relationship must be presented cautiously. It is not established as a scientific prediction or proof by the scientific sources alone."
+      },
+      "verification_status": "scientific_background_source_leads_added_textual_and_tafsir_review_pending",
+      "evidence_sources": [
+        {
+          "source_id": "ANI-S01",
+          "title": "What Is Biodiversity?",
+          "author_or_institution": "Smithsonian National Museum of Natural History",
+          "year": null,
+          "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+          "what_it_supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+        }
+      ],
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    }
+  ],
+  "source_policy": {
+    "quran_sources": [
+      "Quran.com",
+      "Tanzil",
+      "Quranic Arabic Corpus"
+    ],
+    "tafsir_sources": [
+      "Tafsir al-Tabari",
+      "Tafsir Ibn Kathir",
+      "Tafsir al-Qurtubi",
+      "Tafheem-ul-Quran",
+      "Altafsir"
+    ],
+    "science_sources": [
+      "Smithsonian National Museum of Natural History",
+      "Smithsonian National Zoo and Conservation Biology Institute",
+      "Animal Diversity Web",
+      "Cornell Lab of Ornithology",
+      "FAO Animal Production and Health",
+      "National Institutes of Health",
+      "Peer-reviewed animal biology and ecology literature"
+    ],
+    "rules": [
+      "Verify Arabic wording against a reliable Qur'an text.",
+      "Read the complete passage and its surrounding verses.",
+      "Do not invent hadith, authenticity grades, scientific papers, authors or publication details.",
+      "Distinguish classical interpretation from modern interpretation.",
+      "Do not describe an interpretation as scientific consensus.",
+      "A scientific source verifies the scientific background only; it does not verify a theological interpretation.",
+      "Do not claim that Qur'an 6:38 explicitly describes modern animal taxonomy or evolutionary biology.",
+      "Do not claim that Qur'an 27:18 proves ants communicate through pheromones; the verse does not name that mechanism.",
+      "Do not claim that Qur'an 16:68-69 describes every detail of bee navigation, pollination or honey chemistry.",
+      "Do not claim that Qur'an 24:45 gives a complete scientific classification of all animal movement.",
+      "Do not use prophetic narratives as laboratory evidence for animal language or cognition.",
+      "Do not generalise traits from one animal species to all animals.",
+      "Do not present animal reproductive or parental-care patterns as universal; biological diversity is substantial."
+    ]
+  },
+  "status": "research_enhanced_draft",
+  "research_methodology": {
+    "standard": "Separate the Qur'anic wording, classical tafsir, modern interpretation, and established biological knowledge.",
+    "evidence_grade_meaning": {
+      "A": "Clear, direct match between what the verse describes and what science well understands—still read thoughtfully rather than as a lab textbook.",
+      "B": "Good, helpful connection with observable nature, health, mind, or community life—where context and careful reading matter.",
+      "C": "Open to thoughtful discussion—clear science paired with a broad theme or a verse understood in more than one careful way.",
+      "D": "Faith and spiritual guidance—teaches beliefs, morals, or the afterlife, which belong to faith rather than science experiments."
+    },
+    "verification_policy": [
+      "Scientific sources establish the biological background, not that a Qur'anic passage predicted it.",
+      "Do not silently replace classical tafsir with a modern scientific reading.",
+      "Do not infer a precise biological mechanism from general Qur'anic wording.",
+      "Species-specific findings must remain species-specific.",
+      "Arabic text and translation must be checked against a reliable Qur'an edition before publication.",
+      "Source links must be opened and checked against the exact claim before an entry is marked fully verified."
+    ]
+  },
+  "source_catalog": {
+    "ANI-S01": {
+      "title": "What Is Biodiversity?",
+      "institution": "Smithsonian National Museum of Natural History",
+      "year": null,
+      "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/what-biodiversity",
+      "supports": "Species, genetic and ecosystem diversity; interactions among organisms and habitats."
+    },
+    "ANI-S02": {
+      "title": "Bird flight, behaviour and ecology resources",
+      "institution": "Cornell Lab of Ornithology",
+      "year": null,
+      "url": "https://www.allaboutbirds.org/",
+      "supports": "Bird anatomy, flight, vocalisations, migration, feeding and ecology."
+    },
+    "ANI-S03": {
+      "title": "Trail Pheromones: An Integrative View of Their Role in Social Insect Colony Organization",
+      "institution": "Annual Review of Entomology",
+      "year": null,
+      "url": "https://doi.org/10.1146/annurev-ento-010814-020627",
+      "supports": "Ant trail pheromones, foraging recruitment, colony organisation and interactions with memory."
+    },
+    "ANI-S04": {
+      "title": "The Budding Neuroscience of Ant Social Behavior",
+      "institution": "Annual Review of Neuroscience",
+      "year": null,
+      "url": "https://doi.org/10.1146/annurev-neuro-083023-102101",
+      "supports": "Ant sensory systems, pheromone communication and neural mechanisms associated with social behaviour."
+    },
+    "ANI-S05": {
+      "title": "Honey bee biology and pollination resources",
+      "institution": "USDA Agricultural Research Service",
+      "year": null,
+      "url": "https://www.ars.usda.gov/",
+      "supports": "Honeybee biology, colony behaviour, pollination and agricultural importance."
+    },
+    "ANI-S06": {
+      "title": "Spider Survey: Spider Biology",
+      "institution": "Natural History Museum of Los Angeles County",
+      "year": null,
+      "url": "https://nhm.org/community-science-nhm/spider-survey",
+      "supports": "Spider anatomy, spinnerets, silk and varied uses of silk and webs."
+    },
+    "ANI-S07": {
+      "title": "Why Spiders Do Not Stick to Their Own Sticky Web Sites",
+      "institution": "Smithsonian Institution / Smithsonian Tropical Research Institute",
+      "year": null,
+      "url": "https://www.si.edu/newsdesk/releases/why-spiders-do-not-stick-their-own-sticky-web-sites",
+      "supports": "Research on spider leg hairs, surface coatings and movement on sticky silk."
+    },
+    "ANI-S08": {
+      "title": "About Mosquitoes",
+      "institution": "U.S. Centers for Disease Control and Prevention",
+      "year": null,
+      "url": "https://www.cdc.gov/mosquitoes/about/index.html",
+      "supports": "Mosquito anatomy, species diversity, feeding and disease-vector biology."
+    },
+    "ANI-S09": {
+      "title": "Life Cycle of Aedes Mosquitoes",
+      "institution": "U.S. Centers for Disease Control and Prevention",
+      "year": null,
+      "url": "https://www.cdc.gov/mosquitoes/about/life-cycle-of-Aedes-mosquitoes.html",
+      "supports": "Egg, larval, pupal and adult stages in Aedes mosquitoes."
+    },
+    "ANI-S10": {
+      "title": "Gastrointestinal Anatomy and Physiology of Ruminants",
+      "institution": "University of Alaska Fairbanks Cooperative Extension",
+      "year": null,
+      "url": "https://www.uaf.edu/ces/publications/database/agriculture-livestock/ruminant-gastrointestinal-anatomy.php",
+      "supports": "Ruminant stomach compartments, microbial fermentation and nutrient extraction from fibrous plants."
+    },
+    "ANI-S11": {
+      "title": "Genomic insights into the convergent evolution of desert adaptation in camels and antelopes",
+      "institution": "PubMed Central",
+      "year": null,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464377/",
+      "supports": "Comparative desert adaptations including water conservation, heat tolerance and locomotor features."
+    },
+    "ANI-S12": {
+      "title": "The locomotion of the camel (Camelus dromedarius)",
+      "institution": "Journal of Zoology",
+      "year": null,
+      "url": "https://doi.org/10.1111/j.1469-7998.1974.tb03144.x",
+      "supports": "Camel foot structure, gait and locomotion on soft sand."
+    },
+    "ANI-S13": {
+      "title": "Animal Reproduction and Development (Biology 2e, Chapter 43)",
+      "institution": "OpenStax",
+      "year": null,
+      "url": "https://openstax.org/books/biology-2e/pages/43-introduction",
+      "supports": "Animal reproductive diversity, sexual and asexual reproduction, fertilisation and development."
+    },
+    "ANI-S14": {
+      "title": "Fertilization and Early Embryonic Development",
+      "institution": "OpenStax",
+      "year": null,
+      "url": "https://openstax.org/books/biology-2e/pages/43-6-fertilization-and-early-embryonic-development",
+      "supports": "Gamete fusion, zygote formation, cleavage and gastrulation."
+    },
+    "ANI-S15": {
+      "title": "Outline of the evolution of behavioral and nonbehavioral patterns of parental care among the vertebrates",
+      "institution": "Scandinavian Journal of Psychology / PubMed",
+      "year": null,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12914590/",
+      "supports": "Diversity of parental care among fish, amphibians, reptiles, birds and mammals."
+    },
+    "ANI-S16": {
+      "title": "Animal Reproductive Structures and Functions",
+      "institution": "Georgia Tech Organismal Biology",
+      "year": null,
+      "url": "https://organismalbio.biosci.gatech.edu/growth-and-reproduction/animal-reproduction-ii-reproductive-structure-and-function/",
+      "supports": "Comparative animal reproductive anatomy and reproductive strategies."
+    }
+  },
+  "quality_control_summary": {
+    "original_topics_preserved": 50,
+    "topics_with_scientific_source_links": 50,
+    "topics_with_individually_verified_full_arabic_and_translation": 0,
+    "topics_with_individually_completed_classical_tafsir_review": 0,
+    "important_correction": "This file follows the supplied Cosmology and Space reference structure. It is a research-enhanced draft, not a completed proof dossier. Scientific source leads are supplied for biological background, while Arabic wording, translations, individual tafsir reviews and topic-specific source checks remain pending.",
+    "next_audit": "Verify each verse's Arabic and translation, review classical tafsir individually, then inspect each scientific source directly for the precise claim before marking any entry fully verified."
+  }
+}

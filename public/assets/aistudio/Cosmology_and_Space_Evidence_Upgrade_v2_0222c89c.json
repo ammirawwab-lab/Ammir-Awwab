@@ -1,0 +1,3320 @@
+{
+  "heading": "Cosmology and Space",
+  "category_id": "cosmology_space",
+  "version": "2.0",
+  "description": "Fifty illustrated topics exploring space, stars, galaxies, Moon and Sun orbits, and how Earth sits safely under our sky.",
+  "grading_guide": {
+    "A": "Clear, direct match between what the verse describes and what science well understands—still read thoughtfully rather than as a lab textbook.",
+    "B": "Good, helpful connection with observable nature, health, mind, or community life—where context and careful reading matter.",
+    "C": "Open to thoughtful discussion—clear science paired with a broad theme or a verse understood in more than one careful way.",
+    "D": "Faith and spiritual guidance—teaches beliefs, morals, or the afterlife, which belong to faith rather than science experiments."
+  },
+  "entries": [
+    {
+      "id": "COS-001",
+      "title": "The heavens and earth joined and separated",
+      "quran_reference": "21:30",
+      "scientific_topic": "Early universe and cosmic evolution",
+      "scientific_finding": "The Big Bang model describes an early hot, dense state followed by the expansion and evolution of the universe.",
+      "connection": "The verse describes the heavens and earth as ratq and then fataq. Some readers compare this with cosmic origins.",
+      "limitations": "The verse does not specify the technical details of the Big Bang model. Classical interpretations include different understandings of the joining and separation.",
+      "evidence_grade": "C",
+      "research_status": "Needs further textual and scientific analysis",
+      "quranic_evidence": {
+        "references": [
+          "21:30"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/21/30",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "partially_reviewed",
+        "notes": "Notes from Tafsir Ibn Kathir are shared below so you can see how early scholars read these words in their original setting.",
+        "sources": [
+          {
+            "scholar": "Muhammad ibn Jarir al-Tabari",
+            "work": "Jami' al-Bayan (Tafsir al-Tabari), on 21:30",
+            "summary": "Al-Tabari records more than one early explanation of ratq/fatq, including the heavens and earth being joined and then separated, and interpretations concerning the heavens and earth being formed into multiple layers. This diversity cautions against claiming a single exact Big Bang meaning.",
+            "source_url": "https://quran.com/en/21%3A30/tafsirs/ar-tafsir-al-tabari"
+          }
+        ]
+      },
+      "scientific_evidence": {
+        "finding": "The Big Bang model describes an early hot, dense state followed by the expansion and evolution of the universe.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "TABARI_2130",
+          "QURAN_21_30_TAFHEEM",
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_CMB_GLOSSARY"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The verse does not specify the technical details of the Big Bang model. Classical interpretations include different understandings of the joining and separation."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the heavens and earth as ratq and then fataq. Some readers compare this with cosmic origins.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "TABARI_2130",
+          "title": "Tafsir al-Tabari on Qur'an 21:30",
+          "author_or_institution": "Quran.com / Tafsir al-Tabari",
+          "year": null,
+          "url": "https://quran.com/en/21%3A30/tafsirs/ar-tafsir-al-tabari",
+          "what_it_supports": "Al-Tabari records early interpretations of ratq and fatq, including joined/separated heavens and earth and other interpretations; this is not a single unambiguous Big Bang gloss."
+        },
+        {
+          "source_id": "QURAN_21_30_TAFHEEM",
+          "title": "Tafheem-ul-Qur'an on Qur'an 21:30",
+          "author_or_institution": "IslamicStudies.info",
+          "year": null,
+          "url": "https://www.islamicstudies.info/tafheem.php?sura=21&to=37&verse=30",
+          "what_it_supports": "A modern commentary gives a separated-universe reading while identifying the Arabic terms ratq and fatq; this is a commentary, not scientific evidence."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_CMB_GLOSSARY",
+          "title": "Universe Glossary: Cosmic Microwave Background",
+          "author_or_institution": "NASA",
+          "year": 2025,
+          "url": "https://science.nasa.gov/universe/glossary/",
+          "what_it_supports": "The cosmic microwave background as relic radiation from the hot, young universe."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-002",
+      "title": "Creation of the heavens and earth",
+      "quran_reference": "7:54",
+      "scientific_topic": "Origin and evolution of the universe",
+      "scientific_finding": "Modern cosmology investigates the history and evolution of the observable universe.",
+      "connection": "The verse discusses the creation of the heavens and earth.",
+      "limitations": "A theological statement about creation is not itself a scientific description of a physical mechanism.",
+      "evidence_grade": "D",
+      "research_status": "Theological and cosmological comparison",
+      "quranic_evidence": {
+        "references": [
+          "7:54"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/7/54",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Modern cosmology investigates the history and evolution of the observable universe.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "A theological statement about creation is not itself a scientific description of a physical mechanism."
+      },
+      "connection_analysis": {
+        "relationship": "The verse discusses the creation of the heavens and earth.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-003",
+      "title": "The heaven described as smoke",
+      "quran_reference": "41:11",
+      "scientific_topic": "Early cosmic matter and gas",
+      "scientific_finding": "The early universe contained hot plasma; later, gas accumulated and contributed to star and galaxy formation.",
+      "connection": "The word dukhan is sometimes compared with early cosmic material.",
+      "limitations": "Smoke in ordinary language is not equivalent to primordial plasma or interstellar gas.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "41:11"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/41/11",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The early universe contained hot plasma; later, gas accumulated and contributed to star and galaxy formation.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "TABARI_2130",
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_CMB_GLOSSARY"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "Smoke in ordinary language is not equivalent to primordial plasma or interstellar gas."
+      },
+      "connection_analysis": {
+        "relationship": "The word dukhan is sometimes compared with early cosmic material.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "TABARI_2130",
+          "title": "Tafsir al-Tabari on Qur'an 21:30",
+          "author_or_institution": "Quran.com / Tafsir al-Tabari",
+          "year": null,
+          "url": "https://quran.com/en/21%3A30/tafsirs/ar-tafsir-al-tabari",
+          "what_it_supports": "Al-Tabari records early interpretations of ratq and fatq, including joined/separated heavens and earth and other interpretations; this is not a single unambiguous Big Bang gloss."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_CMB_GLOSSARY",
+          "title": "Universe Glossary: Cosmic Microwave Background",
+          "author_or_institution": "NASA",
+          "year": 2025,
+          "url": "https://science.nasa.gov/universe/glossary/",
+          "what_it_supports": "The cosmic microwave background as relic radiation from the hot, young universe."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-004",
+      "title": "Creation in six days or periods",
+      "quran_reference": "7:54",
+      "scientific_topic": "Timescales of cosmic history",
+      "scientific_finding": "The universe has a long history, estimated at approximately 13.8 billion years.",
+      "connection": "The verse refers to six periods or days of creation.",
+      "limitations": "The text's meaning of six days should not automatically be equated with six scientific stages or geological eras.",
+      "evidence_grade": "D",
+      "research_status": "Theological interpretation",
+      "quranic_evidence": {
+        "references": [
+          "7:54"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/7/54",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The universe has a long history, estimated at approximately 13.8 billion years.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The text's meaning of six days should not automatically be equated with six scientific stages or geological eras."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to six periods or days of creation.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-005",
+      "title": "The heaven and its expansion",
+      "quran_reference": "51:47",
+      "scientific_topic": "Expansion of the universe",
+      "scientific_finding": "Observations show that the universe is expanding on large scales.",
+      "connection": "Some translations interpret lamusi'un as expanding, while classical tafsir also gives meanings such as powerful or possessing vast capacity.",
+      "limitations": "The Arabic expression has multiple interpretations. The modern astronomy meaning is not the only historical reading.",
+      "evidence_grade": "C",
+      "research_status": "Important disputed interpretation",
+      "quranic_evidence": {
+        "references": [
+          "51:47"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/51/47",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "partially_reviewed",
+        "notes": "Notes from Tafsir Ibn Kathir are shared below so you can see how early scholars read these words in their original setting.",
+        "sources": [
+          {
+            "scholar": "Muhammad ibn Jarir al-Tabari",
+            "work": "Jami' al-Bayan (Tafsir al-Tabari), on 51:47",
+            "summary": "Al-Tabari explains bi-aydin as strength and al-musi'un through capacity/power and abundance; this does not establish that the verse's only or historically original meaning is the modern technical expansion of space.",
+            "source_url": "https://quran.com/51%3A47/tafsirs/ar-tafsir-al-tabari"
+          }
+        ]
+      },
+      "scientific_evidence": {
+        "finding": "Observations show that the universe is expanding on large scales.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "TABARI_5147",
+          "QURAN_5147_TAFSIR",
+          "NASA_EXPANSION",
+          "NASA_REDSHIFT"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The Arabic expression has multiple interpretations. The modern cosmological meaning is not the only historical reading."
+      },
+      "connection_analysis": {
+        "relationship": "Some translations interpret lamusi'un as expanding, while classical tafsir also gives meanings such as powerful or possessing vast capacity.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "TABARI_5147",
+          "title": "Tafsir al-Tabari on Qur'an 51:47",
+          "author_or_institution": "Quran.com / Tafsir al-Tabari",
+          "year": null,
+          "url": "https://quran.com/51%3A47/tafsirs/ar-tafsir-al-tabari",
+          "what_it_supports": "Al-Tabari explains bi-aydin as strength and al-musi'un in terms of capacity/power and abundance; it does not establish an exclusively modern expansion reading."
+        },
+        {
+          "source_id": "QURAN_5147_TAFSIR",
+          "title": "Tafsir comparisons for Qur'an 51:47",
+          "author_or_institution": "Quran.com",
+          "year": null,
+          "url": "https://quran.com/adh-dhariyat/47",
+          "what_it_supports": "Provides verse translation and multiple tafsir options; translations differ in rendering the final expression."
+        },
+        {
+          "source_id": "NASA_EXPANSION",
+          "title": "Hubble Constant and Tension",
+          "author_or_institution": "NASA",
+          "year": 2025,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+          "what_it_supports": "Observational evidence for cosmic expansion and the fact that the precise expansion rate remains an active research question."
+        },
+        {
+          "source_id": "NASA_REDSHIFT",
+          "title": "Hubble Cosmological Redshift",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/",
+          "what_it_supports": "Galaxy redshift and the observational basis for the expanding-universe model."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-006",
+      "title": "Seven heavens",
+      "quran_reference": "67:3",
+      "scientific_topic": "Structure of the universe",
+      "scientific_finding": "Astronomy identifies structures such as planets, stars, galaxies and galaxy clusters.",
+      "connection": "The verse describes seven heavens.",
+      "limitations": "Modern astronomy has not established seven physical layers corresponding to the seven heavens.",
+      "evidence_grade": "D",
+      "research_status": "No verified scientific equivalence",
+      "quranic_evidence": {
+        "references": [
+          "67:3"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/67/3",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Astronomy identifies structures such as planets, stars, galaxies and galaxy clusters.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "Modern astronomy has not established seven physical layers corresponding to the seven heavens."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes seven heavens.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-007",
+      "title": "Layered heavens",
+      "quran_reference": "2:29",
+      "scientific_topic": "Cosmic structure",
+      "scientific_finding": "The universe contains structures at many scales, including planetary systems, galaxies and galaxy clusters.",
+      "connection": "The verse refers to the creation of seven heavens.",
+      "limitations": "The scientific hierarchy of cosmic structures should not be identified with the theological description without evidence.",
+      "evidence_grade": "D",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "2:29"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/2/29",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The universe contains structures at many scales, including planetary systems, galaxies and galaxy clusters.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The scientific hierarchy of cosmic structures should not be identified with the theological description without evidence."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to the creation of seven heavens.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-008",
+      "title": "The vastness of the heavens",
+      "quran_reference": "3:133",
+      "scientific_topic": "Scale of the universe",
+      "scientific_finding": "The observable universe is extraordinarily large and contains billions of galaxies.",
+      "connection": "The verse uses the vastness of the heavens and earth in describing Paradise.",
+      "limitations": "The verse is not providing a measurement of cosmic size.",
+      "evidence_grade": "D",
+      "research_status": "Theological description",
+      "quranic_evidence": {
+        "references": [
+          "3:133"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/3/133",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The observable universe is extraordinarily large and contains billions of galaxies.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse is not providing a measurement of cosmic size."
+      },
+      "connection_analysis": {
+        "relationship": "The verse uses the vastness of the heavens and earth in describing Paradise.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-009",
+      "title": "The construction of the heaven",
+      "quran_reference": "79:27-30",
+      "scientific_topic": "Formation and structure of the cosmos",
+      "scientific_finding": "Cosmic structures developed through physical processes over billions of years.",
+      "connection": "The passage describes the construction of heaven and the spreading of the earth.",
+      "limitations": "The passage's language is not a technical account of cosmic formation.",
+      "evidence_grade": "D",
+      "research_status": "Textual study required",
+      "quranic_evidence": {
+        "references": [
+          "79:27-30"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/79/27-30",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Cosmic structures developed through physical processes over billions of years.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_HISTORY",
+          "NASA_UNIVERSE_OVERVIEW"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The passage's language is not a technical account of cosmic formation."
+      },
+      "connection_analysis": {
+        "relationship": "The passage describes the construction of heaven and the spreading of the earth.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-010",
+      "title": "The folding of the heavens",
+      "quran_reference": "21:104",
+      "scientific_topic": "Possible cosmic endings",
+      "scientific_finding": "Cosmology studies possible long-term futures of the universe, including continued expansion and other theoretical scenarios.",
+      "connection": "The verse describes the folding of the heaven on the Day of Judgment.",
+      "limitations": "The verse is afterlife and end-of-time and cannot be treated as an established prediction of a particular scientific model of the universe.",
+      "evidence_grade": "D",
+      "research_status": "Not an established scientific prediction",
+      "quranic_evidence": {
+        "references": [
+          "21:104"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/21/104",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Cosmology studies possible long-term futures of the universe, including continued expansion and other theoretical scenarios.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse is afterlife and end-of-time and cannot be treated as an established prediction of a particular scientific model of the universe."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the folding of the heaven on the Day of Judgment.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-011",
+      "title": "Stars as features of the heaven",
+      "quran_reference": "37:6",
+      "scientific_topic": "Stars and stellar systems",
+      "scientific_finding": "Stars are luminous astronomical objects formed primarily from gas through gravitational collapse.",
+      "connection": "The verse mentions the adornment of the lowest heaven with stars.",
+      "limitations": "The verse is not a technical explanation of stellar formation.",
+      "evidence_grade": "B",
+      "research_status": "Observable phenomenon; textual meaning needs study",
+      "quranic_evidence": {
+        "references": [
+          "37:6"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/37/6",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars are luminous astronomical objects formed primarily from gas through gravitational collapse.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_STARS"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse is not a technical explanation of stellar formation."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions the adornment of the lowest heaven with stars.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_STARS",
+          "title": "Stars",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/stars/",
+          "what_it_supports": "Star formation from gas and dust, stellar properties, and stellar life cycles."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-012",
+      "title": "Stars as navigation signs",
+      "quran_reference": "6:97",
+      "scientific_topic": "Celestial navigation",
+      "scientific_finding": "Stars have historically been used to determine direction and assist navigation.",
+      "connection": "The verse describes stars as guidance in darkness on land and sea.",
+      "limitations": "This is a practical observation rather than a prediction of modern astronomy.",
+      "evidence_grade": "B",
+      "research_status": "Strong practical connection",
+      "quranic_evidence": {
+        "references": [
+          "6:97"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/6/97",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars have historically been used to determine direction and assist navigation.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_STARS",
+          "NASA_SUN_FACTS"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "This is a practical observation rather than a prediction of modern astronomy."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes stars as guidance in darkness on land and sea.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_STARS",
+          "title": "Stars",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/stars/",
+          "what_it_supports": "Star formation from gas and dust, stellar properties, and stellar life cycles."
+        },
+        {
+          "source_id": "NASA_SUN_FACTS",
+          "title": "Sun: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/sun/facts/",
+          "what_it_supports": "The Sun's rotation and its orbit around the centre of the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-013",
+      "title": "Constellations in the sky",
+      "quran_reference": "15:16",
+      "scientific_topic": "Constellations and celestial mapping",
+      "scientific_finding": "Astronomers use defined regions of the sky and recognizable star patterns to map celestial objects.",
+      "connection": "The verse refers to buruj in the heaven.",
+      "limitations": "The exact meaning of buruj in the verse requires linguistic and tafsir study; it should not automatically be equated with modern constellations.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "15:16"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/15/16",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Astronomers use defined regions of the sky and recognizable star patterns to map celestial objects.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_STARS"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The exact meaning of buruj in the verse requires linguistic and tafsir study; it should not automatically be equated with modern constellations."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to buruj in the heaven.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_STARS",
+          "title": "Stars",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/stars/",
+          "what_it_supports": "Star formation from gas and dust, stellar properties, and stellar life cycles."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-014",
+      "title": "Celestial bodies moving in their courses",
+      "quran_reference": "21:33",
+      "scientific_topic": "Orbital motion",
+      "scientific_finding": "The sun, moon, planets and other celestial bodies exhibit motion governed by physical laws, including gravity.",
+      "connection": "The verse describes the night, day, sun and moon, each moving in a falak.",
+      "limitations": "The word falak requires linguistic analysis and does not provide orbital equations.",
+      "evidence_grade": "B",
+      "research_status": "Strong general astronomical connection",
+      "quranic_evidence": {
+        "references": [
+          "21:33"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/21/33",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun, moon, planets and other celestial bodies exhibit motion governed by physical laws, including gravity.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The word falak requires linguistic analysis and does not provide orbital equations."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the night, day, sun and moon, each moving in a falak.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-015",
+      "title": "The celestial orbit",
+      "quran_reference": "36:40",
+      "scientific_topic": "Orbital mechanics",
+      "scientific_finding": "Celestial bodies follow predictable paths under gravitational interactions.",
+      "connection": "The verse describes the sun and moon, each moving along its course.",
+      "limitations": "The verse should not be presented as a mathematical statement of Kepler's laws.",
+      "evidence_grade": "B",
+      "research_status": "Strong general astronomical connection",
+      "quranic_evidence": {
+        "references": [
+          "36:40"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/36/40",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Celestial bodies follow predictable paths under gravitational interactions.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse should not be presented as a mathematical statement of Kepler's laws."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun and moon, each moving along its course.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-016",
+      "title": "The movement of the sun",
+      "quran_reference": "36:38",
+      "scientific_topic": "Solar motion",
+      "scientific_finding": "The sun rotates and moves through the Milky Way while participating in the motion of the local galactic system.",
+      "connection": "The verse says the sun runs toward its appointed destination or term.",
+      "limitations": "The phrase must be interpreted in its linguistic and historical context; it does not specify the sun's galactic orbit.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive astronomical comparison",
+      "quranic_evidence": {
+        "references": [
+          "36:38"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/36/38",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun rotates and moves through the Milky Way while participating in the motion of the local galactic system.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_SUN_FACTS",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The phrase must be interpreted in its linguistic and historical context; it does not specify the sun's galactic orbit."
+      },
+      "connection_analysis": {
+        "relationship": "The verse says the sun runs toward its appointed destination or term.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_SUN_FACTS",
+          "title": "Sun: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/sun/facts/",
+          "what_it_supports": "The Sun's rotation and its orbit around the centre of the Milky Way."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-017",
+      "title": "The phases of the moon",
+      "quran_reference": "36:39",
+      "scientific_topic": "Lunar phases",
+      "scientific_finding": "The moon's visible phases result from changing viewing geometry between the sun, Earth and moon.",
+      "connection": "The verse describes stages or stations for the moon.",
+      "limitations": "The verse is not a technical account of the geometry causing lunar phases.",
+      "evidence_grade": "B",
+      "research_status": "Observable astronomical connection",
+      "quranic_evidence": {
+        "references": [
+          "36:39"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/36/39",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The moon's visible phases result from changing viewing geometry between the sun, Earth and moon.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_MOON_PHASES",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse is not a technical account of the geometry causing lunar phases."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes stages or stations for the moon.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_MOON_PHASES",
+          "title": "Moon Phases",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "what_it_supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-018",
+      "title": "The sun and moon follow calculations",
+      "quran_reference": "55:5",
+      "scientific_topic": "Predictable celestial motion",
+      "scientific_finding": "The positions and motions of the sun and moon can be calculated with high precision.",
+      "connection": "The verse describes the sun and moon as moving according to calculation.",
+      "limitations": "The verse does not state the mathematical methods used in astronomy.",
+      "evidence_grade": "B",
+      "research_status": "Strong general connection",
+      "quranic_evidence": {
+        "references": [
+          "55:5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/55/5",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The positions and motions of the sun and moon can be calculated with high precision.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse does not state the mathematical methods used in astronomy."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun and moon as moving according to calculation.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-019",
+      "title": "The sun and moon as time indicators",
+      "quran_reference": "10:5",
+      "scientific_topic": "Astronomical timekeeping",
+      "scientific_finding": "Solar and lunar cycles are used in calendars and timekeeping systems.",
+      "connection": "The verse connects the sun and moon with calculation of years and time.",
+      "limitations": "This is an observable function of celestial cycles, not a prediction of modern astronomy.",
+      "evidence_grade": "B",
+      "research_status": "Strong practical connection",
+      "quranic_evidence": {
+        "references": [
+          "10:5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/10/5",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Solar and lunar cycles are used in calendars and timekeeping systems.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_MOON_PHASES",
+          "NASA_DAY_NIGHT"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "This is an observable function of celestial cycles, not a prediction of modern astronomy."
+      },
+      "connection_analysis": {
+        "relationship": "The verse connects the sun and moon with calculation of years and time.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_MOON_PHASES",
+          "title": "Moon Phases",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "what_it_supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+        },
+        {
+          "source_id": "NASA_DAY_NIGHT",
+          "title": "What Is Earth? (Grades 5-8)",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/",
+          "what_it_supports": "Earth's rotation and the resulting day-night cycle."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-020",
+      "title": "The ordered motion of celestial bodies",
+      "quran_reference": "16:12",
+      "scientific_topic": "Celestial mechanics",
+      "scientific_finding": "Celestial motion follows measurable physical patterns and gravitational interactions.",
+      "connection": "The verse mentions the subjection of the sun, moon and stars.",
+      "limitations": "The verse is theological in framing and does not explain the physical laws behind motion.",
+      "evidence_grade": "C",
+      "research_status": "General comparison",
+      "quranic_evidence": {
+        "references": [
+          "16:12"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/16/12",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Celestial motion follows measurable physical patterns and gravitational interactions.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse is theological in framing and does not explain the physical laws behind motion."
+      },
+      "connection_analysis": {
+        "relationship": "The verse mentions the subjection of the sun, moon and stars.",
+        "connection_type": "general_reflection",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-021",
+      "title": "The sun as a source of brightness",
+      "quran_reference": "10:5",
+      "scientific_topic": "Solar radiation",
+      "scientific_finding": "The sun produces energy through nuclear fusion and emits electromagnetic radiation.",
+      "connection": "The verse describes the sun as diya and the moon as nur.",
+      "limitations": "The distinction between these Arabic terms should not be turned into an unsupported claim that the verse explains nuclear fusion or reflected moonlight.",
+      "evidence_grade": "C",
+      "research_status": "Linguistic and scientific comparison",
+      "quranic_evidence": {
+        "references": [
+          "10:5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/10/5",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun produces energy through nuclear fusion and emits electromagnetic radiation.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_STAR_TYPES",
+          "NASA_SUN_FACTS"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The distinction between these Arabic terms should not be turned into an unsupported claim that the verse explains nuclear fusion or reflected moonlight."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun as diya and the moon as nur.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_STAR_TYPES",
+          "title": "Types of Stars",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/stars/types/",
+          "what_it_supports": "Nuclear fusion in stars and the Sun's main-sequence stage."
+        },
+        {
+          "source_id": "NASA_SUN_FACTS",
+          "title": "Sun: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/sun/facts/",
+          "what_it_supports": "The Sun's rotation and its orbit around the centre of the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-022",
+      "title": "The moon as a source of light",
+      "quran_reference": "25:61",
+      "scientific_topic": "Reflected sunlight",
+      "scientific_finding": "The moon does not produce visible light through stellar-like fusion; its visible brightness is predominantly reflected sunlight.",
+      "connection": "The verse describes the moon as a source of light.",
+      "limitations": "The Arabic word nur does not necessarily specify the physical mechanism of reflected light.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "25:61"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/25/61",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The moon does not produce visible light through stellar-like fusion; its visible brightness is predominantly reflected sunlight.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_MOON_PHASES",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The Arabic word nur does not necessarily specify the physical mechanism of reflected light."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the moon as a source of light.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_MOON_PHASES",
+          "title": "Moon Phases",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "what_it_supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-023",
+      "title": "Different descriptions of the sun and moon",
+      "quran_reference": "71:16",
+      "scientific_topic": "Differences between stars and natural satellites",
+      "scientific_finding": "The sun is a star that generates energy; the moon is a natural satellite that reflects sunlight.",
+      "connection": "The verse uses different descriptive terms for the sun and moon.",
+      "limitations": "The wording is not a detailed scientific classification of these objects.",
+      "evidence_grade": "C",
+      "research_status": "Textual comparison",
+      "quranic_evidence": {
+        "references": [
+          "71:16"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/71/16",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun is a star that generates energy; the moon is a natural satellite that reflects sunlight.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_MOON_PHASES",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The wording is not a detailed scientific classification of these objects."
+      },
+      "connection_analysis": {
+        "relationship": "The verse uses different descriptive terms for the sun and moon.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_MOON_PHASES",
+          "title": "Moon Phases",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "what_it_supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-024",
+      "title": "The sun does not overtake the moon",
+      "quran_reference": "36:40",
+      "scientific_topic": "Distinct celestial paths and cycles",
+      "scientific_finding": "The sun and moon have distinct apparent motions and predictable cycles as viewed from Earth.",
+      "connection": "The verse states that the sun does not overtake the moon and that each moves in its course.",
+      "limitations": "The statement should be understood in context and not mistaken for a complete account of celestial mechanics.",
+      "evidence_grade": "B",
+      "research_status": "General astronomical connection",
+      "quranic_evidence": {
+        "references": [
+          "36:40"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/36/40",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun and moon have distinct apparent motions and predictable cycles as viewed from Earth.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The statement should be understood in context and not mistaken for a complete account of celestial mechanics."
+      },
+      "connection_analysis": {
+        "relationship": "The verse states that the sun does not overtake the moon and that each moves in its course.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-025",
+      "title": "Night and day as signs",
+      "quran_reference": "3:190",
+      "scientific_topic": "Earth's rotation and illumination",
+      "scientific_finding": "Earth's rotation produces the regular cycle of daylight and darkness at different locations.",
+      "connection": "The verse refers to the alternation of night and day.",
+      "limitations": "The verse does not explicitly describe Earth's rotation.",
+      "evidence_grade": "B",
+      "research_status": "Observable phenomenon",
+      "quranic_evidence": {
+        "references": [
+          "3:190"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/3/190",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Earth's rotation produces the regular cycle of daylight and darkness at different locations.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_DAY_NIGHT"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse does not explicitly describe Earth's rotation."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to the alternation of night and day.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_DAY_NIGHT",
+          "title": "What Is Earth? (Grades 5-8)",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/",
+          "what_it_supports": "Earth's rotation and the resulting day-night cycle."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-026",
+      "title": "The alternation of night and day",
+      "quran_reference": "39:5",
+      "scientific_topic": "Earth's rotation and day-night cycle",
+      "scientific_finding": "Earth's rotation causes the regular alternation of day and night.",
+      "connection": "The verse describes night being wrapped over day and day over night.",
+      "limitations": "The imagery is not a precise technical description of Earth's rotation.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "39:5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/39/5",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Earth's rotation causes the regular alternation of day and night.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_DAY_NIGHT"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The imagery is not a precise technical description of Earth's rotation."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes night being wrapped over day and day over night.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_DAY_NIGHT",
+          "title": "What Is Earth? (Grades 5-8)",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/",
+          "what_it_supports": "Earth's rotation and the resulting day-night cycle."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-027",
+      "title": "The sun and moon as recurring phenomena",
+      "quran_reference": "14:33",
+      "scientific_topic": "Solar and lunar cycles",
+      "scientific_finding": "The sun's apparent daily cycle and the moon's monthly phases are predictable astronomical phenomena.",
+      "connection": "The verse describes the sun and moon as continuing in their courses.",
+      "limitations": "The verse does not give orbital periods or physical explanations.",
+      "evidence_grade": "B",
+      "research_status": "Observable connection",
+      "quranic_evidence": {
+        "references": [
+          "14:33"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/14/33",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun's apparent daily cycle and the moon's monthly phases are predictable astronomical phenomena.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse does not give orbital periods or physical explanations."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun and moon as continuing in their courses.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-028",
+      "title": "The moon and calendar calculation",
+      "quran_reference": "2:189",
+      "scientific_topic": "Lunar calendars",
+      "scientific_finding": "Lunar phases provide the basis for lunar months and are used in calendar systems.",
+      "connection": "The verse identifies lunar phases as time indicators for people.",
+      "limitations": "The verse addresses timekeeping and religious practice rather than modern astronomical theory.",
+      "evidence_grade": "B",
+      "research_status": "Strong practical connection",
+      "quranic_evidence": {
+        "references": [
+          "2:189"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/2/189",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Lunar phases provide the basis for lunar months and are used in calendar systems.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_MOON_PHASES",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse addresses timekeeping and religious practice rather than modern astronomical theory."
+      },
+      "connection_analysis": {
+        "relationship": "The verse identifies lunar phases as time indicators for people.",
+        "connection_type": "observable_phenomenon",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_MOON_PHASES",
+          "title": "Moon Phases",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "what_it_supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-029",
+      "title": "The sun's setting in human observation",
+      "quran_reference": "18:86",
+      "scientific_topic": "Apparent sunset and perspective",
+      "scientific_finding": "Sunset is the apparent disappearance of the sun below the local horizon due to Earth's rotation.",
+      "connection": "The verse describes Dhul-Qarnayn finding the sun setting in a particular place.",
+      "limitations": "The narrative's wording and perspective require careful interpretation. It should not be presented as a scientific claim that the sun physically enters a body of water.",
+      "evidence_grade": "D",
+      "research_status": "Narrative and perspective study",
+      "quranic_evidence": {
+        "references": [
+          "18:86"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/18/86",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Sunset is the apparent disappearance of the sun below the local horizon due to Earth's rotation.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_DAY_NIGHT"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The narrative's wording and perspective require careful interpretation. It should not be presented as a scientific claim that the sun physically enters a body of water."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes Dhul-Qarnayn finding the sun setting in a particular place.",
+        "connection_type": "general_reflection",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_DAY_NIGHT",
+          "title": "What Is Earth? (Grades 5-8)",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/",
+          "what_it_supports": "Earth's rotation and the resulting day-night cycle."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-030",
+      "title": "The movement of celestial objects",
+      "quran_reference": "81:15-16",
+      "scientific_topic": "Celestial motion",
+      "scientific_finding": "Stars and other celestial objects move through space, and their positions can be measured over time.",
+      "connection": "The passage refers to celestial objects described as moving or disappearing.",
+      "limitations": "The exact referents and meanings are interpretive; the passage is not a technical astronomy description.",
+      "evidence_grade": "D",
+      "research_status": "Textual interpretation required",
+      "quranic_evidence": {
+        "references": [
+          "81:15-16"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/81/15-16",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars and other celestial objects move through space, and their positions can be measured over time.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The exact referents and meanings are interpretive; the passage is not a technical astronomy description."
+      },
+      "connection_analysis": {
+        "relationship": "The passage refers to celestial objects described as moving or disappearing.",
+        "connection_type": "general_reflection",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-031",
+      "title": "The sky as a protected canopy",
+      "quran_reference": "21:32",
+      "scientific_topic": "Earth's atmosphere and protective environment",
+      "scientific_finding": "Earth's atmosphere absorbs or filters some harmful radiation, regulates temperature and supports life.",
+      "connection": "The verse describes the sky as a protected roof.",
+      "limitations": "The verse does not identify the atmosphere, ozone layer or magnetosphere by scientific name.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "21:32"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/21/32",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Earth's atmosphere absorbs or filters some harmful radiation, regulates temperature and supports life.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ATMOSPHERE",
+          "NASA_UV_OZONE"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse does not identify the atmosphere, ozone layer or magnetosphere by scientific name."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sky as a protected roof.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ATMOSPHERE",
+          "title": "What Is Earth's Atmosphere?",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://www.nasa.gov/general/what-is-earths-atmosphere/",
+          "what_it_supports": "The atmosphere's role in providing breathable air, filtering harmful ultraviolet radiation, and moderating temperature."
+        },
+        {
+          "source_id": "NASA_UV_OZONE",
+          "title": "Ultraviolet Radiation: How It Affects Life on Earth",
+          "author_or_institution": "NASA Earth Observatory",
+          "year": null,
+          "url": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+          "what_it_supports": "Ozone absorption of much harmful UV-B radiation."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-032",
+      "title": "The raising of the heaven",
+      "quran_reference": "79:27-28",
+      "scientific_topic": "Atmosphere and cosmic scale",
+      "scientific_finding": "Earth's atmosphere extends outward and gradually transitions into space; the universe has enormous spatial scale.",
+      "connection": "The passage describes the heaven being raised and proportioned.",
+      "limitations": "The passage does not specify atmospheric layers or distances.",
+      "evidence_grade": "D",
+      "research_status": "General comparison only",
+      "quranic_evidence": {
+        "references": [
+          "79:27-28"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/79/27-28",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Earth's atmosphere extends outward and gradually transitions into space; the universe has enormous spatial scale.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ATMOSPHERE",
+          "NASA_UV_OZONE"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The passage does not specify atmospheric layers or distances."
+      },
+      "connection_analysis": {
+        "relationship": "The passage describes the heaven being raised and proportioned.",
+        "connection_type": "general_reflection",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ATMOSPHERE",
+          "title": "What Is Earth's Atmosphere?",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://www.nasa.gov/general/what-is-earths-atmosphere/",
+          "what_it_supports": "The atmosphere's role in providing breathable air, filtering harmful ultraviolet radiation, and moderating temperature."
+        },
+        {
+          "source_id": "NASA_UV_OZONE",
+          "title": "Ultraviolet Radiation: How It Affects Life on Earth",
+          "author_or_institution": "NASA Earth Observatory",
+          "year": null,
+          "url": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+          "what_it_supports": "Ozone absorption of much harmful UV-B radiation."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-033",
+      "title": "The lamps of the heaven",
+      "quran_reference": "41:12",
+      "scientific_topic": "Stars and visible celestial objects",
+      "scientific_finding": "Stars emit light and appear as luminous objects in the night sky.",
+      "connection": "The verse describes the nearest heaven as adorned with lamps.",
+      "limitations": "The verse's theological language should not be treated as a physical model of the universe.",
+      "evidence_grade": "C",
+      "research_status": "Textual comparison",
+      "quranic_evidence": {
+        "references": [
+          "41:12"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/41/12",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars emit light and appear as luminous objects in the night sky.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_STARS"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "The verse's theological language should not be treated as a physical model of the universe."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the nearest heaven as adorned with lamps.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_STARS",
+          "title": "Stars",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/stars/",
+          "what_it_supports": "Star formation from gas and dust, stellar properties, and stellar life cycles."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-034",
+      "title": "Order and balance in the heavens",
+      "quran_reference": "67:3-4",
+      "scientific_topic": "Regularities and laws in nature",
+      "scientific_finding": "Physical systems exhibit measurable regularities that scientists describe through mathematical laws.",
+      "connection": "The verses invite observation of the heavens and their lack of visible inconsistency.",
+      "limitations": "A theological statement about perfection is not a scientific theory or proof of a particular physical law.",
+      "evidence_grade": "C",
+      "research_status": "Philosophical and scientific comparison",
+      "quranic_evidence": {
+        "references": [
+          "67:3-4"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/67/3-4",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Physical systems exhibit measurable regularities that scientists describe through mathematical laws.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_GRAVITY"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "A theological statement about perfection is not a scientific theory or proof of a particular physical law."
+      },
+      "connection_analysis": {
+        "relationship": "The verses invite observation of the heavens and their lack of visible inconsistency.",
+        "connection_type": "general_reflection",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-035",
+      "title": "The relationship between heaven and earth",
+      "quran_reference": "2:29",
+      "scientific_topic": "Earth within the cosmic environment",
+      "scientific_finding": "Earth is a planet in the solar system, which is part of the Milky Way galaxy.",
+      "connection": "The verse discusses creation of what is on earth and the heavens above.",
+      "limitations": "The verse is not a statement of Earth's astronomical location.",
+      "evidence_grade": "D",
+      "research_status": "Theological context",
+      "quranic_evidence": {
+        "references": [
+          "2:29"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/2/29",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Earth is a planet in the solar system, which is part of the Milky Way galaxy.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_GRAVITY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse is not a statement of Earth's astronomical location."
+      },
+      "connection_analysis": {
+        "relationship": "The verse discusses creation of what is on earth and the heavens above.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-036",
+      "title": "Reflection on the creation of the heavens",
+      "quran_reference": "3:190-191",
+      "scientific_topic": "Observation of the natural universe",
+      "scientific_finding": "Astronomy uses systematic observation and analysis to study the universe.",
+      "connection": "The verses encourage reflection on the creation of the heavens and earth.",
+      "limitations": "Encouragement to reflect is not itself a specific scientific discovery.",
+      "evidence_grade": "D",
+      "research_status": "Philosophical connection",
+      "quranic_evidence": {
+        "references": [
+          "3:190-191"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/3/190-191",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Astronomy uses systematic observation and analysis to study the universe.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_GRAVITY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "Encouragement to reflect is not itself a specific scientific discovery."
+      },
+      "connection_analysis": {
+        "relationship": "The verses encourage reflection on the creation of the heavens and earth.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-037",
+      "title": "The heavens and earth as signs",
+      "quran_reference": "45:3-5",
+      "scientific_topic": "Natural phenomena and scientific observation",
+      "scientific_finding": "The universe contains observable phenomena studied by astronomy, physics and Earth science.",
+      "connection": "The verses identify creation and natural phenomena as signs.",
+      "limitations": "The passage does not state a particular scientific mechanism.",
+      "evidence_grade": "D",
+      "research_status": "Theological reflection",
+      "quranic_evidence": {
+        "references": [
+          "45:3-5"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/45/3-5",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The universe contains observable phenomena studied by astronomy, physics and Earth science.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_GRAVITY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The passage does not state a particular scientific mechanism."
+      },
+      "connection_analysis": {
+        "relationship": "The verses identify creation and natural phenomena as signs.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-038",
+      "title": "The heavens without visible pillars",
+      "quran_reference": "31:10",
+      "scientific_topic": "Gravitational structure",
+      "scientific_finding": "Gravity governs the motion and large-scale structure of planets, stars and galaxies.",
+      "connection": "The verse describes heavens raised without visible pillars.",
+      "limitations": "Identifying the invisible pillars with gravity is an interpretation, not an explicit scientific explanation in the verse.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "references": [
+          "31:10"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/31/10",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Gravity governs the motion and large-scale structure of planets, stars and galaxies.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background",
+        "limitations": "Identifying the invisible pillars with gravity is an interpretation, not an explicit scientific explanation in the verse."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes heavens raised without visible pillars.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-039",
+      "title": "Paths in the heaven",
+      "quran_reference": "51:7",
+      "scientific_topic": "Celestial trajectories and cosmic structure",
+      "scientific_finding": "Objects in space follow trajectories and exhibit large-scale patterns.",
+      "connection": "The verse refers to the heaven possessing paths or tracks.",
+      "limitations": "The word al-hubuk has multiple interpretations and should not automatically be equated with orbital paths or cosmic filaments.",
+      "evidence_grade": "C",
+      "research_status": "Linguistic research required",
+      "quranic_evidence": {
+        "references": [
+          "51:7"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/51/7",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Objects in space follow trajectories and exhibit large-scale patterns.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_ORBITS",
+          "NASA_GRAVITY",
+          "NASA_SOLAR_SYSTEM"
+        ],
+        "consensus_note": "Established scientific background; the proposed verse-to-science identification is interpretive",
+        "limitations": "The word al-hubuk has multiple interpretations and should not automatically be equated with orbital paths or cosmic filaments."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to the heaven possessing paths or tracks.",
+        "connection_type": "interpretive_comparison",
+        "assessment": "The scientific phenomenon is real, but the verse should not be described as giving its technical mechanism or equations."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_ORBITS",
+          "title": "Orbits and Kepler's Laws",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+          "what_it_supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        },
+        {
+          "source_id": "NASA_SOLAR_SYSTEM",
+          "title": "Solar System: Facts",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+          "what_it_supports": "The solar system's contents, formation, and orbit around the Milky Way."
+        }
+      ],
+      "verification_status": "partially_verified_scientific_background",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-040",
+      "title": "The heaven and balance",
+      "quran_reference": "55:7",
+      "scientific_topic": "Physical regularities and balance",
+      "scientific_finding": "Many physical systems can be described using conservation laws and mathematical relationships.",
+      "connection": "The verse refers to the heaven being raised and the balance being established.",
+      "limitations": "The term mizan has a broad meaning and cannot automatically be assigned to a specific scientific law.",
+      "evidence_grade": "D",
+      "research_status": "Conceptual comparison",
+      "quranic_evidence": {
+        "references": [
+          "55:7"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/55/7",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Many physical systems can be described using conservation laws and mathematical relationships.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_GRAVITY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The term mizan has a broad meaning and cannot automatically be assigned to a specific scientific law."
+      },
+      "connection_analysis": {
+        "relationship": "The verse refers to the heaven being raised and the balance being established.",
+        "connection_type": "general_reflection",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_GRAVITY",
+          "title": "Chapter 3: Gravity & Mechanics",
+          "author_or_institution": "NASA",
+          "year": 2023,
+          "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+          "what_it_supports": "Gravity as the source of centripetal acceleration in orbital motion."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-041",
+      "title": "The splitting of the sky",
+      "quran_reference": "55:37",
+      "scientific_topic": "Cosmic transformations",
+      "scientific_finding": "Cosmology studies changes in the universe over time.",
+      "connection": "The verse describes the sky splitting on the Day of Judgment.",
+      "limitations": "This is afterlife and end-of-time imagery and not an empirically confirmed future event.",
+      "evidence_grade": "D",
+      "research_status": "Not scientifically testable",
+      "quranic_evidence": {
+        "references": [
+          "55:37"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/55/37",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Cosmology studies changes in the universe over time.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "This is afterlife and end-of-time imagery and not an empirically confirmed future event."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sky splitting on the Day of Judgment.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-042",
+      "title": "The sky being rolled up",
+      "quran_reference": "21:104",
+      "scientific_topic": "Theoretical fate of the universe",
+      "scientific_finding": "Cosmologists study possible long-term scenarios for the universe's evolution.",
+      "connection": "The verse describes the heavens being folded like a scroll.",
+      "limitations": "The imagery does not establish a scientific prediction such as the Big Crunch.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological description",
+      "quranic_evidence": {
+        "references": [
+          "21:104"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/21/104",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Cosmologists study possible long-term scenarios for the universe's evolution.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The imagery does not establish a scientific prediction such as the Big Crunch."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the heavens being folded like a scroll.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-043",
+      "title": "The dimming of stars",
+      "quran_reference": "81:2",
+      "scientific_topic": "Stellar evolution and disappearance",
+      "scientific_finding": "Stars change over time and eventually cease producing energy through their original fusion processes.",
+      "connection": "The verse describes stars losing their light or becoming scattered.",
+      "limitations": "The verse concerns the Last Day and does not describe stellar evolution scientifically.",
+      "evidence_grade": "D",
+      "research_status": "Not a scientific prediction",
+      "quranic_evidence": {
+        "references": [
+          "81:2"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/81/2",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars change over time and eventually cease producing energy through their original fusion processes.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse concerns the Last Day and does not describe stellar evolution scientifically."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes stars losing their light or becoming scattered.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-044",
+      "title": "The scattering of stars",
+      "quran_reference": "82:2",
+      "scientific_topic": "Stellar and cosmic disruption",
+      "scientific_finding": "Stars can change position and stellar systems can be disrupted by gravitational interactions.",
+      "connection": "The verse describes the scattering of stars.",
+      "limitations": "The verse is afterlife and end-of-time and does not identify a physical mechanism.",
+      "evidence_grade": "D",
+      "research_status": "Not scientifically testable",
+      "quranic_evidence": {
+        "references": [
+          "82:2"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/82/2",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Stars can change position and stellar systems can be disrupted by gravitational interactions.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse is afterlife and end-of-time and does not identify a physical mechanism."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the scattering of stars.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-045",
+      "title": "The folding or darkening of the sun",
+      "quran_reference": "81:1",
+      "scientific_topic": "Solar evolution",
+      "scientific_finding": "The sun will eventually evolve away from its current main-sequence stage, according to stellar evolution models.",
+      "connection": "The verse describes the sun being folded or darkened.",
+      "limitations": "The verse describes the Last Day, not the scientifically modelled future of the sun.",
+      "evidence_grade": "D",
+      "research_status": "No direct scientific prediction",
+      "quranic_evidence": {
+        "references": [
+          "81:1"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/81/1",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun will eventually evolve away from its current main-sequence stage, according to stellar evolution models.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse describes the Last Day, not the scientifically modelled future of the sun."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun being folded or darkened.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-046",
+      "title": "The moon losing its light",
+      "quran_reference": "75:8",
+      "scientific_topic": "Lunar appearance",
+      "scientific_finding": "The moon's apparent brightness changes through its phases and during eclipses.",
+      "connection": "The verse describes the moon becoming dark or losing its light in the Last Day narrative.",
+      "limitations": "The passage is not a description of ordinary lunar phases or a scientific forecast.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological description",
+      "quranic_evidence": {
+        "references": [
+          "75:8"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/75/8",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The moon's apparent brightness changes through its phases and during eclipses.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The passage is not a description of ordinary lunar phases or a scientific forecast."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the moon becoming dark or losing its light in the Last Day narrative.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-047",
+      "title": "The joining of the sun and moon",
+      "quran_reference": "75:9",
+      "scientific_topic": "Solar and lunar alignment",
+      "scientific_finding": "The sun, Earth and moon can align during solar and lunar eclipses.",
+      "connection": "The verse describes the sun and moon being brought together.",
+      "limitations": "The verse occurs in a description of the Last Day and should not be reduced to a prediction of an eclipse.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological context",
+      "quranic_evidence": {
+        "references": [
+          "75:9"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/75/9",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The sun, Earth and moon can align during solar and lunar eclipses.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse occurs in a description of the Last Day and should not be reduced to a prediction of an eclipse."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the sun and moon being brought together.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-048",
+      "title": "The disappearance of celestial lights",
+      "quran_reference": "77:8-9",
+      "scientific_topic": "Cosmic change and stellar visibility",
+      "scientific_finding": "Astronomical objects can change brightness, and the visibility of celestial objects depends on physical and observational conditions.",
+      "connection": "The passage describes stars being extinguished and the sky being split.",
+      "limitations": "The passage describes the Last Day and does not provide a scientific mechanism.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological description",
+      "quranic_evidence": {
+        "references": [
+          "77:8-9"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/77/8-9",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Astronomical objects can change brightness, and the visibility of celestial objects depends on physical and observational conditions.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The passage describes the Last Day and does not provide a scientific mechanism."
+      },
+      "connection_analysis": {
+        "relationship": "The passage describes stars being extinguished and the sky being split.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-049",
+      "title": "Transformation of the heavens and earth",
+      "quran_reference": "14:48",
+      "scientific_topic": "Long-term cosmic evolution",
+      "scientific_finding": "The universe evolves over time, and its future is studied through cosmological models.",
+      "connection": "The verse describes the heavens and earth being changed on the Day of Judgment.",
+      "limitations": "The verse does not specify a specific scientific scenario for how the universe ends.",
+      "evidence_grade": "D",
+      "research_status": "Theological and eschatological topic",
+      "quranic_evidence": {
+        "references": [
+          "14:48"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/14/48",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "The universe evolves over time, and its future is studied through scientific models of the universe.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verse does not specify a physical cosmological scenario."
+      },
+      "connection_analysis": {
+        "relationship": "The verse describes the heavens and earth being changed on the Day of Judgment.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    },
+    {
+      "id": "COS-050",
+      "title": "The end of the present cosmic order",
+      "quran_reference": "55:26-27",
+      "scientific_topic": "The future of matter and the universe",
+      "scientific_finding": "Physics and cosmology study the long-term evolution of matter, stars and the universe.",
+      "connection": "The verses discuss the passing away of creation and the enduring nature of God.",
+      "limitations": "The verses make a theological statement and do not provide a testable scientific model of the universe.",
+      "evidence_grade": "D",
+      "research_status": "Theological reflection",
+      "quranic_evidence": {
+        "references": [
+          "55:26-27"
+        ],
+        "verse_text_arabic": null,
+        "translation": null,
+        "translator": null,
+        "source_url": "https://quran.com/55/26-27",
+        "text_verification": "Reference retained from uploaded dataset; exact Arabic wording and chosen translation still require verse-by-verse editorial verification."
+      },
+      "classical_tafsir_review": {
+        "status": "not_yet_individually_verified",
+        "notes": "Early Muslim scholars read these verses with careful attention to classic Arabic meaning and spiritual reflection.",
+        "sources": []
+      },
+      "scientific_evidence": {
+        "finding": "Physics and cosmology study the long-term evolution of matter, stars and the universe.",
+        "explanation": "The scientific statement is supported at the general level by the sources listed below. Those sources establish the scientific phenomenon, not that the Qur'anic passage predicted it.",
+        "sources": [
+          "NASA_UNIVERSE_OVERVIEW",
+          "NASA_UNIVERSE_HISTORY"
+        ],
+        "consensus_note": "No direct scientific prediction is established by this passage; scientific literature is included only as contextual background.",
+        "limitations": "The verses make a theological statement and do not provide a testable scientific model of the universe."
+      },
+      "connection_analysis": {
+        "relationship": "The verses discuss the passing away of creation and the enduring nature of God.",
+        "connection_type": "theological_or_eschatological",
+        "assessment": "The connection is interpretive and should be presented as a possible reflection, not as a scientific proof."
+      },
+      "evidence_sources": [
+        {
+          "source_id": "NASA_UNIVERSE_OVERVIEW",
+          "title": "Universe Overview",
+          "author_or_institution": "NASA",
+          "year": null,
+          "url": "https://science.nasa.gov/universe/overview/",
+          "what_it_supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+        },
+        {
+          "source_id": "NASA_UNIVERSE_HISTORY",
+          "title": "Hubble Big Bang: The Science Behind the Discoveries",
+          "author_or_institution": "NASA",
+          "year": 2024,
+          "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+          "what_it_supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+        }
+      ],
+      "verification_status": "textual_or_theological_review_required",
+      "publication_warning": "Read this topic as a thoughtful reflection between faith and science, keeping the verse’s full story and real science limits clear."
+    }
+  ],
+  "source_policy": {
+    "quran_sources": [
+      "Quran.com",
+      "Tanzil",
+      "Quranic Arabic Corpus"
+    ],
+    "tafsir_sources": [
+      "Tafsir al-Tabari",
+      "Tafsir Ibn Kathir",
+      "Tafsir al-Qurtubi",
+      "Tafheem-ul-Quran"
+    ],
+    "science_sources": [
+      "NASA Science",
+      "European Space Agency",
+      "Peer-reviewed astronomy and cosmology journals"
+    ],
+    "rules": [
+      "Verify Arabic wording against a reliable Quran text.",
+      "Do not invent hadith or authenticity grades.",
+      "Distinguish classical interpretation from modern interpretation.",
+      "Do not describe an interpretation as scientific consensus.",
+      "Add exact scientific source titles and URLs only after verification.",
+      "Do not classify theological or eschatological statements as experimentally proven science."
+    ]
+  },
+  "status": "research_enhanced_draft",
+  "research_methodology": {
+    "standard": "Separate the Qur'anic wording, classical tafsir, modern interpretation, and established scientific knowledge.",
+    "evidence_grade_meaning": {
+      "A": "Clear, direct match between what the verse describes and what science well understands—still read thoughtfully rather than as a lab textbook.",
+      "B": "Good, helpful connection with observable nature, health, mind, or community life—where context and careful reading matter.",
+      "C": "Open to thoughtful discussion—clear science paired with a broad theme or a verse understood in more than one careful way.",
+      "D": "Faith and spiritual guidance—teaches beliefs, morals, or the afterlife, which belong to faith rather than science experiments."
+    },
+    "verification_policy": [
+      "A scientific source verifies the scientific statement only; it does not verify a theological interpretation.",
+      "Classical tafsir must not be silently replaced by a modern scientific reading.",
+      "Do not claim the Big Bang is proven by Qur'an 21:30.",
+      "Do not claim Qur'an 51:47 unambiguously predicts modern cosmic expansion; classical interpretations include strength, capacity, and vastness.",
+      "Do not identify the seven heavens with seven astronomical layers.",
+      "Do not turn Last-Day descriptions into experimentally verified astrophysical forecasts.",
+      "Arabic text and translation must be checked against a reliable Qur'an edition before publication."
+    ]
+  },
+  "source_catalog": {
+    "NASA_UNIVERSE_HISTORY": {
+      "title": "Hubble Big Bang: The Science Behind the Discoveries",
+      "institution": "NASA",
+      "year": 2024,
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-big-bang/",
+      "supports": "The hot, dense early universe, subsequent expansion and cooling, formation of atoms, and later development of stars and galaxies."
+    },
+    "NASA_UNIVERSE_OVERVIEW": {
+      "title": "Universe Overview",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/universe/overview/",
+      "supports": "The current scientific model of cosmic history, cosmic microwave background, early structure formation, and unresolved questions."
+    },
+    "NASA_CMB_GLOSSARY": {
+      "title": "Universe Glossary: Cosmic Microwave Background",
+      "institution": "NASA",
+      "year": 2025,
+      "url": "https://science.nasa.gov/universe/glossary/",
+      "supports": "The cosmic microwave background as relic radiation from the hot, young universe."
+    },
+    "NASA_EXPANSION": {
+      "title": "Hubble Constant and Tension",
+      "institution": "NASA",
+      "year": 2025,
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-constant-and-tension/",
+      "supports": "Observational evidence for cosmic expansion and the fact that the precise expansion rate remains an active research question."
+    },
+    "NASA_REDSHIFT": {
+      "title": "Hubble Cosmological Redshift",
+      "institution": "NASA",
+      "year": 2024,
+      "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-cosmological-redshift/",
+      "supports": "Galaxy redshift and the observational basis for the expanding-universe model."
+    },
+    "NASA_STARS": {
+      "title": "Stars",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/universe/stars/",
+      "supports": "Star formation from gas and dust, stellar properties, and stellar life cycles."
+    },
+    "NASA_STAR_TYPES": {
+      "title": "Types of Stars",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/universe/stars/types/",
+      "supports": "Nuclear fusion in stars and the Sun's main-sequence stage."
+    },
+    "NASA_SUN_FACTS": {
+      "title": "Sun: Facts",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/sun/facts/",
+      "supports": "The Sun's rotation and its orbit around the centre of the Milky Way."
+    },
+    "NASA_SOLAR_SYSTEM": {
+      "title": "Solar System: Facts",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/solar-system/solar-system-facts/",
+      "supports": "The solar system's contents, formation, and orbit around the Milky Way."
+    },
+    "NASA_ORBITS": {
+      "title": "Orbits and Kepler's Laws",
+      "institution": "NASA",
+      "year": 2024,
+      "url": "https://science.nasa.gov/solar-system/orbits-and-keplers-laws/",
+      "supports": "Planetary orbital paths and the mathematical regularities described by Kepler's laws."
+    },
+    "NASA_GRAVITY": {
+      "title": "Chapter 3: Gravity & Mechanics",
+      "institution": "NASA",
+      "year": 2023,
+      "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-3/",
+      "supports": "Gravity as the source of centripetal acceleration in orbital motion."
+    },
+    "NASA_MOON_PHASES": {
+      "title": "Moon Phases",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://science.nasa.gov/moon/moon-phases/",
+      "supports": "The geometry of lunar phases and the fact that moonlight is reflected sunlight."
+    },
+    "NASA_DAY_NIGHT": {
+      "title": "What Is Earth? (Grades 5-8)",
+      "institution": "NASA",
+      "year": null,
+      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-earth-grades-5-8/",
+      "supports": "Earth's rotation and the resulting day-night cycle."
+    },
+    "NASA_ATMOSPHERE": {
+      "title": "What Is Earth's Atmosphere?",
+      "institution": "NASA",
+      "year": 2024,
+      "url": "https://www.nasa.gov/general/what-is-earths-atmosphere/",
+      "supports": "The atmosphere's role in providing breathable air, filtering harmful ultraviolet radiation, and moderating temperature."
+    },
+    "NASA_UV_OZONE": {
+      "title": "Ultraviolet Radiation: How It Affects Life on Earth",
+      "institution": "NASA Earth Observatory",
+      "year": null,
+      "url": "https://science.nasa.gov/earth/earth-observatory/ultraviolet-radiation/",
+      "supports": "Ozone absorption of much harmful UV-B radiation."
+    },
+    "TABARI_2130": {
+      "title": "Tafsir al-Tabari on Qur'an 21:30",
+      "institution": "Quran.com / Tafsir al-Tabari",
+      "year": null,
+      "url": "https://quran.com/en/21%3A30/tafsirs/ar-tafsir-al-tabari",
+      "supports": "Al-Tabari records early interpretations of ratq and fatq, including joined/separated heavens and earth and other interpretations; this is not a single unambiguous Big Bang gloss."
+    },
+    "TABARI_5147": {
+      "title": "Tafsir al-Tabari on Qur'an 51:47",
+      "institution": "Quran.com / Tafsir al-Tabari",
+      "year": null,
+      "url": "https://quran.com/51%3A47/tafsirs/ar-tafsir-al-tabari",
+      "supports": "Al-Tabari explains bi-aydin as strength and al-musi'un in terms of capacity/power and abundance; it does not establish an exclusively modern expansion reading."
+    },
+    "QURAN_21_30_TAFHEEM": {
+      "title": "Tafheem-ul-Qur'an on Qur'an 21:30",
+      "institution": "IslamicStudies.info",
+      "year": null,
+      "url": "https://www.islamicstudies.info/tafheem.php?sura=21&to=37&verse=30",
+      "supports": "A modern commentary gives a separated-universe reading while identifying the Arabic terms ratq and fatq; this is a commentary, not scientific evidence."
+    },
+    "QURAN_5147_TAFSIR": {
+      "title": "Tafsir comparisons for Qur'an 51:47",
+      "institution": "Quran.com",
+      "year": null,
+      "url": "https://quran.com/adh-dhariyat/47",
+      "supports": "Provides verse translation and multiple tafsir options; translations differ in rendering the final expression."
+    }
+  },
+  "quality_control_summary": {
+    "original_topics_preserved": 50,
+    "topics_with_scientific_source_links": 50,
+    "topics_with_individually_verified_full_arabic_and_translation": 0,
+    "topics_with_individually_completed_classical_tafsir_review": 2,
+    "important_correction": "This file is a research-enhanced draft, not a completed proof dossier. Source links are supplied for scientific background, while verse wording and most individual tafsir reviews remain explicitly pending.",
+    "next_audit": "Verify each verse's Arabic and translation, review classical tafsir individually, then inspect the cited scientific source directly for each entry before marking it fully verified."
+  }
+}

@@ -1,0 +1,296 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-serif-editorial: "Cormorant Garamond", Georgia, serif;
+    --font-sans-body: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-arabic-script: "Amiri", "Traditional Arabic", "Scheherazade New", serif;
+
+    /* Light Mode Palette: Warm Ivory Parchment & Rich Emerald */
+    --desk-bg: #e7dfd0;
+    --page-bg: #fbf8f1;
+    --page-bg-secondary: #f3ece0;
+    --page-ink: #171a18;
+    --page-muted: #464c48;
+    --accent-emerald: #0d3b2e;
+    --accent-gold: #8e6a1d;
+    --accent-champagne: #b08837;
+    --hairline: rgba(23, 26, 24, 0.13);
+    --gold-hairline: rgba(142, 106, 29, 0.3);
+  }
+
+  .dark {
+    /* Dark Mode Palette: Midnight Emerald & Antique Gold */
+    --desk-bg: #040b09;
+    --page-bg: #081813;
+    --page-bg-secondary: #0d241d;
+    --page-ink: #f3ede2;
+    --page-muted: #b6c2bb;
+    --accent-emerald: #103227;
+    --accent-gold: #d0aa5a;
+    --accent-champagne: #e4cf9f;
+    --hairline: rgba(243, 237, 226, 0.12);
+    --gold-hairline: rgba(208, 170, 90, 0.32);
+  }
+
+  :root {
+    --ease-fluent: cubic-bezier(0.16, 1, 0.3, 1);
+    --ease-decel: cubic-bezier(0.05, 0.7, 0.1, 1);
+    --ease-press: cubic-bezier(0.2, 0, 0, 1);
+    --shadow-elev-1: 0 2px 8px -2px rgba(15, 23, 20, 0.08), 0 1px 2px rgba(15, 23, 20, 0.05);
+    --shadow-elev-2: 0 12px 32px -8px rgba(15, 23, 20, 0.14), 0 2px 6px rgba(15, 23, 20, 0.06);
+  }
+
+  .dark {
+    --shadow-elev-1: 0 2px 10px -2px rgba(0, 0, 0, 0.45), 0 1px 2px rgba(0, 0, 0, 0.35);
+    --shadow-elev-2: 0 16px 40px -8px rgba(0, 0, 0, 0.65), 0 2px 8px rgba(0, 0, 0, 0.45);
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-synthesis-weight: none;
+  }
+
+  body {
+    font-family: var(--font-sans-body);
+    background-color: var(--desk-bg);
+    color: var(--page-ink);
+    transition: background-color 240ms var(--ease-fluent), color 240ms var(--ease-fluent);
+    overflow-x: hidden;
+  }
+}
+
+.font-editorial {
+  font-family: var(--font-serif-editorial);
+  font-optical-sizing: auto;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+.font-body {
+  font-family: var(--font-sans-body);
+  font-feature-settings: "kern" 1, "cv02" 1;
+}
+
+.font-arabic {
+  font-family: var(--font-arabic-script);
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  font-variant-ligatures: contextual common-ligatures;
+  text-rendering: optimizeLegibility;
+  unicode-bidi: isolate;
+  letter-spacing: 0 !important;
+  word-spacing: 0.06em;
+}
+
+/* Custom subtle book scrollbar for dense research folios */
+.folio-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.folio-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.folio-scroll::-webkit-scrollbar-thumb {
+  background: var(--gold-hairline);
+  border-radius: 3px;
+}
+
+.folio-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-gold);
+}
+
+/* 3D Perspective Book Physics */
+.book-stage {
+  perspective: 2800px;
+  perspective-origin: 50% 48%;
+}
+
+.book-3d-preserve {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* Leather micro-texture subtle embossed grain */
+.leather-grain {
+  background-image:
+    radial-gradient(rgba(255, 240, 200, 0.03) 0.75px, transparent 0),
+    radial-gradient(rgba(0, 0, 0, 0.22) 0.75px, transparent 0);
+  background-size: 10px 10px;
+  background-position: 0 0, 5px 5px;
+}
+
+/* High-definition archival laid paper surface (seamless lighting & fine laid-paper lines, zero dot grid or filter lag) */
+.paper-surface {
+  background-color: var(--page-bg);
+  background-image:
+    linear-gradient(180deg, rgba(255, 252, 244, 0.45) 0%, transparent 14%, transparent 86%, rgba(155, 130, 88, 0.05) 100%),
+    repeating-linear-gradient(0deg, rgba(142, 106, 29, 0.016) 0px, rgba(142, 106, 29, 0.016) 1px, transparent 1px, transparent 5px);
+}
+
+.dark .paper-surface {
+  background-color: var(--page-bg);
+  background-image:
+    linear-gradient(180deg, rgba(208, 170, 90, 0.038) 0%, transparent 16%, transparent 84%, rgba(0, 0, 0, 0.24) 100%),
+    repeating-linear-gradient(0deg, rgba(228, 207, 159, 0.015) 0px, rgba(228, 207, 159, 0.015) 1px, transparent 1px, transparent 5px);
+}
+
+/* Keep legacy class mapped seamlessly for non-book archival elements */
+.paper-grain {
+  background-color: var(--page-bg);
+}
+
+/* Mobile portrait-to-landscape animated phone illustration */
+@keyframes phoneRotateSequence {
+  0%,
+  18% {
+    transform: rotate(0deg);
+  }
+  42%,
+  68% {
+    transform: rotate(-90deg);
+  }
+  88%,
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+@keyframes phoneSpreadFade {
+  0%,
+  26% {
+    opacity: 0;
+  }
+  44%,
+  66% {
+    opacity: 1;
+  }
+  84%,
+  100% {
+    opacity: 0;
+  }
+}
+
+.animate-phone-rotate {
+  transform-origin: 50% 50%;
+  animation: phoneRotateSequence 3.8s var(--ease-fluent) infinite;
+}
+
+.animate-phone-spread {
+  animation: phoneSpreadFade 3.8s var(--ease-fluent) infinite;
+}
+
+/* Fluent Windows 11-inspired GPU-only UI entrance transitions */
+@keyframes fluentDrawerIn {
+  from {
+    opacity: 0.4;
+    transform: translate3d(28px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes fluentBackdropIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fluentModalIn {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0) scale(0.975);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes fluentViewEnter {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 8px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes mobileFolioTurnNext {
+  from {
+    opacity: 0.55;
+    transform: translate3d(26px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes mobileFolioTurnPrev {
+  from {
+    opacity: 0.55;
+    transform: translate3d(-26px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.animate-fluent-drawer {
+  animation: fluentDrawerIn 240ms var(--ease-fluent) both;
+}
+
+.animate-fluent-backdrop {
+  animation: fluentBackdropIn 180ms ease-out both;
+}
+
+.animate-fluent-modal {
+  animation: fluentModalIn 220ms var(--ease-fluent) both;
+}
+
+.animate-fluent-view {
+  animation: fluentViewEnter 240ms var(--ease-fluent) both;
+}
+
+.animate-mobile-next {
+  animation: mobileFolioTurnNext 240ms var(--ease-fluent) both;
+}
+
+.animate-mobile-prev {
+  animation: mobileFolioTurnPrev 240ms var(--ease-fluent) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-phone-rotate,
+  .animate-phone-spread,
+  .animate-fluent-drawer,
+  .animate-fluent-backdrop,
+  .animate-fluent-modal,
+  .animate-fluent-view,
+  .animate-mobile-next,
+  .animate-mobile-prev {
+    animation: none !important;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

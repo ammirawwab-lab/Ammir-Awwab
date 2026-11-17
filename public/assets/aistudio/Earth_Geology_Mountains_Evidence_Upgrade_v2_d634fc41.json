@@ -1,0 +1,2504 @@
+{
+  "heading": "Earth, Geology and Mountains",
+  "category_id": "earth_geology_mountains",
+  "version": "2.0-research-enriched-draft",
+  "description": "Fifty illustrated topics exploring solid ground, deep mountain roots, rock colours, earthquakes, water in stone, and iron.",
+  "grading_guide": {
+    "A": "Clear, direct match between what the verse describes and what science well understands—still read thoughtfully rather than as a lab textbook.",
+    "B": "Good, helpful connection with observable nature, health, mind, or community life—where context and careful reading matter.",
+    "C": "Open to thoughtful discussion—clear science paired with a broad theme or a verse understood in more than one careful way.",
+    "D": "Faith and spiritual guidance—teaches beliefs, morals, or the afterlife, which belong to faith rather than science experiments."
+  },
+  "entries": [
+    {
+      "id": "GEO-001",
+      "title": "The Earth as a resting place",
+      "quran_reference": "78:6",
+      "scientific_topic": "Earth's surface and habitability",
+      "scientific_finding": "Earth has a solid surface and environmental conditions that allow humans and other organisms to live.",
+      "connection": "The verse describes the Earth as a place made suitable for human existence.",
+      "limitations": "This is a description of human experience and habitability, not a technical explanation of Earth's geology.",
+      "evidence_grade": "B",
+      "research_status": "Observable connection",
+      "quranic_evidence": {
+        "reference": "78:6",
+        "quran_com_url": "https://quran.com/78/6",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth has a solid surface and environmental conditions that allow humans and other organisms to live.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth as a place made suitable for human existence.",
+        "interpretive_limit": "This is a description of human experience and habitability, not a technical explanation of Earth's geology.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-002",
+      "title": "The Earth as an expanse",
+      "quran_reference": "20:53",
+      "scientific_topic": "Earth's accessible surface",
+      "scientific_finding": "Earth has extensive land and water surfaces that support human activity and ecosystems.",
+      "connection": "The verse describes the Earth as a place made into a pathway or resting place.",
+      "limitations": "The wording does not establish whether Earth is spherical or flat and should not be treated as a modern geographical measurement.",
+      "evidence_grade": "B",
+      "research_status": "Textual and geographical comparison",
+      "quranic_evidence": {
+        "reference": "20:53",
+        "quran_com_url": "https://quran.com/20/53",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth has extensive land and water surfaces that support human activity and ecosystems.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth as a place made into a pathway or resting place.",
+        "interpretive_limit": "The wording does not establish whether Earth is spherical or flat and should not be treated as a modern geographical measurement.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-003",
+      "title": "The spreading of the Earth",
+      "quran_reference": "15:19",
+      "scientific_topic": "Landforms and Earth's surface",
+      "scientific_finding": "Earth's surface contains plains, plateaus, mountains, basins and other landforms.",
+      "connection": "The verse describes the Earth being spread out and having mountains and vegetation.",
+      "limitations": "The verse does not describe the geological process by which continents and landforms developed.",
+      "evidence_grade": "B",
+      "research_status": "General descriptive connection",
+      "quranic_evidence": {
+        "reference": "15:19",
+        "quran_com_url": "https://quran.com/15/19",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth's surface contains plains, plateaus, mountains, basins and other landforms.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth being spread out and having mountains and vegetation.",
+        "interpretive_limit": "The verse does not describe the geological process by which continents and landforms developed.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-004",
+      "title": "The Earth made suitable for travel",
+      "quran_reference": "43:10",
+      "scientific_topic": "Earth's terrain and human movement",
+      "scientific_finding": "Earth's terrain includes surfaces and natural routes that humans use for movement and settlement.",
+      "connection": "The verse describes the Earth as a place made suitable for human travel.",
+      "limitations": "This is a description of the Earth's usefulness rather than a scientific theory about its formation.",
+      "evidence_grade": "B",
+      "research_status": "Descriptive comparison",
+      "quranic_evidence": {
+        "reference": "43:10",
+        "quran_com_url": "https://quran.com/43/10",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth's terrain includes surfaces and natural routes that humans use for movement and settlement.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth as a place made suitable for human travel.",
+        "interpretive_limit": "This is a description of the Earth's usefulness rather than a scientific theory about its formation.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-005",
+      "title": "The Earth as a cradle",
+      "quran_reference": "78:6",
+      "scientific_topic": "Earth's environment and human survival",
+      "scientific_finding": "Earth provides gravity, an atmosphere, liquid water and suitable environmental conditions for life.",
+      "connection": "The verse uses the image of a resting place or cradle for the Earth.",
+      "limitations": "The metaphor should not be interpreted as a scientific description of the atmosphere or planetary structure.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive comparison",
+      "quranic_evidence": {
+        "reference": "78:6",
+        "quran_com_url": "https://quran.com/78/6",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth provides gravity, an atmosphere, liquid water and suitable environmental conditions for life.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse uses the image of a resting place or cradle for the Earth.",
+        "interpretive_limit": "The metaphor should not be interpreted as a scientific description of the atmosphere or planetary structure.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-006",
+      "title": "Mountains described as pegs",
+      "quran_reference": "78:7",
+      "scientific_topic": "Mountain roots and crustal structure",
+      "scientific_finding": "Many major mountain ranges have deep crustal roots associated with their formation and the principle of isostasy.",
+      "connection": "The verse describes mountains using the Arabic word awtad, commonly translated as pegs.",
+      "limitations": "A mountain's deep root is not identical to a tent peg. The verse does not specify mountain roots, their depth or the geological mechanism of their formation.",
+      "evidence_grade": "C",
+      "research_status": "Important linguistic and geological comparison",
+      "quranic_evidence": {
+        "reference": "78:7",
+        "quran_com_url": "https://quran.com/78/7",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Many major mountain ranges have deep crustal roots associated with their formation and the principle of isostasy.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes mountains using the Arabic word awtad, commonly translated as pegs.",
+        "interpretive_limit": "A mountain's deep root is not identical to a tent peg. The verse does not specify mountain roots, their depth or the geological mechanism of their formation.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-007",
+      "title": "Mountains and the stability of the Earth",
+      "quran_reference": "16:15",
+      "scientific_topic": "Mountain formation and tectonic processes",
+      "scientific_finding": "Mountains commonly form through tectonic collision, crustal thickening, volcanic activity and other geological processes.",
+      "connection": "The verse describes firmly set mountains and uses wording about preventing the Earth from swaying.",
+      "limitations": "Modern geology does not show that mountains prevent earthquakes or stop tectonic plates from moving. Mountain formation is often associated with tectonic activity.",
+      "evidence_grade": "D",
+      "research_status": "Requires critical evaluation",
+      "quranic_evidence": {
+        "reference": "16:15",
+        "quran_com_url": "https://quran.com/16/15",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains commonly form through tectonic collision, crustal thickening, volcanic activity and other geological processes.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes firmly set mountains and uses wording about preventing the Earth from swaying.",
+        "interpretive_limit": "Modern geology does not show that mountains prevent earthquakes or stop tectonic plates from moving. Mountain formation is often associated with tectonic activity.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-008",
+      "title": "Mountains and the Earth's surface",
+      "quran_reference": "21:31",
+      "scientific_topic": "Mountain ranges and surface relief",
+      "scientific_finding": "Mountains are major landforms produced by tectonic uplift, volcanism and other geological processes.",
+      "connection": "The verse mentions mountains firmly placed in the Earth.",
+      "limitations": "The wording does not explain the geological formation or stabilizing effects of mountains.",
+      "evidence_grade": "C",
+      "research_status": "Descriptive and interpretive comparison",
+      "quranic_evidence": {
+        "reference": "21:31",
+        "quran_com_url": "https://quran.com/21/31",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains are major landforms produced by tectonic uplift, volcanism and other geological processes.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions mountains firmly placed in the Earth.",
+        "interpretive_limit": "The wording does not explain the geological formation or stabilizing effects of mountains.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-009",
+      "title": "Mountains as firmly established landforms",
+      "quran_reference": "79:32",
+      "scientific_topic": "Mountain structure and formation",
+      "scientific_finding": "Mountains can be formed from folded, faulted, uplifted or volcanic rock.",
+      "connection": "The verse refers to mountains being set in place.",
+      "limitations": "It does not describe tectonic forces, crustal thickness or mountain-building processes.",
+      "evidence_grade": "C",
+      "research_status": "General comparison",
+      "quranic_evidence": {
+        "reference": "79:32",
+        "quran_com_url": "https://quran.com/79/32",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains can be formed from folded, faulted, uplifted or volcanic rock.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to mountains being set in place.",
+        "interpretive_limit": "It does not describe tectonic forces, crustal thickness or mountain-building processes.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-010",
+      "title": "Mountains as signs for observation",
+      "quran_reference": "88:19",
+      "scientific_topic": "Mountain geography",
+      "scientific_finding": "Mountains have distinctive geological structures, elevations, slopes and ecological environments.",
+      "connection": "The verse invites people to consider how mountains were raised.",
+      "limitations": "The passage encourages reflection but does not provide a geological explanation.",
+      "evidence_grade": "B",
+      "research_status": "Observable natural phenomenon",
+      "quranic_evidence": {
+        "reference": "88:19",
+        "quran_com_url": "https://quran.com/88/19",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains have distinctive geological structures, elevations, slopes and ecological environments.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse invites people to consider how mountains were raised.",
+        "interpretive_limit": "The passage encourages reflection but does not provide a geological explanation.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-011",
+      "title": "Different colours of mountains",
+      "quran_reference": "35:27",
+      "scientific_topic": "Mineral composition and rock colour",
+      "scientific_finding": "Rock colours vary because of mineral composition, chemical alteration, impurities and geological history.",
+      "connection": "The verse mentions mountain paths or bands of different colours.",
+      "limitations": "The verse does not identify specific minerals or explain the chemical causes of rock colours.",
+      "evidence_grade": "B",
+      "research_status": "Strong observable connection",
+      "quranic_evidence": {
+        "reference": "35:27",
+        "quran_com_url": "https://quran.com/35/27",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rock colours vary because of mineral composition, chemical alteration, impurities and geological history.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions mountain paths or bands of different colours.",
+        "interpretive_limit": "The verse does not identify specific minerals or explain the chemical causes of rock colours.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-012",
+      "title": "White, red and dark mountain formations",
+      "quran_reference": "35:27",
+      "scientific_topic": "Rock varieties and mineral pigmentation",
+      "scientific_finding": "Iron oxides, mineral deposits and other geological materials can create red, white, dark and other coloured rock formations.",
+      "connection": "The verse describes mountain formations with different colours.",
+      "limitations": "Specific colour examples do not establish that the verse is naming particular mineral species.",
+      "evidence_grade": "B",
+      "research_status": "Observable connection",
+      "quranic_evidence": {
+        "reference": "35:27",
+        "quran_com_url": "https://quran.com/35/27",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Iron oxides, mineral deposits and other geological materials can create red, white, dark and other coloured rock formations.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes mountain formations with different colours.",
+        "interpretive_limit": "Specific colour examples do not establish that the verse is naming particular mineral species.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-013",
+      "title": "Mountain passes and pathways",
+      "quran_reference": "21:31",
+      "scientific_topic": "Mountain passes and human geography",
+      "scientific_finding": "Mountain passes are natural routes through elevated terrain and have historically supported migration, trade and travel.",
+      "connection": "The verse mentions broad pathways or routes in the Earth.",
+      "limitations": "The verse does not provide a scientific classification of mountain passes.",
+      "evidence_grade": "B",
+      "research_status": "Practical geographical connection",
+      "quranic_evidence": {
+        "reference": "21:31",
+        "quran_com_url": "https://quran.com/21/31",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountain passes are natural routes through elevated terrain and have historically supported migration, trade and travel.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions broad pathways or routes in the Earth.",
+        "interpretive_limit": "The verse does not provide a scientific classification of mountain passes.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-014",
+      "title": "Mountains as places for human settlement",
+      "quran_reference": "7:74",
+      "scientific_topic": "Mountain settlements and geology",
+      "scientific_finding": "Humans have built settlements in mountainous regions, adapting to slope, water access, rock type and local climate.",
+      "connection": "The verse describes people carving homes in mountains and valleys.",
+      "limitations": "The verse is a historical and moral account, not a geological explanation of settlement conditions.",
+      "evidence_grade": "B",
+      "research_status": "Historical and geographical connection",
+      "quranic_evidence": {
+        "reference": "7:74",
+        "quran_com_url": "https://quran.com/7/74",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Humans have built settlements in mountainous regions, adapting to slope, water access, rock type and local climate.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes people carving homes in mountains and valleys.",
+        "interpretive_limit": "The verse is a historical and moral account, not a geological explanation of settlement conditions.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-015",
+      "title": "Homes carved into mountains",
+      "quran_reference": "26:149",
+      "scientific_topic": "Rock excavation and engineering",
+      "scientific_finding": "Humans can excavate and shape rock to create buildings, tunnels and other structures.",
+      "connection": "The verse describes people skillfully carving homes from mountains.",
+      "limitations": "This demonstrates human use of rock rather than a previously unknown geological discovery.",
+      "evidence_grade": "B",
+      "research_status": "Historical and engineering connection",
+      "quranic_evidence": {
+        "reference": "26:149",
+        "quran_com_url": "https://quran.com/26/149",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Humans can excavate and shape rock to create buildings, tunnels and other structures.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes people skillfully carving homes from mountains.",
+        "interpretive_limit": "This demonstrates human use of rock rather than a previously unknown geological discovery.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-016",
+      "title": "The movement of mountains on the Last Day",
+      "quran_reference": "27:88",
+      "scientific_topic": "Mountain movement and geological change",
+      "scientific_finding": "Mountains change through tectonic uplift, erosion, landslides, volcanic activity and other geological processes.",
+      "connection": "The verse describes mountains appearing to move in an event associated with the Last Day.",
+      "limitations": "The verse is afterlife and end-of-time and should not be presented as a direct description of ordinary tectonic plate motion.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological interpretation",
+      "quranic_evidence": {
+        "reference": "27:88",
+        "quran_com_url": "https://quran.com/27/88",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains change through tectonic uplift, erosion, landslides, volcanic activity and other geological processes.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes mountains appearing to move in an event associated with the Last Day.",
+        "interpretive_limit": "The verse is afterlife and end-of-time and should not be presented as a direct description of ordinary tectonic plate motion.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-017",
+      "title": "Mountains being removed",
+      "quran_reference": "18:47",
+      "scientific_topic": "Mountain erosion and destruction",
+      "scientific_finding": "Mountains are gradually reshaped by weathering, erosion, glaciation and tectonic processes.",
+      "connection": "The verse describes mountains being moved or removed in the context of the Last Day.",
+      "limitations": "The verse describes an afterlife and end-of-time event, not the ordinary geological erosion cycle.",
+      "evidence_grade": "D",
+      "research_status": "Not a direct scientific prediction",
+      "quranic_evidence": {
+        "reference": "18:47",
+        "quran_com_url": "https://quran.com/18/47",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountains are gradually reshaped by weathering, erosion, glaciation and tectonic processes.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes mountains being moved or removed in the context of the Last Day.",
+        "interpretive_limit": "The verse describes an afterlife and end-of-time event, not the ordinary geological erosion cycle.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-018",
+      "title": "Mountains becoming like scattered dust",
+      "quran_reference": "56:5-6",
+      "scientific_topic": "Rock fragmentation and sediment",
+      "scientific_finding": "Weathering breaks rock into smaller particles, which can become sediment and soil.",
+      "connection": "The verses describe mountains being crushed and becoming scattered particles.",
+      "limitations": "The verses describe the Last Day, not the ordinary timescales or mechanisms of weathering.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological imagery",
+      "quranic_evidence": {
+        "reference": "56:5-6",
+        "quran_com_url": "https://quran.com/56/5-6",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Weathering breaks rock into smaller particles, which can become sediment and soil.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe mountains being crushed and becoming scattered particles.",
+        "interpretive_limit": "The verses describe the Last Day, not the ordinary timescales or mechanisms of weathering.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-019",
+      "title": "Mountains becoming like wool",
+      "quran_reference": "101:5",
+      "scientific_topic": "Rock fragmentation and mass wasting",
+      "scientific_finding": "Rock masses can break apart and be transported by landslides, erosion and other geological processes.",
+      "connection": "The verse compares mountains on the Last Day to carded or fluffed wool.",
+      "limitations": "The comparison is poetic and afterlife and end-of-time, not a description of a measured geological process.",
+      "evidence_grade": "D",
+      "research_status": "Literary and geological comparison",
+      "quranic_evidence": {
+        "reference": "101:5",
+        "quran_com_url": "https://quran.com/101/5",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rock masses can break apart and be transported by landslides, erosion and other geological processes.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse compares mountains on the Last Day to carded or fluffed wool.",
+        "interpretive_limit": "The comparison is poetic and afterlife and end-of-time, not a description of a measured geological process.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-020",
+      "title": "Mountains as a subject of reflection",
+      "quran_reference": "50:7",
+      "scientific_topic": "Mountain landscapes and natural systems",
+      "scientific_finding": "Mountain environments contain distinctive geological formations, habitats and water systems.",
+      "connection": "The verse mentions mountains being placed in the Earth as part of a description of creation.",
+      "limitations": "It does not identify the processes responsible for mountain formation.",
+      "evidence_grade": "B",
+      "research_status": "Descriptive connection",
+      "quranic_evidence": {
+        "reference": "50:7",
+        "quran_com_url": "https://quran.com/50/7",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountain environments contain distinctive geological formations, habitats and water systems.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions mountains being placed in the Earth as part of a description of creation.",
+        "interpretive_limit": "It does not identify the processes responsible for mountain formation.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-021",
+      "title": "Earthquakes and the shaking of the Earth",
+      "quran_reference": "99:1",
+      "scientific_topic": "Earthquakes",
+      "scientific_finding": "Earthquakes occur when accumulated stress is released through sudden movement along faults in Earth's crust.",
+      "connection": "The verse describes the Earth being shaken with its final convulsion.",
+      "limitations": "The verse is part of an account of the Last Day and does not describe tectonic fault mechanics.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological description",
+      "quranic_evidence": {
+        "reference": "99:1",
+        "quran_com_url": "https://quran.com/99/1",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earthquakes occur when accumulated stress is released through sudden movement along faults in Earth's crust.",
+        "source_ids": [
+          "USGS_earthquake_causes",
+          "USGS_earthquake_science",
+          "USGS_earthquake_effects",
+          "USGS_quakes_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth being shaken with its final convulsion.",
+        "interpretive_limit": "The verse is part of an account of the Last Day and does not describe tectonic fault mechanics.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-022",
+      "title": "The violent shaking of the Earth",
+      "quran_reference": "22:1",
+      "scientific_topic": "Severe seismic events",
+      "scientific_finding": "Large earthquakes can produce intense ground motion, structural damage and surface displacement.",
+      "connection": "The verse describes the shaking associated with the Hour as a tremendous event.",
+      "limitations": "It does not give a magnitude, location, fault type or scientific prediction of an earthquake.",
+      "evidence_grade": "D",
+      "research_status": "Eschatological description",
+      "quranic_evidence": {
+        "reference": "22:1",
+        "quran_com_url": "https://quran.com/22/1",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Large earthquakes can produce intense ground motion, structural damage and surface displacement.",
+        "source_ids": [
+          "USGS_earthquake_causes",
+          "USGS_earthquake_science",
+          "USGS_earthquake_effects",
+          "USGS_quakes_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the shaking associated with the Hour as a tremendous event.",
+        "interpretive_limit": "It does not give a magnitude, location, fault type or scientific prediction of an earthquake.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-023",
+      "title": "Earthquakes in earlier communities",
+      "quran_reference": "7:78",
+      "scientific_topic": "Seismic hazards and historical disasters",
+      "scientific_finding": "Earthquakes have affected human communities throughout recorded history.",
+      "connection": "The verse describes a severe shaking that affected the people of Thamud.",
+      "limitations": "The passage is a religious narrative and does not provide independently verified geological data about a particular earthquake.",
+      "evidence_grade": "D",
+      "research_status": "Historical verification required",
+      "quranic_evidence": {
+        "reference": "7:78",
+        "quran_com_url": "https://quran.com/7/78",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earthquakes have affected human communities throughout recorded history.",
+        "source_ids": [
+          "USGS_earthquake_causes",
+          "USGS_earthquake_science",
+          "USGS_earthquake_effects",
+          "USGS_quakes_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes a severe shaking that affected the people of Thamud.",
+        "interpretive_limit": "The passage is a religious narrative and does not provide independently verified geological data about a particular earthquake.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-024",
+      "title": "The Earth releasing its burdens",
+      "quran_reference": "99:2",
+      "scientific_topic": "Earth materials and geological release",
+      "scientific_finding": "Earth processes can expose or release buried materials through erosion, uplift, volcanic activity and excavation.",
+      "connection": "The verse describes the Earth bringing out its burdens during the Last Day.",
+      "limitations": "The meaning is theological and afterlife and end-of-time; it should not be equated with a specific geological event.",
+      "evidence_grade": "D",
+      "research_status": "Interpretive study",
+      "quranic_evidence": {
+        "reference": "99:2",
+        "quran_com_url": "https://quran.com/99/2",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth processes can expose or release buried materials through erosion, uplift, volcanic activity and excavation.",
+        "source_ids": [
+          "USGS_earthquake_causes",
+          "USGS_earthquake_science",
+          "USGS_earthquake_effects",
+          "USGS_quakes_groundwater"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth bringing out its burdens during the Last Day.",
+        "interpretive_limit": "The meaning is theological and afterlife and end-of-time; it should not be equated with a specific geological event.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-025",
+      "title": "Earth's creation in two days",
+      "quran_reference": "41:9",
+      "scientific_topic": "Earth's origin and age",
+      "scientific_finding": "Scientific evidence indicates that Earth formed approximately 4.54 billion years ago.",
+      "connection": "The verse describes the creation of the Earth in two days.",
+      "limitations": "The word yawm can have different interpretations, and the verse does not provide a measurable geological timescale.",
+      "evidence_grade": "D",
+      "research_status": "Theological and chronological comparison",
+      "quranic_evidence": {
+        "reference": "41:9",
+        "quran_com_url": "https://quran.com/41/9",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "initial_source_linked_review",
+        "note": "Classical tafsir discusses the creation passage as theological account and chronology. Do not equate the expression 'two days' with a measured geological timescale without a defensible interpretive argument.",
+        "source_ids": [
+          "TABARI_41_9",
+          "IBN_KATHIR_41_9_12"
+        ]
+      },
+      "scientific_evidence": {
+        "summary": "Scientific evidence indicates that Earth formed approximately 4.54 billion years ago.",
+        "source_ids": [
+          "TABARI_41_9",
+          "IBN_KATHIR_41_9_12"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the creation of the Earth in two days.",
+        "interpretive_limit": "The word yawm can have different interpretations, and the verse does not provide a measurable geological timescale.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-026",
+      "title": "The provisions placed in the Earth",
+      "quran_reference": "41:10",
+      "scientific_topic": "Earth's natural resources",
+      "scientific_finding": "Earth contains mineral resources, soils, groundwater and other materials essential to ecosystems and human societies.",
+      "connection": "The verse describes provisions and sustenance being determined in the Earth.",
+      "limitations": "It does not identify specific mineral deposits or geological resource formation processes.",
+      "evidence_grade": "C",
+      "research_status": "Broad interpretive connection",
+      "quranic_evidence": {
+        "reference": "41:10",
+        "quran_com_url": "https://quran.com/41/10",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "initial_source_linked_review",
+        "note": "Classical tafsir discusses the creation passage as theological account and chronology. Do not equate the expression 'two days' with a measured geological timescale without a defensible interpretive argument.",
+        "source_ids": [
+          "TABARI_41_9",
+          "IBN_KATHIR_41_9_12"
+        ]
+      },
+      "scientific_evidence": {
+        "summary": "Earth contains mineral resources, soils, groundwater and other materials essential to ecosystems and human societies.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes provisions and sustenance being determined in the Earth.",
+        "interpretive_limit": "It does not identify specific mineral deposits or geological resource formation processes.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-027",
+      "title": "The Earth containing rivers and mountains",
+      "quran_reference": "13:3",
+      "scientific_topic": "Landforms and drainage systems",
+      "scientific_finding": "Rivers and mountain ranges are interconnected parts of Earth's surface geography and water-cycle systems.",
+      "connection": "The verse mentions mountains, rivers and other features of the Earth.",
+      "limitations": "It is not a scientific account of river formation or mountain-building processes.",
+      "evidence_grade": "B",
+      "research_status": "Observable geographical connection",
+      "quranic_evidence": {
+        "reference": "13:3",
+        "quran_com_url": "https://quran.com/13/3",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rivers and mountain ranges are interconnected parts of Earth's surface geography and water-cycle systems.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions mountains, rivers and other features of the Earth.",
+        "interpretive_limit": "It is not a scientific account of river formation or mountain-building processes.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-028",
+      "title": "Mountains and the distribution of rivers",
+      "quran_reference": "16:15",
+      "scientific_topic": "Mountain watersheds",
+      "scientific_finding": "Mountain topography strongly influences rainfall runoff, drainage basins and the direction of river flow.",
+      "connection": "The verse mentions mountains and rivers together.",
+      "limitations": "The verse does not explicitly describe watersheds or the water-cycle processes that form rivers.",
+      "evidence_grade": "C",
+      "research_status": "Scientific comparison",
+      "quranic_evidence": {
+        "reference": "16:15",
+        "quran_com_url": "https://quran.com/16/15",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Mountain topography strongly influences rainfall runoff, drainage basins and the direction of river flow.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions mountains and rivers together.",
+        "interpretive_limit": "The verse does not explicitly describe watersheds or the water-cycle processes that form rivers.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-029",
+      "title": "The Earth containing different fruits and vegetation",
+      "quran_reference": "13:3",
+      "scientific_topic": "Soil, climate and agricultural geography",
+      "scientific_finding": "Plant distribution depends on soil properties, water availability, temperature and other environmental conditions.",
+      "connection": "The verse mentions vegetation and fruits in the context of the Earth's landforms.",
+      "limitations": "The verse does not describe soil science or ecological distribution mechanisms.",
+      "evidence_grade": "B",
+      "research_status": "General ecological connection",
+      "quranic_evidence": {
+        "reference": "13:3",
+        "quran_com_url": "https://quran.com/13/3",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plant distribution depends on soil properties, water availability, temperature and other environmental conditions.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions vegetation and fruits in the context of the Earth's landforms.",
+        "interpretive_limit": "The verse does not describe soil science or ecological distribution mechanisms.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-030",
+      "title": "The Earth producing vegetation after rainfall",
+      "quran_reference": "39:21",
+      "scientific_topic": "Soil moisture and plant growth",
+      "scientific_finding": "Rainwater supplies moisture needed for plant growth and contributes to soil and groundwater systems.",
+      "connection": "The verse describes rainwater entering the Earth and vegetation emerging in different forms.",
+      "limitations": "The verse is a broad description and does not explain plant physiology or soil-water chemistry.",
+      "evidence_grade": "B",
+      "research_status": "Observable environmental connection",
+      "quranic_evidence": {
+        "reference": "39:21",
+        "quran_com_url": "https://quran.com/39/21",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainwater supplies moisture needed for plant growth and contributes to soil and groundwater systems.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes rainwater entering the Earth and vegetation emerging in different forms.",
+        "interpretive_limit": "The verse is a broad description and does not explain plant physiology or soil-water chemistry.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-031",
+      "title": "Dead land becoming alive through water",
+      "quran_reference": "30:19",
+      "scientific_topic": "Water and ecosystem recovery",
+      "scientific_finding": "Water availability can revive dormant or drought-stressed vegetation and support biological activity in dry environments.",
+      "connection": "The verse describes living things emerging from the Earth after it has been dead or lifeless.",
+      "limitations": "The verse also makes a theological point about resurrection and is not a technical account of ecological recovery.",
+      "evidence_grade": "B",
+      "research_status": "Observable natural connection",
+      "quranic_evidence": {
+        "reference": "30:19",
+        "quran_com_url": "https://quran.com/30/19",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water availability can revive dormant or drought-stressed vegetation and support biological activity in dry environments.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes living things emerging from the Earth after it has been dead or lifeless.",
+        "interpretive_limit": "The verse also makes a theological point about resurrection and is not a technical account of ecological recovery.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-032",
+      "title": "Water stored within the Earth",
+      "quran_reference": "23:18",
+      "scientific_topic": "Groundwater storage",
+      "scientific_finding": "Water infiltrates the ground and can be stored in pores and fractures in soil and rock, forming groundwater reserves.",
+      "connection": "The verse describes water being sent down and settled in the Earth in a measured amount.",
+      "limitations": "The verse does not describe aquifers, groundwater recharge or the water-cycle cycle in technical terms.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive scientific comparison",
+      "quranic_evidence": {
+        "reference": "23:18",
+        "quran_com_url": "https://quran.com/23/18",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water infiltrates the ground and can be stored in pores and fractures in soil and rock, forming groundwater reserves.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water being sent down and settled in the Earth in a measured amount.",
+        "interpretive_limit": "The verse does not describe aquifers, groundwater recharge or the water-cycle cycle in technical terms.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-033",
+      "title": "Water emerging as springs",
+      "quran_reference": "39:21",
+      "scientific_topic": "Groundwater and springs",
+      "scientific_finding": "Springs occur when groundwater naturally flows to the surface through geological openings or pressure differences.",
+      "connection": "The verse describes water entering the Earth and flowing through it.",
+      "limitations": "The verse does not identify the geological conditions that create springs.",
+      "evidence_grade": "C",
+      "research_status": "General geological comparison",
+      "quranic_evidence": {
+        "reference": "39:21",
+        "quran_com_url": "https://quran.com/39/21",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Springs occur when groundwater naturally flows to the surface through geological openings or pressure differences.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water entering the Earth and flowing through it.",
+        "interpretive_limit": "The verse does not identify the geological conditions that create springs.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-034",
+      "title": "The variety of soil and land",
+      "quran_reference": "7:58",
+      "scientific_topic": "Soil variation and fertility",
+      "scientific_finding": "Soils differ in texture, mineral content, organic matter, drainage and fertility.",
+      "connection": "The verse compares good land producing vegetation with land that produces little.",
+      "limitations": "The passage uses land and vegetation as an example; it is not a scientific soil classification.",
+      "evidence_grade": "B",
+      "research_status": "Observable agricultural connection",
+      "quranic_evidence": {
+        "reference": "7:58",
+        "quran_com_url": "https://quran.com/7/58",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Soils differ in texture, mineral content, organic matter, drainage and fertility.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse compares good land producing vegetation with land that produces little.",
+        "interpretive_limit": "The passage uses land and vegetation as an example; it is not a scientific soil classification.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-035",
+      "title": "Clay as a material of creation",
+      "quran_reference": "15:26",
+      "scientific_topic": "Clay minerals and sedimentary materials",
+      "scientific_finding": "Clay minerals are fine-grained materials formed through geological and chemical processes, including the weathering of rocks.",
+      "connection": "The verse describes human creation from sounding clay.",
+      "limitations": "The verse concerns human origins in a theological context and does not identify a particular clay mineral or biological process.",
+      "evidence_grade": "D",
+      "research_status": "Theological and materials comparison",
+      "quranic_evidence": {
+        "reference": "15:26",
+        "quran_com_url": "https://quran.com/15/26",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clay minerals are fine-grained materials formed through geological and chemical processes, including the weathering of rocks.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes human creation from sounding clay.",
+        "interpretive_limit": "The verse concerns human origins in a theological context and does not identify a particular clay mineral or biological process.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-036",
+      "title": "Clay and altered earth materials",
+      "quran_reference": "23:12",
+      "scientific_topic": "Soil and sediment composition",
+      "scientific_finding": "Soils and sediments contain mixtures of mineral particles, organic matter, water and air.",
+      "connection": "The verse describes human creation from an extract of clay.",
+      "limitations": "The expression is not a technical description of soil chemistry or human biological evolution.",
+      "evidence_grade": "D",
+      "research_status": "Theological interpretation",
+      "quranic_evidence": {
+        "reference": "23:12",
+        "quran_com_url": "https://quran.com/23/12",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Soils and sediments contain mixtures of mineral particles, organic matter, water and air.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes human creation from an extract of clay.",
+        "interpretive_limit": "The expression is not a technical description of soil chemistry or human biological evolution.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-037",
+      "title": "Potter's clay and hardened earth",
+      "quran_reference": "55:14",
+      "scientific_topic": "Clay properties and ceramic materials",
+      "scientific_finding": "Clay can be shaped when wet and becomes hard after drying or firing, depending on its mineral composition and treatment.",
+      "connection": "The verse compares human creation to pottery made from clay.",
+      "limitations": "The verse is a description of human creation and does not explain ceramic chemistry or clay mineralogy.",
+      "evidence_grade": "C",
+      "research_status": "Material-science comparison",
+      "quranic_evidence": {
+        "reference": "55:14",
+        "quran_com_url": "https://quran.com/55/14",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Clay can be shaped when wet and becomes hard after drying or firing, depending on its mineral composition and treatment.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse compares human creation to pottery made from clay.",
+        "interpretive_limit": "The verse is a description of human creation and does not explain ceramic chemistry or clay mineralogy.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-038",
+      "title": "Rock formations and water emerging from stone",
+      "quran_reference": "2:74",
+      "scientific_topic": "Water movement through rock",
+      "scientific_finding": "Water can move through fractures, pores and channels in certain rock formations and emerge as springs.",
+      "connection": "The verse describes stones from which water gushes or flows.",
+      "limitations": "The passage is part of a religious narrative and should not be treated as a geological classification of rocks.",
+      "evidence_grade": "C",
+      "research_status": "General geological comparison",
+      "quranic_evidence": {
+        "reference": "2:74",
+        "quran_com_url": "https://quran.com/2/74",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water can move through fractures, pores and channels in certain rock formations and emerge as springs.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes stones from which water gushes or flows.",
+        "interpretive_limit": "The passage is part of a religious narrative and should not be treated as a geological classification of rocks.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-039",
+      "title": "Rock hardness and geological variation",
+      "quran_reference": "2:74",
+      "scientific_topic": "Rock hardness and weathering",
+      "scientific_finding": "Rocks differ in hardness, porosity, fracture patterns and resistance to weathering.",
+      "connection": "The verse contrasts different behaviours of stones, including some from which water emerges.",
+      "limitations": "The religious passage is not a mineralogical study and does not define measurable rock properties.",
+      "evidence_grade": "C",
+      "research_status": "Descriptive comparison",
+      "quranic_evidence": {
+        "reference": "2:74",
+        "quran_com_url": "https://quran.com/2/74",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rocks differ in hardness, porosity, fracture patterns and resistance to weathering.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse contrasts different behaviours of stones, including some from which water emerges.",
+        "interpretive_limit": "The religious passage is not a mineralogical study and does not define measurable rock properties.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-040",
+      "title": "Iron and its benefits for people",
+      "quran_reference": "57:25",
+      "scientific_topic": "Iron as a natural mineral resource",
+      "scientific_finding": "Iron is a chemical element used in steel production, construction, machinery and biological processes.",
+      "connection": "The verse mentions iron and its great strength and benefits for people.",
+      "limitations": "The expression 'sent down' should not automatically be treated as a statement that all terrestrial iron arrived from meteorites. Iron has multiple cosmic and geological origins.",
+      "evidence_grade": "B",
+      "research_status": "Strong material and resource connection",
+      "quranic_evidence": {
+        "reference": "57:25",
+        "quran_com_url": "https://quran.com/57/25",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Iron is a chemical element used in steel production, construction, machinery and biological processes.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions iron and its great strength and benefits for people.",
+        "interpretive_limit": "The expression 'sent down' should not automatically be treated as a statement that all terrestrial iron arrived from meteorites. Iron has multiple cosmic and geological origins.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-041",
+      "title": "Iron and the strength of materials",
+      "quran_reference": "57:25",
+      "scientific_topic": "Metallurgy and engineering",
+      "scientific_finding": "Iron and its alloys are widely used because of their mechanical properties, availability and ability to be processed into useful materials.",
+      "connection": "The verse describes iron as having great strength and benefits.",
+      "limitations": "The verse does not describe metallurgy, alloy composition or mechanical engineering.",
+      "evidence_grade": "B",
+      "research_status": "Practical scientific connection",
+      "quranic_evidence": {
+        "reference": "57:25",
+        "quran_com_url": "https://quran.com/57/25",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Iron and its alloys are widely used because of their mechanical properties, availability and ability to be processed into useful materials.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes iron as having great strength and benefits.",
+        "interpretive_limit": "The verse does not describe metallurgy, alloy composition or mechanical engineering.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-042",
+      "title": "Molten copper and metal processing",
+      "quran_reference": "18:96",
+      "scientific_topic": "Metal melting and casting",
+      "scientific_finding": "Metals can be heated until molten and poured into moulds or used in metalworking processes.",
+      "connection": "The verse mentions molten copper or a molten metal material used in a construction context.",
+      "limitations": "The exact historical material and translation should be checked. The verse is not a modern industrial metallurgy manual.",
+      "evidence_grade": "B",
+      "research_status": "Historical technology connection",
+      "quranic_evidence": {
+        "reference": "18:96",
+        "quran_com_url": "https://quran.com/18/96",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Metals can be heated until molten and poured into moulds or used in metalworking processes.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions molten copper or a molten metal material used in a construction context.",
+        "interpretive_limit": "The exact historical material and translation should be checked. The verse is not a modern industrial metallurgy manual.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-043",
+      "title": "Natural resources in the Earth",
+      "quran_reference": "41:10",
+      "scientific_topic": "Mineral resources and Earth's composition",
+      "scientific_finding": "Earth contains mineral deposits formed through geological processes such as magmatism, hydrothermal activity and sedimentation.",
+      "connection": "The verse mentions provisions determined within the Earth.",
+      "limitations": "It does not identify particular mineral deposits or explain how they form.",
+      "evidence_grade": "C",
+      "research_status": "Broad comparison",
+      "quranic_evidence": {
+        "reference": "41:10",
+        "quran_com_url": "https://quran.com/41/10",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "initial_source_linked_review",
+        "note": "Classical tafsir discusses the creation passage as theological account and chronology. Do not equate the expression 'two days' with a measured geological timescale without a defensible interpretive argument.",
+        "source_ids": [
+          "TABARI_41_9",
+          "IBN_KATHIR_41_9_12"
+        ]
+      },
+      "scientific_evidence": {
+        "summary": "Earth contains mineral deposits formed through geological processes such as magmatism, hydrothermal activity and sedimentation.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions provisions determined within the Earth.",
+        "interpretive_limit": "It does not identify particular mineral deposits or explain how they form.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-044",
+      "title": "Different colours in human and natural environments",
+      "quran_reference": "30:22",
+      "scientific_topic": "Natural variation and mineral colour",
+      "scientific_finding": "Natural materials display a wide range of colours due to chemical composition, structure and environmental conditions.",
+      "connection": "The verse refers to differences in languages and colours as signs.",
+      "limitations": "The verse does not specifically discuss rock or soil colour; its main context concerns human diversity.",
+      "evidence_grade": "D",
+      "research_status": "Not a direct geology connection",
+      "quranic_evidence": {
+        "reference": "30:22",
+        "quran_com_url": "https://quran.com/30/22",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Natural materials display a wide range of colours due to chemical composition, structure and environmental conditions.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to differences in languages and colours as signs.",
+        "interpretive_limit": "The verse does not specifically discuss rock or soil colour; its main context concerns human diversity.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-045",
+      "title": "The Earth as a source of diverse materials",
+      "quran_reference": "20:53",
+      "scientific_topic": "Earth materials and natural resources",
+      "scientific_finding": "Earth provides rocks, minerals, soils, water and other materials used by living organisms and human societies.",
+      "connection": "The verse mentions the Earth as a place with pathways and provisions.",
+      "limitations": "It does not describe the composition or classification of geological materials.",
+      "evidence_grade": "C",
+      "research_status": "Broad descriptive comparison",
+      "quranic_evidence": {
+        "reference": "20:53",
+        "quran_com_url": "https://quran.com/20/53",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth provides rocks, minerals, soils, water and other materials used by living organisms and human societies.",
+        "source_ids": [
+          "USGS_clays"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions the Earth as a place with pathways and provisions.",
+        "interpretive_limit": "It does not describe the composition or classification of geological materials.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-046",
+      "title": "The Earth as a source of different plant environments",
+      "quran_reference": "20:53",
+      "scientific_topic": "Soil and environmental conditions",
+      "scientific_finding": "Different soils and environmental conditions support different plant communities and agricultural systems.",
+      "connection": "The verse mentions different kinds of vegetation being brought out from the Earth.",
+      "limitations": "This is an observable natural description rather than a detailed scientific explanation of soil ecology.",
+      "evidence_grade": "B",
+      "research_status": "General ecological connection",
+      "quranic_evidence": {
+        "reference": "20:53",
+        "quran_com_url": "https://quran.com/20/53",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Different soils and environmental conditions support different plant communities and agricultural systems.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions different kinds of vegetation being brought out from the Earth.",
+        "interpretive_limit": "This is an observable natural description rather than a detailed scientific explanation of soil ecology.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-047",
+      "title": "The Earth and its changing surface",
+      "quran_reference": "13:3",
+      "scientific_topic": "Geomorphology",
+      "scientific_finding": "Earth's surface is continually reshaped by tectonics, erosion, weathering, sedimentation and volcanic activity.",
+      "connection": "The verse draws attention to the Earth's landforms and natural features.",
+      "limitations": "It does not explicitly describe the continuous geological processes that change Earth's surface.",
+      "evidence_grade": "C",
+      "research_status": "Scientific comparison",
+      "quranic_evidence": {
+        "reference": "13:3",
+        "quran_com_url": "https://quran.com/13/3",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth's surface is continually reshaped by tectonics, erosion, weathering, sedimentation and volcanic activity.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse draws attention to the Earth's landforms and natural features.",
+        "interpretive_limit": "It does not explicitly describe the continuous geological processes that change Earth's surface.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-048",
+      "title": "The Earth as a place of diverse terrain",
+      "quran_reference": "71:19",
+      "scientific_topic": "Earth's landforms and surface geography",
+      "scientific_finding": "Earth has varied terrain, including plains, hills, mountains, valleys and plateaus.",
+      "connection": "The verse describes the Earth as spread out for human use.",
+      "limitations": "The expression should not be interpreted as a scientific claim that Earth is geometrically flat.",
+      "evidence_grade": "B",
+      "research_status": "Descriptive connection",
+      "quranic_evidence": {
+        "reference": "71:19",
+        "quran_com_url": "https://quran.com/71/19",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth has varied terrain, including plains, hills, mountains, valleys and plateaus.",
+        "source_ids": [
+          "NPS_mountain_building",
+          "USGS_plate_motions",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the Earth as spread out for human use.",
+        "interpretive_limit": "The expression should not be interpreted as a scientific claim that Earth is geometrically flat.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-049",
+      "title": "The Earth and its geological balance",
+      "quran_reference": "55:7-9",
+      "scientific_topic": "Natural balance and Earth systems",
+      "scientific_finding": "Earth systems involve interacting physical, chemical and biological processes, including the carbon cycle, water cycle and energy balance.",
+      "connection": "The passage discusses balance and warns against violating the balance.",
+      "limitations": "The passage has a broad ethical and theological meaning. It should not be presented as a technical statement of geological equilibrium.",
+      "evidence_grade": "D",
+      "research_status": "Conceptual comparison",
+      "quranic_evidence": {
+        "reference": "55:7-9",
+        "quran_com_url": "https://quran.com/55/7-9",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "not_individually_reviewed",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth systems involve interacting physical, chemical and biological processes, including the carbon cycle, water cycle and energy balance.",
+        "source_ids": [
+          "USGS_groundwater",
+          "USGS_clays",
+          "USGS_landslides"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The passage discusses balance and warns against violating the balance.",
+        "interpretive_limit": "The passage has a broad ethical and theological meaning. It should not be presented as a technical statement of geological equilibrium.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "GEO-050",
+      "title": "Seven earths",
+      "quran_reference": "65:12",
+      "scientific_topic": "Earth's internal structure and layered models",
+      "scientific_finding": "Earth has several scientifically identified internal regions, including the crust, mantle, outer core and inner core.",
+      "connection": "The verse refers to seven earths, which has prompted various theological and modern interpretations.",
+      "limitations": "Modern geology does not establish that the verse's seven earths correspond to seven physical geological layers. The interpretation requires careful examination of classical tafsir and Arabic usage.",
+      "evidence_grade": "D",
+      "research_status": "Unverified scientific equivalence",
+      "quranic_evidence": {
+        "reference": "65:12",
+        "quran_com_url": "https://quran.com/65/12",
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "Reference retained from the supplied dataset; Arabic text and translation not transcribed or independently verified in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before making a scientific claim."
+      },
+      "classical_tafsir_review": {
+        "status": "initial_source_linked_review",
+        "note": "Al-Tabari records early scholarly reports about multiple earths; these reports are not equivalent to modern geological layers. The verse must not be claimed as proof of Earth's internal crust-mantle-core structure.",
+        "source_ids": [
+          "TABARI_65_12"
+        ]
+      },
+      "scientific_evidence": {
+        "summary": "Earth has several scientifically identified internal regions, including the crust, mantle, outer core and inner core.",
+        "source_ids": [
+          "TABARI_65_12",
+          "USGS_earthquake_science"
+        ],
+        "source_scope_note": "These sources support the general scientific background. They do not, by themselves, establish that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to seven earths, which has prompted various theological and modern interpretations.",
+        "interpretive_limit": "Modern geology does not establish that the verse's seven earths correspond to seven physical geological layers. The interpretation requires careful examination of classical tafsir and Arabic usage.",
+        "claim_strength": "descriptive_or_interpretive_unless_directly_demonstrated",
+        "publication_caution": "Avoid the phrase 'scientific miracle' unless the wording, historical interpretation. Scientific claim are independently established and the correspondence is specific rather than broad."
+      },
+      "verification_status": {
+        "scientific_background": "source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review_except_where_noted",
+        "peer_reviewed_topic_literature": "additional_review_needed",
+        "publication_ready": false
+      }
+    }
+  ],
+  "source_policy": {
+    "quran_sources": [
+      "Quran.com",
+      "Tanzil",
+      "Quranic Arabic Corpus"
+    ],
+    "tafsir_sources": [
+      "Tafsir al-Tabari",
+      "Tafsir Ibn Kathir",
+      "Tafsir al-Qurtubi",
+      "Tafheem-ul-Quran"
+    ],
+    "science_sources": [
+      "United States Geological Survey",
+      "NASA Earth Science",
+      "British Geological Survey",
+      "National Geographic Education",
+      "Peer-reviewed geology and Earth science journals"
+    ],
+    "recommended_scientific_references": [
+      {
+        "title": "Facts About Earth",
+        "organization": "NASA",
+        "url": "https://science.nasa.gov/earth/facts/"
+      },
+      {
+        "title": "What is an earthquake and what causes them to happen?",
+        "organization": "United States Geological Survey",
+        "url": "https://www.usgs.gov/faqs/what-earthquake-and-what-causes-them-happen"
+      }
+    ],
+    "research_rules": [
+      "Verify every Quranic reference and Arabic wording before publication.",
+      "Check the complete verse and surrounding context.",
+      "Distinguish classical tafsir from modern interpretations.",
+      "Do not invent hadith references or authenticity grades.",
+      "Do not claim that mountains prevent earthquakes.",
+      "Do not claim that seven earths have been scientifically proven to be seven geological layers.",
+      "Do not equate the word sent down in the iron verse with a proven meteorite-origin claim.",
+      "Use peer-reviewed scientific sources for specific geological claims.",
+      "Add exact scientific paper titles, authors, publication years and DOI links only after verification.",
+      "Do not classify eschatological descriptions as experimentally proven geological predictions.",
+      "Preserve limitations and alternative interpretations in every entry."
+    ]
+  },
+  "research_scope": {
+    "purpose": "A source-linked research draft for evaluating the 50 original topic candidates. It is not a list of 50 established scientific miracles.",
+    "method": "Original topic wording, references, findings, connections, limitations, and grades are retained. External scientific sources are linked as background evidence. Where a source only supports the general scientific topic, it is not presented as proof of the Qur'anic interpretation.",
+    "grading_note": "Original grades are preserved, not independently re-scored in this pass. Treat them as provisional pending verse-by-verse Arabic/translation review, classical tafsir review, and topic-specific scientific literature review.",
+    "interpretive_rule": "Separate the Qur'anic wording and context, classical tafsir, modern scientific knowledge, and any proposed correspondence. Similarity alone does not establish prediction or miracle."
+  },
+  "source_catalog": {
+    "USGS_earthquake_causes": {
+      "title": "What is an earthquake and what causes them to happen?",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/faqs/what-earthquake-and-what-causes-them-happen",
+      "supports": "Earthquakes result from sudden slip on faults and release of stored stress as seismic waves."
+    },
+    "USGS_earthquake_science": {
+      "title": "The Science of Earthquakes",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes",
+      "supports": "Tectonic plates, faults, seismic waves, and the causes and distribution of earthquakes."
+    },
+    "USGS_earthquake_effects": {
+      "title": "What are the Effects of Earthquakes?",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/programs/earthquake-hazards/what-are-effects-earthquakes",
+      "supports": "Ground shaking, surface faulting, ground failure, landslides, and related hazards."
+    },
+    "NPS_mountain_building": {
+      "title": "Evidence of Plate Motions – Mountain Building",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/subjects/geology/plate-tectonics-evidence-of-plate-motions.htm",
+      "supports": "Mountain ranges form through plate convergence, divergence, transform motion, and hotspots; Himalaya formation."
+    },
+    "USGS_plate_motions": {
+      "title": "Understanding Plate Motions",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+      "supports": "Continental collision, crustal shortening, uplift, and Himalayan-Tibetan mountain building."
+    },
+    "USGS_clays": {
+      "title": "Environmental Characteristics of Clays and Clay Mineral Deposits",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/info/clays/",
+      "supports": "Clay minerals form through weathering and alteration of rocks, and occur in soils and sediments."
+    },
+    "USGS_landslides": {
+      "title": "Landslide Types and Processes",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/fs/2004/3072/fs-2004-3072.html",
+      "supports": "Landslide causes include geology, slope morphology, water saturation, erosion, and human activity."
+    },
+    "USGS_groundwater": {
+      "title": "Groundwater Flow and the Water Cycle",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/water-science-school/science/groundwater-flow-and-water-cycle",
+      "supports": "Groundwater moves through pore spaces and fractures and can discharge into springs, rivers, and oceans."
+    },
+    "USGS_quakes_groundwater": {
+      "title": "Earthquakes—Rattling the Earth's Plumbing System",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/fs/fs-096-03/",
+      "supports": "Earthquakes can alter groundwater levels, well flow, and spring discharge."
+    },
+    "TABARI_65_12": {
+      "title": "Tafsir al-Tabari on Qur'an 65:12",
+      "publisher": "Tafsir al-Tabari (English presentation)",
+      "url": "https://tafseerquran.com/en/tafsir/65/12",
+      "supports": "Classical exegetical reports concerning the phrase 'and of the earth, the like of them'; not a modern geophysical model."
+    },
+    "TABARI_41_9": {
+      "title": "Tafsir al-Tabari on Qur'an 41:9",
+      "publisher": "Tafsir al-Tabari (English presentation)",
+      "url": "https://tafseerquran.com/en/tafsir/41/9",
+      "supports": "Classical interpretation of the earth being created in two days; theological exegesis, not a scientific chronology."
+    },
+    "IBN_KATHIR_41_9_12": {
+      "title": "Tafsir Ibn Kathir on Qur'an 41:9–12",
+      "publisher": "Ibn Kathir (English presentation)",
+      "url": "https://www.alim.org/quran/tafsir/ibn-kathir/surah/41/12/",
+      "supports": "Classical exegetical discussion of creation, mountains, provision, and the sequence in 41:9–12."
+    }
+  },
+  "quality_control_summary": {
+    "input_entries": 50,
+    "output_entries": 50,
+    "original_ids_preserved": true,
+    "original_topic_fields_preserved": true,
+    "source_catalog_records": 12,
+    "entries_with_scientific_source_links": 50,
+    "arabic_texts_individually_verified": 0,
+    "translations_individually_verified": 0,
+    "individual_classical_tafsir_reviews_completed": 2,
+    "evidence_grades": "Original grades retained as provisional; not upgraded.",
+    "critical_cautions": [
+      "Mountains do not stop tectonic plate motion or prevent earthquakes; mountain building is commonly a result of tectonic processes.",
+      "Mountain roots and isostasy vary; not every mountain range has a simple deep crustal root, and a peg analogy is not a technical geological description.",
+      "Eschatological passages about mountains moving or being crushed are not direct descriptions of ordinary erosion, plate tectonics, or current geophysical processes.",
+      "Qur'an 65:12 must not be mapped onto the Earth's crust, mantle, and core as if this were an established scientific interpretation.",
+      "A passage about the earth's creation in days is theological language; geological age estimates do not independently verify or falsify that language without a clearly defined interpretive framework.",
+      "General scientific facts about landforms, minerals, water, and soil are not by themselves evidence of a miraculous prediction."
+    ],
+    "release_status": "research draft; requires expert Arabic/tafsir review and topic-by-topic scientific source validation before public claims."
+  }
+}

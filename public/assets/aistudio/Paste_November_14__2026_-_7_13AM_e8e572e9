@@ -1,0 +1,1245 @@
+# MASTER IMPLEMENTATION PROMPT
+# SCIENCE OF CREATION
+# 500 UNIQUE TEXTBOOK ILLUSTRATIONS + COMPLETE NUMBERING AND USER-FRIENDLY NAVIGATION SYSTEM
+
+## PROJECT OBJECTIVE
+
+The existing Science of Creation encyclopedia contains 10 chapters and 500 individual research topics.
+
+There is a serious problem with the existing diagram implementation: the same diagram or generic illustration has been reused across multiple unrelated topics.
+
+This must be completely corrected.
+
+Your task is to redesign, create, integrate and verify a complete illustration system containing **500 individually relevant, topic-specific scientific and educational illustrations**, with one dedicated illustration for every topic.
+
+In addition, implement a complete professional numbering and navigation system throughout the encyclopedia so that readers can easily understand where they are, identify chapters and topics, locate illustrations, navigate between pages and follow their reading progress.
+
+### Selected visual direction
+
+**Visual style:** Professional textbook style.
+
+**Illustration approach:** Detailed scientific and educational illustrations.
+
+The result should resemble a premium international science textbook, academic atlas or professionally illustrated educational encyclopedia.
+
+This is not a request to decorate pages with generic pictures.
+
+Every illustration must explain the actual subject of its assigned topic.
+
+The complete experience must be beautifully organised, consistently numbered, easy to navigate and suitable for public readers.
+
+---
+
+# PART 1 — NON-NEGOTIABLE ILLUSTRATION REQUIREMENTS
+
+1. Every one of the 500 topics must have its own dedicated illustration assignment.
+2. Each illustration must correspond directly to its assigned topic.
+3. Never use one generic illustration throughout the encyclopedia.
+4. Never assign the same illustration to unrelated topics.
+5. Never use a chapter-cover illustration as a topic illustration.
+6. Never use generic stock images simply to fill missing illustrations.
+7. Never display an unrelated image as a fallback.
+8. Never generate scientifically inaccurate diagrams to satisfy the required count.
+9. Never add Qur'anic text, Arabic verse text or religious quotations inside illustrations unless explicitly required and accurately sourced.
+10. Do not alter existing research content, evidence grades, Qur'anic references or scientific conclusions while creating illustrations.
+
+A topic is only considered illustrated when its assigned visual genuinely represents its subject.
+
+**Target: 500 of 500 individually assigned, relevant illustrations.**
+
+Do not claim completion merely because 500 image references or database records exist.
+
+# PART 2 — PROFESSIONAL TEXTBOOK VISUAL DESIGN
+
+All illustrations must follow one consistent professional textbook visual language.
+
+## Overall appearance
+
+- Professional educational textbook illustration.
+- Scientifically accurate proportions and structures.
+- Clean, carefully organised composition.
+- Clear subject hierarchy.
+- Detailed but not unnecessarily complicated.
+- Accurate scientific terminology.
+- Professional labels and annotations.
+- Appropriate cross-sections and cutaway views where useful.
+- Natural-looking scientific colour palettes.
+- Excellent readability.
+- High-resolution presentation.
+- No unnecessary decorative elements.
+
+## Illustration techniques
+
+Use the most suitable visual technique for each topic:
+
+- Anatomical illustrations.
+- Scientific cross-sections.
+- Geological cutaway illustrations.
+- Biological process illustrations.
+- Celestial and astronomical illustrations.
+- Environmental system illustrations.
+- Microscopic and cellular illustrations.
+- Ecosystem illustrations.
+- Technical explanatory illustrations.
+- Comparative scientific illustrations.
+- Conceptual educational illustrations where appropriate.
+
+Do not force every topic into the same diagram format.
+
+## Brand integration
+
+Maintain the existing Science of Creation identity.
+
+**Dark theme**
+- Midnight emerald presentation surfaces.
+- Antique gold accents.
+- Clear, high-contrast labels.
+- Comfortable scientific reading experience.
+
+**Light theme**
+- Warm ivory presentation surfaces.
+- Rich emerald accents.
+- Subtle gold details.
+- Excellent contrast and readability.
+
+Scientific illustrations must remain readable in both themes.
+
+Do not recolour scientific structures in ways that change their meaning.
+
+The illustration itself may use scientifically appropriate colours. Its surrounding frame, caption and presentation should adapt to the selected theme.
+
+---
+
+# PART 3 — CREATE A UNIQUE ILLUSTRATION FOR EVERY TOPIC
+
+Work through all 10 chapters and all 500 topics.
+
+For each topic:
+
+1. Read the complete topic title.
+2. Read its scientific topic.
+3. Read its scientific finding.
+4. Read its scientific explanation.
+5. Read its limitations.
+6. Understand what the topic actually describes.
+7. Identify the most useful visual explanation.
+8. Design an illustration specifically for that topic.
+9. Add accurate labels and annotations.
+10. Write a topic-specific caption.
+11. Integrate the illustration into the correct topic page.
+12. Verify that the illustration is actually displayed on that page.
+
+Do not design illustrations from titles alone when the scientific explanation provides more precise information.
+
+The illustration must represent the actual scientific subject, not simply a keyword appearing in the title.
+
+## Unique illustration identities
+
+Give every illustration a unique ID based on its topic ID.
+
+Examples:
+
+- COS-001-ILLUSTRATION
+- COS-002-ILLUSTRATION
+- GEO-001-ILLUSTRATION
+- WAT-001-ILLUSTRATION
+- ATM-001-ILLUSTRATION
+- BOT-001-ILLUSTRATION
+- ANI-001-ILLUSTRATION
+- HUM-001-ILLUSTRATION
+- HLT-001-ILLUSTRATION
+- PSY-001-ILLUSTRATION
+- SOC-001-ILLUSTRATION
+
+Use the actual existing topic IDs for all 500 assignments.
+
+Never create a second illustration record for a topic by mistake.
+
+---
+
+# PART 4 — CHAPTER-SPECIFIC ILLUSTRATION REQUIREMENTS
+
+The following are visual direction examples, not fixed illustrations to copy. Select the actual illustration for each individual topic based on its source content.
+
+## Chapter 01 — Cosmology and Space
+
+Create appropriate astronomical and cosmological illustrations.
+
+Possible visual formats:
+
+- Universe expansion timelines.
+- Galaxy structure and formation.
+- Solar system structure.
+- Planetary motion.
+- Stellar life cycles.
+- Black hole structure.
+- Nebulae.
+- Cosmic radiation.
+- Orbital mechanics.
+- Astronomical observation systems.
+- Scale comparisons of astronomical objects.
+
+Use scientifically meaningful scales and labels.
+
+Do not represent artistic concepts as direct astronomical observations.
+
+Do not depict the Big Bang as an explosion inside pre-existing empty space.
+
+## Chapter 02 — Earth's Geology and Mountains
+
+Use detailed geological textbook illustrations.
+
+Possible visual formats:
+
+- Earth's internal layers.
+- Tectonic plate boundaries.
+- Mountain-building processes.
+- Fold mountains.
+- Faults and fractures.
+- Volcanic structures.
+- Rock cycles.
+- Erosion.
+- Sedimentary layers.
+- Geological time sequences.
+- Isostatic processes.
+
+Cross-sections must be labelled correctly.
+
+Do not imply that all mountains or geological structures form through one mechanism.
+
+## Chapter 03 — Oceans, Seas and Water
+
+Use detailed oceanographic and hydrological illustrations.
+
+Possible visual formats:
+
+- Ocean circulation.
+- Water-cycle processes.
+- Ocean-floor topography.
+- Ocean stratification.
+- Salinity gradients.
+- Wave formation.
+- Marine ecosystems.
+- Coral anatomy.
+- Water density.
+- Evaporation and condensation.
+- Freshwater and seawater interactions.
+
+Show gradients and transitions accurately where they exist.
+
+Do not depict natural boundaries as perfectly impermeable barriers when science does not support that.
+
+## Chapter 04 — Weather and Atmospheric Science
+
+Use professional meteorological illustrations.
+
+Possible visual formats:
+
+- Atmospheric layers.
+- Cloud formation.
+- Precipitation formation.
+- Water droplets and ice crystals.
+- Thunderstorm development.
+- Lightning formation.
+- Hail formation.
+- Wind circulation.
+- Atmospheric pressure.
+- Climate processes.
+- Solar radiation and atmospheric interactions.
+
+Distinguish weather from climate.
+
+Distinguish lightning, thunder, storm surge, tsunamis and different wave processes accurately.
+
+## Chapter 05 — Plants, Agriculture and Botany
+
+Use botanical textbook illustrations.
+
+Possible visual formats:
+
+- Plant anatomy.
+- Root structures.
+- Leaf cross-sections.
+- Photosynthesis.
+- Pollination.
+- Fertilisation in plants.
+- Seed development.
+- Germination.
+- Plant reproduction.
+- Water transport.
+- Xylem and phloem.
+- Plant-cell structures.
+- Agricultural systems.
+- Plant-environment interactions.
+
+Do not imply that every plant reproduces through the same process.
+
+## Chapter 06 — Animals and Biological Systems
+
+Use detailed zoological and biological illustrations.
+
+Possible visual formats:
+
+- Animal anatomy.
+- Digestive systems.
+- Respiratory systems.
+- Circulatory systems.
+- Reproductive systems.
+- Animal locomotion.
+- Insect anatomy.
+- Bird anatomy.
+- Marine animal structures.
+- Adaptations.
+- Sensory systems.
+- Animal development.
+- Ecological relationships.
+
+Use species-specific anatomy where a topic concerns a particular animal.
+
+Do not substitute one species' anatomy for another.
+
+## Chapter 07 — Human Biology and Embryology
+
+Use accurate medical and biological textbook illustrations.
+
+Possible visual formats:
+
+- Human anatomy.
+- Fertilisation.
+- Embryonic development stages.
+- Placental structure.
+- Umbilical cord.
+- Organ development.
+- Skeletal system.
+- Muscular system.
+- Nervous system.
+- Heart structure.
+- Skin anatomy.
+- Fingerprint patterns.
+- Human reproductive biology.
+- Breastfeeding physiology.
+
+Developmental illustrations must respect scientifically established stages and timelines.
+
+Do not show a developmental sequence that falsely implies a precise chronology.
+
+## Chapter 08 — Health, Hygiene, Nutrition and Fasting
+
+Use educational medical and public-health illustrations.
+
+Possible visual formats:
+
+- Handwashing procedures.
+- Digestive processes.
+- Nutrient absorption.
+- Food safety.
+- Hydration.
+- Nutritional composition.
+- Sleep and biological rhythms.
+- Exercise and physiology.
+- Fasting-related metabolic processes.
+- Food storage.
+- Oral hygiene.
+- Infant feeding.
+
+Do not turn religious practices into unsupported medical claims.
+
+Do not depict a medical illustration as personal medical advice.
+
+## Chapter 09 — Human Psychology and Behaviour
+
+Use professional psychology textbook illustrations.
+
+Possible visual formats:
+
+- Decision-making pathways.
+- Habit formation.
+- Attention and memory.
+- Emotional regulation.
+- Social support networks.
+- Behavioural learning.
+- Cognitive processes.
+- Stress-response pathways.
+- Interpersonal relationships.
+- Reflection and self-awareness.
+- Cooperation.
+- Conflict resolution.
+
+These must be appropriate educational illustrations.
+
+Do not present religious concepts such as sabr, tawakkul, nafs or qalb as if they were identical to specific neurological structures or clinical diagnoses.
+
+Do not invent brain mechanisms or medical explanations.
+
+## Chapter 10 — Social Life, Ethics and Everyday Practices
+
+Use professional social-science and educational conceptual illustrations.
+
+Possible visual formats:
+
+- Justice and fairness frameworks.
+- Agreements and trust.
+- Trade and exchange.
+- Financial responsibility.
+- Charity and social support.
+- Family relationships.
+- Community networks.
+- Consultation and decision-making.
+- Privacy and boundaries.
+- Information verification.
+- Cooperation.
+- Reconciliation.
+- Social responsibility.
+- Leadership and stewardship.
+
+These are conceptual illustrations, not laboratory measurements.
+
+Never present an ethical principle as a measured scientific law.
+
+---
+
+# PART 5 — ILLUSTRATION CONTENT, LABELS AND ACCURACY
+
+Every illustration must have an appropriate amount of explanatory information.
+
+Where relevant, include:
+
+- Main title.
+- Clearly labelled structures.
+- Direction arrows.
+- Process stages.
+- Scale or orientation.
+- Legends.
+- Units.
+- Scientific terminology.
+- Short explanatory annotations.
+
+Every illustration must have:
+
+1. A unique illustration ID.
+2. Its assigned topic ID.
+3. A topic-specific title.
+4. A concise explanatory caption.
+5. Alternative text for accessibility.
+6. Source or reference attribution where it relies on external factual material.
+7. A description of whether it is measured, anatomical, observational, schematic or conceptual.
+
+Do not overload illustrations with paragraphs of text.
+
+Keep detailed explanations in the accompanying topic content.
+
+## Accuracy rules
+
+- Do not invent scientific measurements.
+- Do not invent numerical scales.
+- Do not invent anatomical structures.
+- Do not invent biological stages.
+- Do not invent causal relationships.
+- Do not make uncertain theories look settled.
+- Do not label conceptual models as experimentally measured results.
+- Use approximate labels when precision is not supported.
+- Preserve uncertainty where relevant.
+
+If available research content does not support a detailed illustration, create a simpler accurate visual rather than inventing details.
+
+---
+
+# PART 6 — ILLUSTRATION ASSET CREATION AND ORGANISATION
+
+The selected approach is detailed textbook illustrations, not a collection of repetitive geometric SVG diagrams.
+
+Use high-quality generated or professionally rendered educational illustration assets wherever the available Google AI Studio environment supports image generation.
+
+For every topic, create a distinct visual brief based on its actual scientific content.
+
+Each visual brief must specify:
+
+- Exact topic subject.
+- Scientific structures or processes to show.
+- Correct viewing angle or cross-section.
+- Important labels.
+- Relevant scale and proportions.
+- Educational composition.
+- Textbook illustration style.
+- Background and contrast requirements.
+- Elements that must not be shown because they would be misleading.
+
+If image generation is unavailable, use the best available custom illustration implementation.
+
+Do not substitute one generic picture for hundreds of topics.
+
+A reusable renderer is acceptable, but the actual illustration assets and topic assignments must be distinct and correct.
+
+## Asset organisation
+
+Use a predictable structure:
+
+`public/assets/illustrations/`
+
+Organise into:
+
+- cosmology/
+- geology/
+- oceans/
+- atmosphere/
+- plants/
+- animals/
+- human-biology/
+- health/
+- psychology/
+- social-ethics/
+
+Use filenames based on topic IDs, for example:
+
+- COS-001.webp
+- COS-002.webp
+- GEO-001.webp
+- WAT-001.webp
+- HUM-001.webp
+
+Do not overwrite another topic's illustration.
+
+Use optimised formats and appropriate resolutions.
+
+Keep a fallback only for genuine loading errors. Show a neutral missing-illustration state instead of displaying an unrelated image.
+
+---
+
+# PART 7 — CENTRAL ILLUSTRATION REGISTRY
+
+Create a central, maintainable topic-to-illustration registry.
+
+The data model should support:
+
+- Topic ID.
+- Illustration ID.
+- Asset path.
+- Illustration title.
+- Caption.
+- Alt text.
+- Illustration category.
+- Scientific or conceptual classification.
+- Reference information.
+- Verification state.
+- Chapter number.
+- Topic number.
+- Global topic number.
+- Figure number.
+
+Requirements:
+
+1. Every topic must resolve to its correct illustration.
+2. Topic navigation must update the illustration correctly.
+3. Illustrations must not remain stuck on a previous topic after page navigation.
+4. The renderer must not accidentally use the first illustration for every topic.
+5. Missing assets must be detected.
+6. Broken asset paths must be detected.
+7. Duplicate assignments must be flagged for review.
+8. Chapter directories must show the correct illustration for each topic.
+9. Figure numbering must resolve to the correct illustration.
+10. The illustration registry must preserve the original dataset IDs.
+
+Do not hardcode the same image path in a generic topic component.
+
+---
+
+# PART 8 — STRICT DUPLICATE DETECTION
+
+This is one of the most important requirements.
+
+Create automated checks for:
+
+- Duplicate illustration IDs.
+- Duplicate asset paths across unrelated topics.
+- Missing topic assignments.
+- Missing image files.
+- Broken image references.
+- Identical image hashes.
+- Suspiciously similar illustrations.
+
+Where possible, perform visual similarity checks in addition to file-hash checks.
+
+A different filename does not make a reused image unique.
+
+A small colour change, crop, resize or text overlay does not turn the same generic image into a genuinely different topic illustration.
+
+Related topics may legitimately share a visual subject when the illustration is specifically adapted to explain a different scientific aspect. Such cases must be reviewed and documented.
+
+Create a duplicate-review report.
+
+Do not automatically mark every similar-looking image invalid. Consider scientific relevance and actual content.
+
+---
+
+# PART 9 — INTEGRATION INTO EVERY TOPIC PAGE
+
+Update the existing topic-page renderer so every topic displays its own assigned illustration.
+
+Illustration presentation must include:
+
+- Clear placement near the relevant scientific explanation.
+- Consistent figure width.
+- Responsive scaling.
+- Proper aspect ratio.
+- No stretching or distortion.
+- Readable labels.
+- Professional caption.
+- Optional zoom or enlarged viewing where useful.
+- Accessible alternative text.
+- Loading and error handling.
+- Correct figure numbering.
+
+The illustration must feel like an integral part of the encyclopedia page.
+
+Do not let it dominate the text or force unnecessary scrolling.
+
+Keep the topic layout elegant and readable.
+
+---
+
+# PART 10 — COMPLETE NUMBERING SYSTEM
+
+Implement a consistent, professional numbering system across the entire encyclopedia.
+
+Numbering must make the website easier to understand, not visually crowded.
+
+## 10.1 — Chapter numbering
+
+Use the following exact chapter numbering:
+
+01 — Cosmology and Space
+
+02 — Earth's Geology and Mountains
+
+03 — Oceans, Seas and Water
+
+04 — Weather and Atmospheric Science
+
+05 — Plants, Agriculture and Botany
+
+06 — Animals and Biological Systems
+
+07 — Human Biology and Embryology
+
+08 — Health, Hygiene, Nutrition and Fasting
+
+09 — Human Psychology and Behaviour
+
+10 — Social Life, Ethics and Everyday Practices
+
+Display chapter numbers on:
+
+- Chapter opening pages.
+- Chapter directories.
+- Table of contents.
+- Navigation drawer.
+- Breadcrumbs.
+- Chapter progress indicators.
+- Chapter introduction pages.
+
+Use one consistent format throughout the application.
+
+## 10.2 — Topic numbering
+
+Every topic must have a visible sequential number within its chapter.
+
+Each chapter contains 50 topics.
+
+Examples:
+
+Chapter 01:
+- Topic 01 — Topic title.
+- Topic 02 — Topic title.
+- Topic 03 — Topic title.
+- Continue through Topic 50.
+
+Repeat this for all 10 chapters.
+
+Preserve the original dataset IDs.
+
+Examples:
+
+- Chapter 01 · Topic 01 · COS-001.
+- Chapter 01 · Topic 02 · COS-002.
+- Chapter 02 · Topic 01 · GEO-001.
+- Chapter 10 · Topic 50 · SOC-050.
+
+Never replace original topic IDs with display numbers.
+
+Display numbering and dataset IDs must coexist.
+
+## 10.3 — Global topic numbering
+
+Introduce a global sequence across all 500 topics.
+
+Examples:
+
+- 001 / 500.
+- 002 / 500.
+- 003 / 500.
+- Continue through 500 / 500.
+
+Display this as a secondary navigation indicator where appropriate.
+
+Readers must be able to understand both:
+
+- Their position inside the current chapter.
+- Their position across the entire encyclopedia.
+
+Calculate global positions from the actual topic order, not manually hardcoded values.
+
+## 10.4 — Numbered table of contents
+
+Create a beautifully organised, fully numbered table of contents.
+
+Include:
+
+1. All opening and introductory sections.
+2. All 10 chapters.
+3. All 50 topics inside each chapter.
+4. Supporting methodology and reference sections.
+
+Each chapter should be expandable.
+
+When expanded, its 50 topics must appear in the correct order.
+
+Every topic entry must be clickable and open the correct topic directly.
+
+The table of contents must:
+
+- Distinguish chapter numbers from topic numbers.
+- Display readable topic titles.
+- Show the current reading location.
+- Highlight the currently selected topic.
+- Provide a route back to the chapter directory.
+- Work on desktop, tablet and mobile.
+
+Readers must not be forced to navigate through hundreds of page turns to find a particular topic.
+
+## 10.5 — Numbered illustrations and figures
+
+Every illustration must have its own visible figure number.
+
+Use the chapter and topic numbering.
+
+Examples:
+
+- Figure 01.01 — Universe Expansion.
+- Figure 01.02 — Galaxy Structure.
+- Figure 02.01 — Earth's Internal Layers.
+- Figure 03.01 — Ocean Circulation.
+- Figure 07.01 — Human Embryonic Development.
+- Figure 09.01 — Decision-Making Process.
+- Figure 10.01 — Justice and Social Responsibility.
+
+The figure number must correspond to its actual topic assignment.
+
+If a topic has additional illustrations, number them sequentially:
+
+- Figure 01.01.
+- Figure 01.01-A.
+- Figure 01.01-B.
+
+Use consistent formatting.
+
+Never reuse a figure number for an unrelated illustration.
+
+## 10.6 — Numbered sections within topic pages
+
+Organise topic pages with a consistent section hierarchy.
+
+Where applicable, use:
+
+1. Qur'anic Reference.
+2. Arabic Text.
+3. Translation.
+4. Classical Tafsir.
+5. Scientific Background.
+6. Scientific Explanation.
+7. Scientific Illustration.
+8. How Was This Scientific Finding Established?
+9. How Does the Qur'anic Connection Relate to the Evidence?
+10. Evidence and References.
+11. Evidence Assessment.
+12. Limitations and Scholarly Context.
+13. Topic Conclusion.
+
+Sections may vary when genuinely not applicable.
+
+Do not display empty numbered sections.
+
+Do not renumber incorrectly when a section is absent.
+
+Use descriptive headings and avoid excessive numbering.
+
+Subsections may use formats such as:
+
+6. Scientific Explanation
+
+6.1. Main Process
+
+6.2. Important Structures
+
+6.3. Scientific Observations
+
+## 10.7 — Numbered scientific processes
+
+Whenever an illustration explains a sequence, procedure or process, number its stages in the correct order.
+
+Examples:
+
+- Stage 01.
+- Stage 02.
+- Stage 03.
+- Stage 04.
+
+Use directional arrows where useful.
+
+For scientific processes, preserve the actual scientific sequence.
+
+For conceptual processes, clarify that the sequence is an explanatory model rather than a universal scientific law.
+
+Do not invent chronology where science does not establish it.
+
+## 10.8 — Numbered references and citations
+
+Organise references professionally.
+
+Where a topic uses multiple references, provide a clear numbered reference list.
+
+For example:
+
+01. Scientific source title.
+02. Institution or author.
+03. Publication year.
+04. Source link.
+
+Use consistent numbered citation markers where appropriate.
+
+Every citation marker must resolve to the correct reference.
+
+Do not invent authors, dates, DOI numbers or bibliographic information.
+
+Keep Qur'anic references clearly distinguished from scientific references and classical tafsir references.
+
+## 10.9 — Page numbers and reading position
+
+Introduce a consistent page-numbering system appropriate to the existing interactive book architecture.
+
+Readers should understand:
+
+- Current page.
+- Current chapter.
+- Current topic.
+- Overall reading progress.
+
+Where a topic spans multiple physical pages, keep its topic number consistent across those pages.
+
+Do not confuse physical folio numbers with topic numbers or illustration numbers.
+
+Calculate page positions dynamically from the actual book structure.
+
+## 10.10 — Breadcrumb navigation
+
+Add a clear navigation path near the top of the reading experience.
+
+Example:
+
+Science of Creation
+› Chapter 07: Human Biology and Embryology
+› Topic 18: The Three Layers
+
+Make breadcrumb levels clickable where appropriate.
+
+Ensure breadcrumbs fit naturally on mobile screens.
+
+## 10.11 — Previous and next navigation
+
+Every topic page must provide clearly labelled navigation controls.
+
+Examples:
+
+← Previous Topic
+
+Next Topic →
+
+Also show:
+
+Previous: Topic 17 / 50
+
+Current: Topic 18 / 50
+
+Next: Topic 19 / 50
+
+At the first and last topic of a chapter, handle chapter transitions intelligently.
+
+Readers must not lose their reading position.
+
+## 10.12 — Progress indicators
+
+Provide clear progress information.
+
+Examples:
+
+Chapter 07: 18 of 50 topics.
+
+Complete encyclopedia: 318 of 500 topics.
+
+Use elegant progress bars or indicators.
+
+Distinguish:
+
+- Current topic position.
+- Topics completed or bookmarked, if supported.
+- Overall reading progress.
+
+Do not mark a topic completed merely because it was opened unless that is the explicitly selected progress behaviour.
+
+Ensure progress remains accurate when readers navigate directly to a topic.
+
+## 10.13 — Numbering in the illustration gallery
+
+The internal illustration inspection gallery must show:
+
+- Chapter number.
+- Chapter title.
+- Topic number.
+- Global topic number.
+- Topic ID.
+- Figure number.
+- Illustration ID.
+
+Provide chapter filters and sequential ordering.
+
+---
+
+# PART 11 — USER-FRIENDLY NAVIGATION AND INTERACTION
+
+The entire website must be intuitive for first-time visitors.
+
+Polish:
+
+- Chapter navigation.
+- Topic navigation.
+- Table of contents.
+- Chapter directory.
+- Previous and next controls.
+- Breadcrumbs.
+- Reading progress.
+- Bookmarks.
+- Theme switching.
+- Page-turn controls.
+- Illustration viewing.
+- Reference links.
+- Mobile navigation.
+
+Make clickable elements visually obvious.
+
+Use descriptive labels rather than unexplained icons.
+
+Ensure controls have comfortable touch targets.
+
+Keep navigation consistent across all 10 chapters.
+
+Use collapsible navigation on mobile where appropriate.
+
+Do not overcrowd pages with numbers, buttons or controls.
+
+There must be no global search bar or global search feature.
+
+Navigation must remain based on chapters, directories, table of contents and direct topic navigation.
+
+---
+
+# PART 12 — RESPONSIVE DESIGN
+
+Test the illustration and numbering systems at:
+
+**Desktop**
+- 1920 × 1080.
+- 1366 × 768.
+- 1280 × 720.
+- 2560 × 1440.
+- 3840 × 2160.
+
+**Laptop**
+- 1440 × 900.
+- 1366 × 768.
+
+**Mobile**
+- 320–375px.
+- 390–430px.
+
+**Tablet**
+- 768px.
+- 1024px.
+
+Also test:
+
+- Portrait orientation.
+- Landscape orientation.
+- Dark mode.
+- Light mode.
+- High browser zoom.
+- Long scientific labels.
+- Arabic content near illustrations.
+
+Ensure:
+
+- Images never overflow.
+- Captions do not overlap.
+- Labels remain readable.
+- No image is cropped misleadingly.
+- Mobile images scale naturally.
+- Enlarged images close easily.
+- Numbering never overlaps titles.
+- Breadcrumbs remain readable.
+- Navigation remains touch-friendly.
+- Page-turning and scrolling remain smooth.
+
+---
+
+# PART 13 — PERFORMANCE OPTIMISATION
+
+Five hundred illustrations can increase application size significantly.
+
+Implement:
+
+- Image optimisation.
+- Responsive image sizes.
+- Lazy loading outside the current reading view.
+- Appropriate image decoding.
+- Caching where supported.
+- Efficient asset loading.
+- Avoid unnecessary image downloads.
+- Loading placeholders that do not shift layout.
+- Correct failed-image handling.
+
+Do not load all 500 full-resolution images when the reader opens the homepage.
+
+Load illustrations when the relevant chapter or topic needs them.
+
+Maintain image quality while reducing unnecessary file size.
+
+Ensure numbering and progress calculations do not introduce unnecessary rendering or performance problems.
+
+---
+
+# PART 14 — INTERNAL ILLUSTRATION QUALITY-CONTROL GALLERY
+
+Create an internal developer-only illustration inspection page or gallery.
+
+It must not appear in the public reader navigation.
+
+Allow developers to:
+
+- Browse all 10 chapters.
+- Inspect each topic's illustration.
+- See topic ID and illustration ID.
+- See chapter and topic numbering.
+- See global topic position.
+- See figure number.
+- See caption and classification.
+- Identify missing illustrations.
+- Identify duplicate assignments.
+- Identify broken assets.
+- Compare similar illustrations.
+- Review scientific relevance.
+- See chapter completion counts.
+
+The gallery must use actual registered assets, not placeholder thumbnails.
+
+---
+
+# PART 15 — COMPLETE NUMBERING AND NAVIGATION VALIDATION
+
+Before declaring completion, run an automated audit.
+
+Verify:
+
+- Exactly 10 chapter numbers.
+- 50 sequential topic numbers per chapter.
+- Exactly 500 global topic positions.
+- No duplicate topic display numbers within a chapter.
+- No missing global positions.
+- No mismatched dataset IDs.
+- Every illustration has its correct figure number.
+- No duplicate figure IDs.
+- Every table-of-contents entry opens the correct topic.
+- Every breadcrumb points to the correct location.
+- Previous and next navigation follows actual topic order.
+- Page numbers correspond to the real book structure.
+- Progress indicators calculate correctly.
+
+Also verify accessibility:
+
+- Navigation controls have clear accessible labels.
+- Keyboard users can navigate the table of contents.
+- Focus states are visible.
+- Touch targets are comfortable.
+- Screen readers announce chapter, topic and figure numbers meaningfully.
+- Current location is distinguishable without relying only on colour.
+
+---
+
+# PART 16 — FINAL ILLUSTRATION VALIDATION
+
+Run a complete illustration audit.
+
+| Chapter | Topics | Required illustrations |
+|---|---:|---:|
+| 01 — Cosmology and Space | 50 | 50 |
+| 02 — Earth's Geology and Mountains | 50 | 50 |
+| 03 — Oceans, Seas and Water | 50 | 50 |
+| 04 — Weather and Atmospheric Science | 50 | 50 |
+| 05 — Plants, Agriculture and Botany | 50 | 50 |
+| 06 — Animals and Biological Systems | 50 | 50 |
+| 07 — Human Biology and Embryology | 50 | 50 |
+| 08 — Health, Hygiene, Nutrition and Fasting | 50 | 50 |
+| 09 — Human Psychology and Behaviour | 50 | 50 |
+| 10 — Social Life, Ethics and Everyday Practices | 50 | 50 |
+| **TOTAL** | **500** | **500** |
+
+Run checks for:
+
+- 500 unique topic IDs.
+- 500 illustration assignments.
+- 500 valid illustration IDs.
+- 500 existing asset references.
+- 500 non-empty captions.
+- 500 non-empty alt-text descriptions.
+- Zero missing illustrations.
+- Zero broken image references.
+- Zero accidental generic fallbacks.
+- Zero unexplained duplicate assignments.
+
+A count of 500 records is not sufficient. Verify the actual assets and topic relevance.
+
+For every chapter, inspect illustrations rather than relying only on automated checks.
+
+If it is not possible to generate or verify all 500 illustrations in one operation, work chapter by chapter and maintain a precise completion record.
+
+Do not fabricate completion statistics.
+
+---
+
+# PART 17 — PRESERVE THE EXISTING ENCYCLOPEDIA
+
+While implementing this task, do not break:
+
+- Existing book engine.
+- Page-turn animations.
+- Chapter navigation.
+- Topic navigation.
+- Previous and next controls.
+- Bookmarks.
+- Reading progress.
+- Dark and light themes.
+- Arabic typography.
+- Existing research content.
+- Qur'anic references.
+- Scientific citations.
+- Evidence grades.
+- Limitations.
+- Existing introduction and methodology.
+- Mobile interactions.
+
+Do not introduce global search.
+
+Do not rebuild the website from scratch.
+
+Preserve existing working architecture and integrate improvements carefully.
+
+---
+
+# PART 18 — FINAL IMPLEMENTATION REPORT
+
+When implementation is finished, provide a detailed report containing:
+
+## Illustration results
+
+1. Total topics inspected.
+2. Total illustrations actually created.
+3. Total illustrations integrated into topic pages.
+4. Total topics with individually assigned illustrations.
+5. Completion count for each chapter.
+6. Number of unique illustration assets.
+7. Number of duplicate image hashes.
+8. Number of suspected visual duplicates.
+9. Number of missing assets.
+10. Number of broken image paths.
+11. Number requiring scientific review.
+12. Number requiring caption or label corrections.
+
+## Numbering and navigation results
+
+13. Chapter numbering validation.
+14. Topic numbering validation.
+15. Global topic numbering validation.
+16. Figure numbering validation.
+17. Table-of-contents navigation validation.
+18. Breadcrumb navigation validation.
+19. Previous and next navigation validation.
+20. Page-numbering validation.
+21. Reading progress validation.
+
+## Technical results
+
+22. Asset directory structure.
+23. New and modified files.
+24. Image optimisation performed.
+25. Responsive tests performed.
+26. Dark/light theme tests performed.
+27. Accessibility checks.
+28. TypeScript result.
+29. Production build result.
+30. Browser testing result.
+31. Remaining work.
+
+Clearly distinguish:
+
+- Created.
+- Integrated.
+- Automatically validated.
+- Visually inspected.
+- Scientifically reviewed.
+
+Do not report a scientifically reviewed illustration merely because it was generated or displayed successfully.
+
+Do not report 500 completed illustrations when only 500 registry records exist.
+
+---
+
+# FINAL INSTRUCTION
+
+The existing repeated-diagram problem must be eliminated.
+
+Science of Creation must have a genuinely professionally illustrated educational experience across all 500 topics.
+
+Every topic must show the correct illustration for its subject.
+
+The illustrations must look like professionally prepared textbook figures: accurate, detailed, clear, labelled, attractive and educational.
+
+The entire encyclopedia must also be professionally numbered and organised.
+
+Every chapter, topic, section, figure, reference and navigation element must follow a consistent, logical and user-friendly system.
+
+A first-time reader must immediately understand:
+
+1. Which chapter they are reading.
+2. Which topic they are reading.
+3. Where that topic sits in the complete 500-topic encyclopedia.
+4. Which illustration belongs to that topic.
+5. Where they can go next.
+6. How to return to the table of contents.
+7. How much of the encyclopedia they have explored.
+
+Do not take shortcuts by reusing one image, changing its filename, changing its colour or placing it inside different cards.
+
+Do not stop after improving the first chapter or homepage.
+
+Complete the illustration and numbering systems across all 10 chapters.
+
+If the work is too large for one execution, complete it in controlled chapter-by-chapter batches, preserve progress and report exactly what has and has not been completed.
+
+**FINAL TARGET: 500 genuinely relevant topic-specific textbook illustrations, 500 correctly numbered topic assignments, a complete figure-numbering system and an intuitive, professionally organised reading experience across the entire Science of Creation encyclopedia.**

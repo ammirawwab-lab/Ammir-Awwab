@@ -1,0 +1,8 @@
+{
+  "name": "Science of Creation",
+  "description": "Exploring the signs of creation through faith and scientific inquiry — a collector's edition interactive digital encyclopedia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,2945 @@
+{
+  "category_id": "plants_agriculture_botany",
+  "heading": "Plants, Agriculture and Botany",
+  "version": "2.0-research-enriched-draft",
+  "status": "preliminary_research_dataset",
+  "description": "Fifty illustrated topics exploring seeds waking up, green leaves making food from sunlight, wind and bee pollination, and varied crops.",
+  "entries": [
+    {
+      "id": "BOT-001",
+      "title": "Rain bringing forth different kinds of vegetation",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Plant growth and water availability",
+      "scientific_finding": "Water is essential for plant metabolism, nutrient transport, photosynthesis and growth.",
+      "connection": "The verse describes rain bringing forth vegetation of different kinds.",
+      "limitations": "Plant growth also depends on light, nutrients, temperature and other environmental conditions.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the Arabic wording and plant physiology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is essential for plant metabolism, nutrient transport, photosynthesis and growth.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes rain bringing forth vegetation of different kinds.",
+        "interpretive_limit": "Plant growth also depends on light, nutrients, temperature and other environmental conditions.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-002",
+      "title": "Vegetation emerging from the soil",
+      "quran_reference": [
+        "20:53",
+        "71:17"
+      ],
+      "scientific_topic": "Plant emergence and soil",
+      "scientific_finding": "Plants establish roots and shoots in suitable growing media, obtaining water and mineral nutrients from their environment.",
+      "connection": "The verses describe the Earth as a place where vegetation grows.",
+      "limitations": "They do not describe the detailed mechanisms of root development or soil chemistry.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate soil-plant relationships.",
+      "quranic_evidence": {
+        "references": [
+          "20:53",
+          "71:17"
+        ],
+        "quran_com_links": [
+          "https://quran.com/20/53",
+          "https://quran.com/71/17"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants establish roots and shoots in suitable growing media, obtaining water and mineral nutrients from their environment.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe the Earth as a place where vegetation grows.",
+        "interpretive_limit": "They do not describe the detailed mechanisms of root development or soil chemistry.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-003",
+      "title": "Seeds and grains growing into plants",
+      "quran_reference": [
+        "6:95",
+        "36:33"
+      ],
+      "scientific_topic": "Seed germination",
+      "scientific_finding": "A viable seed can germinate when suitable conditions of moisture, temperature and oxygen are available.",
+      "connection": "The verses refer to the splitting of seeds and the emergence of plant life.",
+      "limitations": "The verses are not a technical description of germination stages.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate seed biology.",
+      "quranic_evidence": {
+        "references": [
+          "6:95",
+          "36:33"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/95",
+          "https://quran.com/36/33"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "A viable seed can germinate when suitable conditions of moisture, temperature and oxygen are available.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to the splitting of seeds and the emergence of plant life.",
+        "interpretive_limit": "The verses are not a technical description of germination stages.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-004",
+      "title": "The splitting of seeds and kernels",
+      "quran_reference": [
+        "6:95"
+      ],
+      "scientific_topic": "Seed and grain development",
+      "scientific_finding": "Seeds contain an embryo and stored resources that support early growth after germination.",
+      "connection": "The verse mentions Allah splitting the grain and the date stone.",
+      "limitations": "The verse does not explain embryo development or seed anatomy.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the Arabic terms and seed structure.",
+      "quranic_evidence": {
+        "references": [
+          "6:95"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/95"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Seeds contain an embryo and stored resources that support early growth after germination.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions Allah splitting the grain and the date stone.",
+        "interpretive_limit": "The verse does not explain embryo development or seed anatomy.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-005",
+      "title": "Green vegetation and grain production",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Crop development and grain formation",
+      "scientific_finding": "Cereal crops develop green leaves and stems before producing grain in structures such as ears or panicles.",
+      "connection": "The verse describes greenery from which clustered grain is produced.",
+      "limitations": "The verse is a general observation, not a detailed account of cereal reproductive biology.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study cereal crop development.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Cereal crops develop green leaves and stems before producing grain in structures such as ears or panicles.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes greenery from which clustered grain is produced.",
+        "interpretive_limit": "The verse is a general observation, not a detailed account of cereal reproductive biology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-006",
+      "title": "Grain arranged in clustered structures",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Cereal inflorescences",
+      "scientific_finding": "Many cereal plants produce grains in organised reproductive structures, such as wheat ears and rice panicles.",
+      "connection": "The verse uses wording translated as grains piled or clustered together.",
+      "limitations": "Do not claim that the verse identifies a specific botanical structure without lexical and tafsir support.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare translations with botanical terminology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Many cereal plants produce grains in organised reproductive structures, such as wheat ears and rice panicles.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse uses wording translated as grains piled or clustered together.",
+        "interpretive_limit": "Do not claim that the verse identifies a specific botanical structure without lexical and tafsir support.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-007",
+      "title": "Different plant species",
+      "quran_reference": [
+        "6:99",
+        "20:53"
+      ],
+      "scientific_topic": "Plant diversity",
+      "scientific_finding": "Plants represent an enormous diversity of species with different structures, reproductive systems and environmental adaptations.",
+      "connection": "The verses refer to different kinds of vegetation and plants.",
+      "limitations": "They do not give a scientific taxonomy or count of plant species.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study plant diversity and classification.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "20:53"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/20/53"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants represent an enormous diversity of species with different structures, reproductive systems and environmental adaptations.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to different kinds of vegetation and plants.",
+        "interpretive_limit": "They do not give a scientific taxonomy or count of plant species.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-008",
+      "title": "Plants with different forms and appearances",
+      "quran_reference": [
+        "6:99",
+        "13:4"
+      ],
+      "scientific_topic": "Plant morphology",
+      "scientific_finding": "Plant species differ in leaf shape, stem structure, root systems, flowers and reproductive organs.",
+      "connection": "The verses describe vegetation and agricultural growth in varied forms.",
+      "limitations": "This is a broad connection to observable diversity, not a prediction of modern plant morphology.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine plant morphology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "13:4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/13/4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plant species differ in leaf shape, stem structure, root systems, flowers and reproductive organs.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe vegetation and agricultural growth in varied forms.",
+        "interpretive_limit": "This is a broad connection to observable diversity, not a prediction of modern plant morphology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-009",
+      "title": "Similar plants producing different fruits",
+      "quran_reference": [
+        "6:99",
+        "13:4"
+      ],
+      "scientific_topic": "Fruit diversity and plant genetics",
+      "scientific_finding": "Related plant varieties can produce fruits that differ in size, colour, taste, texture and chemical composition.",
+      "connection": "The verses describe fruits that are similar yet different.",
+      "limitations": "The verses do not explain genetic variation or inheritance.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate crop varieties and plant genetics.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "13:4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/13/4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Related plant varieties can produce fruits that differ in size, colour, taste, texture and chemical composition.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe fruits that are similar yet different.",
+        "interpretive_limit": "The verses do not explain genetic variation or inheritance.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-010",
+      "title": "Fruit formation and ripening",
+      "quran_reference": [
+        "6:99",
+        "36:35"
+      ],
+      "scientific_topic": "Fruit development",
+      "scientific_finding": "Fruit development follows flowering and fertilisation in many plants, followed by growth and maturation.",
+      "connection": "The verses invite observation of fruits when they appear and when they ripen.",
+      "limitations": "Not all edible plant structures develop through identical reproductive processes.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate fruit development.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "36:35"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/36/35"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Fruit development follows flowering and fertilisation in many plants, followed by growth and maturation.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite observation of fruits when they appear and when they ripen.",
+        "interpretive_limit": "Not all edible plant structures develop through identical reproductive processes.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-011",
+      "title": "The date palm and its fruit clusters",
+      "quran_reference": [
+        "6:99",
+        "50:10"
+      ],
+      "scientific_topic": "Date palm reproductive structures",
+      "scientific_finding": "Date palms produce branching fruit clusters that develop from inflorescences.",
+      "connection": "The verses mention date-palm spathes and clusters of dates.",
+      "limitations": "The verses do not provide a botanical diagram of the date palm.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study date-palm botany.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "50:10"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/50/10"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Date palms produce branching fruit clusters that develop from inflorescences.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention date-palm spathes and clusters of dates.",
+        "interpretive_limit": "The verses do not provide a botanical diagram of the date palm.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-012",
+      "title": "The date palm's flowering structures",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Date palm flowering",
+      "scientific_finding": "Date palms produce inflorescences enclosed by a protective spathe before flowering.",
+      "connection": "The verse mentions the tal' of the date palm, a term commonly discussed in relation to its emerging flowering or fruiting structure.",
+      "limitations": "Translations differ in how they render the term. Do not automatically translate it as pollen.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; verify Arabic lexicons and classical tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Date palms produce inflorescences enclosed by a protective spathe before flowering.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions the tal' of the date palm, a term commonly discussed in relation to its emerging flowering or fruiting structure.",
+        "interpretive_limit": "Translations differ in how they render the term. Do not automatically translate it as pollen.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-013",
+      "title": "Date palm pollination",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Date palm reproduction",
+      "scientific_finding": "Date palms are generally dioecious, meaning male and female flowers occur on separate trees. Pollination is required for fruit development.",
+      "connection": "The verse's reference to date-palm reproductive structures provides a possible topic for studying palm reproduction.",
+      "limitations": "The verse does not explicitly explain dioecy or the pollination process.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate classical interpretation before making a connection.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Date palms are generally dioecious, meaning male and female flowers occur on separate trees. Pollination is required for fruit development.",
+        "source_ids": [
+          "FAO_POLLINATION_TYPES",
+          "FAO_POLLINATION_MANAGEMENT",
+          "OPENSTAX_PLANT_REPRO"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse's reference to date-palm reproductive structures provides a possible topic for studying palm reproduction.",
+        "interpretive_limit": "The verse does not explicitly explain dioecy or the pollination process.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-014",
+      "title": "Grapevines and fruit production",
+      "quran_reference": [
+        "6:99",
+        "16:11"
+      ],
+      "scientific_topic": "Grape cultivation",
+      "scientific_finding": "Grapevines produce clusters of berries and are cultivated in diverse climates and agricultural systems.",
+      "connection": "Grapes are specifically mentioned among the fruits and plants produced through rain and cultivation.",
+      "limitations": "The verses do not describe grapevine physiology or viticulture techniques.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate grapevine biology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "16:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/16/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Grapevines produce clusters of berries and are cultivated in diverse climates and agricultural systems.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "Grapes are specifically mentioned among the fruits and plants produced through rain and cultivation.",
+        "interpretive_limit": "The verses do not describe grapevine physiology or viticulture techniques.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-015",
+      "title": "Olive trees and agricultural value",
+      "quran_reference": [
+        "6:99",
+        "16:11",
+        "80:29"
+      ],
+      "scientific_topic": "Olive tree cultivation",
+      "scientific_finding": "Olive trees are long-lived perennial crops adapted to Mediterranean-type climates and produce oil-rich fruits.",
+      "connection": "The Qur'an names olives among the plants and fruits provided to people.",
+      "limitations": "The verses do not describe olive oil chemistry or the tree's climatic requirements.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate olive agriculture.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "16:11",
+          "80:29"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/16/11",
+          "https://quran.com/80/29"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Olive trees are long-lived perennial crops adapted to Mediterranean-type climates and produce oil-rich fruits.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The Qur'an names olives among the plants and fruits provided to people.",
+        "interpretive_limit": "The verses do not describe olive oil chemistry or the tree's climatic requirements.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-016",
+      "title": "Pomegranate fruit",
+      "quran_reference": [
+        "6:99",
+        "55:68"
+      ],
+      "scientific_topic": "Pomegranate biology",
+      "scientific_finding": "Pomegranates develop as fruits containing numerous seeds surrounded by fleshy edible structures.",
+      "connection": "Pomegranates are explicitly mentioned among the fruits of the Earth and gardens.",
+      "limitations": "The verses do not describe the fruit's anatomy or nutritional composition.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate pomegranate development.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "55:68"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/55/68"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Pomegranates develop as fruits containing numerous seeds surrounded by fleshy edible structures.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "Pomegranates are explicitly mentioned among the fruits of the Earth and gardens.",
+        "interpretive_limit": "The verses do not describe the fruit's anatomy or nutritional composition.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-017",
+      "title": "Grapes, olives and pomegranates as different crops",
+      "quran_reference": [
+        "6:99"
+      ],
+      "scientific_topic": "Agricultural crop diversity",
+      "scientific_finding": "Different crops have distinct growth habits, environmental requirements, harvest seasons and uses.",
+      "connection": "The verse lists several different cultivated plants and invites reflection on their fruits.",
+      "limitations": "The list is not a scientific classification of crops.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study agricultural diversity.",
+      "quranic_evidence": {
+        "references": [
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Different crops have distinct growth habits, environmental requirements, harvest seasons and uses.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse lists several different cultivated plants and invites reflection on their fruits.",
+        "interpretive_limit": "The list is not a scientific classification of crops.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-018",
+      "title": "Gardens and cultivated vegetation",
+      "quran_reference": [
+        "6:99",
+        "34:15"
+      ],
+      "scientific_topic": "Horticulture and cultivated landscapes",
+      "scientific_finding": "Gardens and orchards are managed ecosystems in which humans cultivate plants for food, shade and other uses.",
+      "connection": "The verses refer to gardens and orchards containing fruit-bearing plants.",
+      "limitations": "The passages do not describe modern horticultural methods.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine ancient and modern horticulture.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "34:15"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/34/15"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Gardens and orchards are managed ecosystems in which humans cultivate plants for food, shade and other uses.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to gardens and orchards containing fruit-bearing plants.",
+        "interpretive_limit": "The passages do not describe modern horticultural methods.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-019",
+      "title": "Plants growing in pairs",
+      "quran_reference": [
+        "13:3",
+        "20:53",
+        "36:36"
+      ],
+      "scientific_topic": "Plant reproductive diversity",
+      "scientific_finding": "Plants have varied reproductive systems, including separate male and female individuals, flowers containing both reproductive organs and asexual reproduction.",
+      "connection": "The verses mention pairs or kinds in creation, including plants.",
+      "limitations": "The Arabic expression should not be assumed to describe only male and female botanical sexes. Many plants do not fit that simple model.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate the meaning of azwaj in context.",
+      "quranic_evidence": {
+        "references": [
+          "13:3",
+          "20:53",
+          "36:36"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/3",
+          "https://quran.com/20/53",
+          "https://quran.com/36/36"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The phrase concerning pairs in plants requires contextual and linguistic review. It should not be taken to mean that every plant has separate male and female individuals."
+      },
+      "scientific_evidence": {
+        "summary": "Plants have varied reproductive systems, including separate male and female individuals, flowers containing both reproductive organs and asexual reproduction.",
+        "source_ids": [
+          "FAO_POLLINATION_TYPES",
+          "FAO_POLLINATION_MANAGEMENT",
+          "OPENSTAX_PLANT_REPRO"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention pairs or kinds in creation, including plants.",
+        "interpretive_limit": "The Arabic expression should not be assumed to describe only male and female botanical sexes. Many plants do not fit that simple model.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-020",
+      "title": "Plant reproduction and fertilisation",
+      "quran_reference": [
+        "15:22"
+      ],
+      "scientific_topic": "Plant pollination and fertilisation",
+      "scientific_finding": "In flowering plants, pollen transfer to a compatible stigma can lead to fertilisation and seed development.",
+      "connection": "The verse uses language associated with fertilising winds, which has been discussed in relation to plant reproduction.",
+      "limitations": "The verse has also been interpreted in relation to clouds and rain. It does not provide a detailed account of flower reproduction.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; compare classical tafsir and botanical science.",
+      "quranic_evidence": {
+        "references": [
+          "15:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/15/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Qur'an 15:22 uses wording commonly translated in terms of winds that fertilize. Linguistic and classical tafsir review is needed; the phrase should not be restricted to the modern technical category of wind pollination."
+      },
+      "scientific_evidence": {
+        "summary": "In flowering plants, pollen transfer to a compatible stigma can lead to fertilisation and seed development.",
+        "source_ids": [
+          "FAO_POLLINATION_TYPES",
+          "FAO_POLLINATION_MANAGEMENT",
+          "OPENSTAX_PLANT_REPRO"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse uses language associated with fertilising winds, which has been discussed in relation to plant reproduction.",
+        "interpretive_limit": "The verse has also been interpreted in relation to clouds and rain. It does not provide a detailed account of flower reproduction.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-021",
+      "title": "Wind pollination",
+      "quran_reference": [
+        "15:22"
+      ],
+      "scientific_topic": "Anemophily",
+      "scientific_finding": "Some plants rely on wind to transport pollen, including many grasses and cereal crops.",
+      "connection": "The phrase lawāqiḥ in the verse is sometimes discussed in relation to fertilising winds.",
+      "limitations": "This is not proof that the verse specifically describes wind pollination. Many plants rely on animals or other pollination mechanisms.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; verify linguistic and exegetical evidence.",
+      "quranic_evidence": {
+        "references": [
+          "15:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/15/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Qur'an 15:22 uses wording commonly translated in terms of winds that fertilize. Linguistic and classical tafsir review is needed; the phrase should not be restricted to the modern technical category of wind pollination."
+      },
+      "scientific_evidence": {
+        "summary": "Some plants rely on wind to transport pollen, including many grasses and cereal crops.",
+        "source_ids": [
+          "FAO_POLLINATION_TYPES",
+          "FAO_POLLINATION_MANAGEMENT",
+          "OPENSTAX_PLANT_REPRO"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The phrase lawāqiḥ in the verse is sometimes discussed in relation to fertilising winds.",
+        "interpretive_limit": "This is not proof that the verse specifically describes wind pollination. Many plants rely on animals or other pollination mechanisms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-022",
+      "title": "Animal-assisted pollination",
+      "quran_reference": [
+        "16:68-69"
+      ],
+      "scientific_topic": "Pollination ecology",
+      "scientific_finding": "Insects and other animals pollinate many flowering plants while visiting flowers for nectar or pollen.",
+      "connection": "The verses describe bees and their activities, offering an opportunity to investigate their ecological relationship with plants.",
+      "limitations": "The verses do not explicitly describe pollination or the transfer of pollen between flowers.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use pollination research for the scientific explanation.",
+      "quranic_evidence": {
+        "references": [
+          "16:68-69"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/68-69"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The bee passage (16:68–69) should be read in its full context and early scholar commentaries. Do not claim it explicitly describes every detail of modern bee navigation, pollination ecology or honey chemistry."
+      },
+      "scientific_evidence": {
+        "summary": "Insects and other animals pollinate many flowering plants while visiting flowers for nectar or pollen.",
+        "source_ids": [
+          "FAO_POLLINATION_MANAGEMENT",
+          "FAO_POLLINATION_TYPES",
+          "USDA_POLLINATORS"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe bees and their activities, offering an opportunity to investigate their ecological relationship with plants.",
+        "interpretive_limit": "The verses do not explicitly describe pollination or the transfer of pollen between flowers.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-023",
+      "title": "Bees and honey production",
+      "quran_reference": [
+        "16:68-69"
+      ],
+      "scientific_topic": "Honeybee biology",
+      "scientific_finding": "Honeybees collect nectar and process it into honey through enzymatic activity and water reduction.",
+      "connection": "The verses describe bees, their dwelling places and the production of a substance from their bodies that people use.",
+      "limitations": "The passage does not explain the complete biochemical process of honey production.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study honeybee biology and tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "16:68-69"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/68-69"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The bee passage (16:68–69) should be read in its full context and early scholar commentaries. Do not claim it explicitly describes every detail of modern bee navigation, pollination ecology or honey chemistry."
+      },
+      "scientific_evidence": {
+        "summary": "Honeybees collect nectar and process it into honey through enzymatic activity and water reduction.",
+        "source_ids": [
+          "USDA_POLLINATORS",
+          "FAO_POLLINATION_GUIDE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe bees, their dwelling places and the production of a substance from their bodies that people use.",
+        "interpretive_limit": "The passage does not explain the complete biochemical process of honey production.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-024",
+      "title": "Bees using different places as dwellings",
+      "quran_reference": [
+        "16:68"
+      ],
+      "scientific_topic": "Honeybee nesting behaviour",
+      "scientific_finding": "Honeybees establish colonies in suitable cavities or managed hives, while other bee species have different nesting behaviours.",
+      "connection": "The verse describes bees taking dwellings in mountains, trees and structures made by people.",
+      "limitations": "Not all bee species live in colonies or build hives. The verse's reference to bees should not be generalised to every bee species.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate honeybee nesting and species diversity.",
+      "quranic_evidence": {
+        "references": [
+          "16:68"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/68"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The bee passage (16:68–69) should be read in its full context and early scholar commentaries. Do not claim it explicitly describes every detail of modern bee navigation, pollination ecology or honey chemistry."
+      },
+      "scientific_evidence": {
+        "summary": "Honeybees establish colonies in suitable cavities or managed hives, while other bee species have different nesting behaviours.",
+        "source_ids": [
+          "USDA_POLLINATORS",
+          "FAO_POLLINATION_GUIDE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes bees taking dwellings in mountains, trees and structures made by people.",
+        "interpretive_limit": "Not all bee species live in colonies or build hives. The verse's reference to bees should not be generalised to every bee species.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-025",
+      "title": "Plants producing edible fruits",
+      "quran_reference": [
+        "16:11",
+        "23:19"
+      ],
+      "scientific_topic": "Edible plant products",
+      "scientific_finding": "Many plants produce fruits that provide food for humans and other animals.",
+      "connection": "The verses mention fruits, crops and gardens as provisions.",
+      "limitations": "Not every botanical fruit is edible, and the passages do not classify fruits botanically.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate edible plant diversity.",
+      "quranic_evidence": {
+        "references": [
+          "16:11",
+          "23:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/11",
+          "https://quran.com/23/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Many plants produce fruits that provide food for humans and other animals.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention fruits, crops and gardens as provisions.",
+        "interpretive_limit": "Not every botanical fruit is edible, and the passages do not classify fruits botanically.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-026",
+      "title": "Plants and agricultural food production",
+      "quran_reference": [
+        "36:33-35",
+        "80:24-32"
+      ],
+      "scientific_topic": "Crop production and food security",
+      "scientific_finding": "Agriculture depends on plant growth and the production of grains, fruits, fodder and other food resources.",
+      "connection": "The verses invite reflection on crops, fruits and food provided from the land.",
+      "limitations": "The passages do not explain modern agricultural systems or food-security policy.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; connect the passages to agricultural science.",
+      "quranic_evidence": {
+        "references": [
+          "36:33-35",
+          "80:24-32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/36/33-35",
+          "https://quran.com/80/24-32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Agriculture depends on plant growth and the production of grains, fruits, fodder and other food resources.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on crops, fruits and food provided from the land.",
+        "interpretive_limit": "The passages do not explain modern agricultural systems or food-security policy.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-027",
+      "title": "Grain as a human food source",
+      "quran_reference": [
+        "6:99",
+        "80:27"
+      ],
+      "scientific_topic": "Cereal grains and nutrition",
+      "scientific_finding": "Cereal grains such as wheat, rice and barley provide dietary energy and varying amounts of protein, fibre and micronutrients.",
+      "connection": "The Qur'an mentions grain production and crops as provisions.",
+      "limitations": "The verses do not compare the nutritional value of different grains.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate cereal nutrition.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "80:27"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/80/27"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Cereal grains such as wheat, rice and barley provide dietary energy and varying amounts of protein, fibre and micronutrients.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The Qur'an mentions grain production and crops as provisions.",
+        "interpretive_limit": "The verses do not compare the nutritional value of different grains.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-028",
+      "title": "The growth of crops from the Earth",
+      "quran_reference": [
+        "32:27",
+        "79:31-32"
+      ],
+      "scientific_topic": "Agricultural growth and land use",
+      "scientific_finding": "Crops grow where water, soil conditions, nutrients and climate are suitable.",
+      "connection": "The verses describe water reaching land and producing vegetation and crops.",
+      "limitations": "The passages do not give a modern agronomic explanation of crop growth.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study crop ecology.",
+      "quranic_evidence": {
+        "references": [
+          "32:27",
+          "79:31-32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/32/27",
+          "https://quran.com/79/31-32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Crops grow where water, soil conditions, nutrients and climate are suitable.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water reaching land and producing vegetation and crops.",
+        "interpretive_limit": "The passages do not give a modern agronomic explanation of crop growth.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-029",
+      "title": "The importance of soil for plant growth",
+      "quran_reference": [
+        "7:58",
+        "22:5"
+      ],
+      "scientific_topic": "Soil fertility",
+      "scientific_finding": "Soil provides plants with physical support, water, air and mineral nutrients, although some plants can grow in other substrates.",
+      "connection": "The verses compare different kinds of land and describe vegetation emerging from the Earth.",
+      "limitations": "The verses do not define soil fertility in modern scientific terms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate soil science.",
+      "quranic_evidence": {
+        "references": [
+          "7:58",
+          "22:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/58",
+          "https://quran.com/22/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Soil provides plants with physical support, water, air and mineral nutrients, although some plants can grow in other substrates.",
+        "source_ids": [
+          "FAO_SOIL",
+          "FAO_CROP_PRODUCTION"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses compare different kinds of land and describe vegetation emerging from the Earth.",
+        "interpretive_limit": "The verses do not define soil fertility in modern scientific terms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-030",
+      "title": "Different soils producing different vegetation",
+      "quran_reference": [
+        "7:58",
+        "13:4"
+      ],
+      "scientific_topic": "Soil properties and plant communities",
+      "scientific_finding": "Soil texture, pH, nutrients, drainage and moisture influence which plants can grow successfully in a location.",
+      "connection": "The verses compare good and poor land and describe differences in its vegetation.",
+      "limitations": "The wording should not be presented as a complete modern soil classification.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare tafsir with soil ecology.",
+      "quranic_evidence": {
+        "references": [
+          "7:58",
+          "13:4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/58",
+          "https://quran.com/13/4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Soil texture, pH, nutrients, drainage and moisture influence which plants can grow successfully in a location.",
+        "source_ids": [
+          "FAO_SOIL",
+          "FAO_CROP_PRODUCTION"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses compare good and poor land and describe differences in its vegetation.",
+        "interpretive_limit": "The wording should not be presented as a complete modern soil classification.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-031",
+      "title": "Land producing vegetation after rainfall",
+      "quran_reference": [
+        "22:5",
+        "41:39"
+      ],
+      "scientific_topic": "Plant response to rainfall",
+      "scientific_finding": "Rainfall can restore soil moisture and trigger germination and renewed growth in suitable ecosystems.",
+      "connection": "The verses describe dry land becoming active and producing vegetation after water reaches it.",
+      "limitations": "The response varies by ecosystem, species and the duration or intensity of drought.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study plant responses to rainfall.",
+      "quranic_evidence": {
+        "references": [
+          "22:5",
+          "41:39"
+        ],
+        "quran_com_links": [
+          "https://quran.com/22/5",
+          "https://quran.com/41/39"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall can restore soil moisture and trigger germination and renewed growth in suitable ecosystems.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe dry land becoming active and producing vegetation after water reaches it.",
+        "interpretive_limit": "The response varies by ecosystem, species and the duration or intensity of drought.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-032",
+      "title": "Plant growth and seasonal cycles",
+      "quran_reference": [
+        "6:99",
+        "39:21"
+      ],
+      "scientific_topic": "Seasonal plant development",
+      "scientific_finding": "Temperature, daylight and water availability influence plant growth, flowering, dormancy and fruiting cycles.",
+      "connection": "The verses describe growth and ripening as observable stages in plant life.",
+      "limitations": "The passages do not explicitly describe photoperiodism or seasonal plant physiology.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study seasonal plant biology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Temperature, daylight and water availability influence plant growth, flowering, dormancy and fruiting cycles.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe growth and ripening as observable stages in plant life.",
+        "interpretive_limit": "The passages do not explicitly describe photoperiodism or seasonal plant physiology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-033",
+      "title": "The stages of fruit ripening",
+      "quran_reference": [
+        "6:99",
+        "36:35"
+      ],
+      "scientific_topic": "Fruit maturation",
+      "scientific_finding": "Fruit ripening involves changes in colour, texture, sugars, acids and aroma, with processes varying by species.",
+      "connection": "The verses direct attention to fruits as they develop and ripen.",
+      "limitations": "The verses do not describe the biochemical pathways of ripening.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate fruit physiology.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "36:35"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/36/35"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Fruit ripening involves changes in colour, texture, sugars, acids and aroma, with processes varying by species.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses direct attention to fruits as they develop and ripen.",
+        "interpretive_limit": "The verses do not describe the biochemical pathways of ripening.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-034",
+      "title": "Different fruits with different qualities",
+      "quran_reference": [
+        "6:99",
+        "13:4"
+      ],
+      "scientific_topic": "Fruit traits and variation",
+      "scientific_finding": "Fruit varieties differ in taste, colour, size, nutrient content and chemical composition.",
+      "connection": "The verses mention fruits that are alike in some respects but different in others.",
+      "limitations": "The text does not specify the modern biochemical basis of these differences.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study fruit diversity and plant genetics.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "13:4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/13/4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Fruit varieties differ in taste, colour, size, nutrient content and chemical composition.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention fruits that are alike in some respects but different in others.",
+        "interpretive_limit": "The text does not specify the modern biochemical basis of these differences.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-035",
+      "title": "The creation of gardens and orchards",
+      "quran_reference": [
+        "36:34",
+        "78:16"
+      ],
+      "scientific_topic": "Orchard ecosystems",
+      "scientific_finding": "Orchards are managed plant systems designed to cultivate trees and produce fruit over repeated growing seasons.",
+      "connection": "The verses refer to gardens and orchards as part of the provision associated with the Earth.",
+      "limitations": "The verses do not describe orchard design or modern cultivation methods.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate orchard management.",
+      "quranic_evidence": {
+        "references": [
+          "36:34",
+          "78:16"
+        ],
+        "quran_com_links": [
+          "https://quran.com/36/34",
+          "https://quran.com/78/16"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Orchards are managed plant systems designed to cultivate trees and produce fruit over repeated growing seasons.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to gardens and orchards as part of the provision associated with the Earth.",
+        "interpretive_limit": "The verses do not describe orchard design or modern cultivation methods.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-036",
+      "title": "Trees providing shade",
+      "quran_reference": [
+        "16:48",
+        "36:56"
+      ],
+      "scientific_topic": "Tree canopy and shade",
+      "scientific_finding": "Tree canopies reduce direct solar radiation reaching the ground and can moderate local temperatures.",
+      "connection": "The verses refer to shade and natural features such as trees and vegetation.",
+      "limitations": "Some cited passages concern broader signs or descriptions rather than a specific ecological explanation of shade.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; identify the context of each passage.",
+      "quranic_evidence": {
+        "references": [
+          "16:48",
+          "36:56"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/48",
+          "https://quran.com/36/56"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Tree canopies reduce direct solar radiation reaching the ground and can moderate local temperatures.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to shade and natural features such as trees and vegetation.",
+        "interpretive_limit": "Some cited passages concern broader signs or descriptions rather than a specific ecological explanation of shade.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-037",
+      "title": "Trees and environmental protection",
+      "quran_reference": [
+        "16:10-11",
+        "80:28-31"
+      ],
+      "scientific_topic": "Ecosystem services of plants",
+      "scientific_finding": "Plants provide habitat, store carbon, protect soil, influence water cycles and support food webs.",
+      "connection": "The verses describe vegetation and trees as part of the natural provision of the Earth.",
+      "limitations": "Modern ecosystem-services terminology is not stated directly in the verses.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use ecology as explanatory context.",
+      "quranic_evidence": {
+        "references": [
+          "16:10-11",
+          "80:28-31"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10-11",
+          "https://quran.com/80/28-31"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants provide habitat, store carbon, protect soil, influence water cycles and support food webs.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe vegetation and trees as part of the natural provision of the Earth.",
+        "interpretive_limit": "Modern ecosystem-services terminology is not stated directly in the verses.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-038",
+      "title": "Plants and the balance of ecosystems",
+      "quran_reference": [
+        "16:10-11",
+        "55:10-12"
+      ],
+      "scientific_topic": "Plant ecology",
+      "scientific_finding": "Plants are primary producers in most terrestrial ecosystems and support food webs and nutrient cycling.",
+      "connection": "The passages describe vegetation, crops and plant resources within the wider natural world.",
+      "limitations": "Ecological balance is a modern scientific framework, not a direct technical statement in the verses.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate plant roles in ecosystems.",
+      "quranic_evidence": {
+        "references": [
+          "16:10-11",
+          "55:10-12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10-11",
+          "https://quran.com/55/10-12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants are primary producers in most terrestrial ecosystems and support food webs and nutrient cycling.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The passages describe vegetation, crops and plant resources within the wider natural world.",
+        "interpretive_limit": "Ecological balance is a modern scientific framework, not a direct technical statement in the verses.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-039",
+      "title": "Plants as a source of human food",
+      "quran_reference": [
+        "80:24-32",
+        "23:19"
+      ],
+      "scientific_topic": "Plant-based food resources",
+      "scientific_finding": "Plants provide grains, fruits, vegetables, oils, nuts and other foods essential to human diets.",
+      "connection": "The verses list food and plant products provided for human benefit.",
+      "limitations": "The passages do not establish a particular dietary system or nutritional prescription.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study food crops and human nutrition.",
+      "quranic_evidence": {
+        "references": [
+          "80:24-32",
+          "23:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/80/24-32",
+          "https://quran.com/23/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants provide grains, fruits, vegetables, oils, nuts and other foods essential to human diets.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses list food and plant products provided for human benefit.",
+        "interpretive_limit": "The passages do not establish a particular dietary system or nutritional prescription.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-040",
+      "title": "Plants as animal fodder",
+      "quran_reference": [
+        "80:31-32",
+        "16:10"
+      ],
+      "scientific_topic": "Forage and grazing systems",
+      "scientific_finding": "Grasses, leaves and other vegetation provide food for livestock and wild herbivores.",
+      "connection": "The verses mention pasture and plant resources as provision for people and their livestock.",
+      "limitations": "They do not describe animal digestive physiology or modern pasture management.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate forage science.",
+      "quranic_evidence": {
+        "references": [
+          "80:31-32",
+          "16:10"
+        ],
+        "quran_com_links": [
+          "https://quran.com/80/31-32",
+          "https://quran.com/16/10"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Grasses, leaves and other vegetation provide food for livestock and wild herbivores.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention pasture and plant resources as provision for people and their livestock.",
+        "interpretive_limit": "They do not describe animal digestive physiology or modern pasture management.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-041",
+      "title": "Pasture and grass growth",
+      "quran_reference": [
+        "87:4"
+      ],
+      "scientific_topic": "Grassland ecology",
+      "scientific_finding": "Grasslands are ecosystems dominated by grasses and other herbaceous plants, shaped by climate, soil, grazing and disturbance.",
+      "connection": "The verse refers to pasture or vegetation brought forth and then becoming dry or darkened.",
+      "limitations": "The verse is brief and should not be treated as a technical description of grassland succession.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study the Arabic wording and grassland ecology.",
+      "quranic_evidence": {
+        "references": [
+          "87:4"
+        ],
+        "quran_com_links": [
+          "https://quran.com/87/4"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Grasslands are ecosystems dominated by grasses and other herbaceous plants, shaped by climate, soil, grazing and disturbance.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to pasture or vegetation brought forth and then becoming dry or darkened.",
+        "interpretive_limit": "The verse is brief and should not be treated as a technical description of grassland succession.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-042",
+      "title": "Dry vegetation and plant life cycles",
+      "quran_reference": [
+        "87:4-5"
+      ],
+      "scientific_topic": "Plant senescence and drying",
+      "scientific_finding": "Plants can dry and undergo senescence as part of their life cycle or in response to environmental stress.",
+      "connection": "The verses describe vegetation becoming dry and dark or decomposed.",
+      "limitations": "The passage also has a broader theological context and is not a complete account of how plants naturally age and dry out.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study the full passage.",
+      "quranic_evidence": {
+        "references": [
+          "87:4-5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/87/4-5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants can dry and undergo senescence as part of their life cycle or in response to environmental stress.",
+        "source_ids": [
+          "Kew_SCIENCE",
+          "FAO_CROP_PRODUCTION",
+          "FAO_SOIL"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe vegetation becoming dry and dark or decomposed.",
+        "interpretive_limit": "The passage also has a broader theological context and is not a complete account of plant senescence.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-043",
+      "title": "The diversity of plant colours",
+      "quran_reference": [
+        "35:27",
+        "39:21"
+      ],
+      "scientific_topic": "Plant pigments",
+      "scientific_finding": "Plant colours arise from pigments such as chlorophylls, carotenoids and anthocyanins, as well as other structural and environmental factors.",
+      "connection": "The verses mention variation in colours among natural growth and vegetation.",
+      "limitations": "The verses do not identify plant pigments or their biochemical functions.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate plant pigments.",
+      "quranic_evidence": {
+        "references": [
+          "35:27",
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/35/27",
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plant colours arise from pigments such as chlorophylls, carotenoids and anthocyanins, as well as other structural and environmental factors.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention variation in colours among natural growth and vegetation.",
+        "interpretive_limit": "The verses do not identify plant pigments or their biochemical functions.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-044",
+      "title": "Plant diversity across different environments",
+      "quran_reference": [
+        "20:53",
+        "71:19"
+      ],
+      "scientific_topic": "Plant adaptation and distribution",
+      "scientific_finding": "Plant species are distributed according to environmental conditions including temperature, water, soil and sunlight.",
+      "connection": "The verses describe the Earth as made suitable for living and growing things.",
+      "limitations": "The verses do not describe ecological niches or evolutionary adaptation.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate plant biogeography.",
+      "quranic_evidence": {
+        "references": [
+          "20:53",
+          "71:19"
+        ],
+        "quran_com_links": [
+          "https://quran.com/20/53",
+          "https://quran.com/71/19"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plant species are distributed according to environmental conditions including temperature, water, soil and sunlight.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe the Earth as made suitable for living and growing things.",
+        "interpretive_limit": "The verses do not describe ecological niches or evolutionary adaptation.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-045",
+      "title": "The role of water in plant growth",
+      "quran_reference": [
+        "16:10-11",
+        "21:30"
+      ],
+      "scientific_topic": "Water transport in plants",
+      "scientific_finding": "Plants absorb water through roots and transport it through vascular tissues; water supports photosynthesis and cell function.",
+      "connection": "The verses repeatedly associate water with the emergence and growth of vegetation.",
+      "limitations": "They do not explain xylem, transpiration or water potential.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate plant water transport.",
+      "quranic_evidence": {
+        "references": [
+          "16:10-11",
+          "21:30"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10-11",
+          "https://quran.com/21/30"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Plants absorb water through roots and transport it through vascular tissues; water supports photosynthesis and cell function.",
+        "source_ids": [
+          "USFS_PLANT_WATER",
+          "RHS_PLANT_GROWTH"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses repeatedly associate water with the emergence and growth of vegetation.",
+        "interpretive_limit": "They do not explain xylem, transpiration or water potential.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-046",
+      "title": "Plant growth and sunlight",
+      "quran_reference": [
+        "6:99",
+        "10:5"
+      ],
+      "scientific_topic": "Photosynthesis and plant energy",
+      "scientific_finding": "Most plants use light energy to drive photosynthesis, converting carbon dioxide and water into organic compounds.",
+      "connection": "The verses describe plant growth and the natural conditions that sustain life, while 10:5 mentions the sun as a source of illumination.",
+      "limitations": "These passages do not explicitly describe photosynthesis or identify sunlight as its energy source.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; do not present as a direct scientific prediction.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "10:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/10/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Most plants use light energy to drive photosynthesis, converting carbon dioxide and water into organic compounds.",
+        "source_ids": [
+          "UMN_PHOTOSYNTHESIS",
+          "USFS_PLANT_WATER"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe plant growth and the natural conditions that sustain life, while 10:5 mentions the sun as a source of illumination.",
+        "interpretive_limit": "These passages do not explicitly describe photosynthesis or identify sunlight as its energy source.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-047",
+      "title": "Seeds and the continuation of plant life",
+      "quran_reference": [
+        "6:95",
+        "36:33"
+      ],
+      "scientific_topic": "Seed dispersal and plant reproduction",
+      "scientific_finding": "Seeds allow many plants to reproduce, disperse offspring and survive periods when conditions are unsuitable for growth.",
+      "connection": "The verses mention grain and seeds as part of the emergence of living vegetation.",
+      "limitations": "Not all plants reproduce through seeds; some reproduce through spores or vegetative methods.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study seed biology and plant reproduction.",
+      "quranic_evidence": {
+        "references": [
+          "6:95",
+          "36:33"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/95",
+          "https://quran.com/36/33"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Seeds allow many plants to reproduce, disperse offspring and survive periods when conditions are unsuitable for growth.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention grain and seeds as part of the emergence of living vegetation.",
+        "interpretive_limit": "Not all plants reproduce through seeds; some reproduce through spores or vegetative methods.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-048",
+      "title": "The diversity of agricultural produce",
+      "quran_reference": [
+        "2:266",
+        "6:99",
+        "16:11"
+      ],
+      "scientific_topic": "Crop diversity and agricultural systems",
+      "scientific_finding": "Agricultural systems cultivate diverse crops with different environmental needs, harvest periods and uses.",
+      "connection": "The verses refer to gardens, date palms, grapes, olives, pomegranates and other agricultural products.",
+      "limitations": "The verses do not provide a formal crop classification or modern agricultural model.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine crop diversity and historical agriculture.",
+      "quranic_evidence": {
+        "references": [
+          "2:266",
+          "6:99",
+          "16:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/266",
+          "https://quran.com/6/99",
+          "https://quran.com/16/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Agricultural systems cultivate diverse crops with different environmental needs, harvest periods and uses.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to gardens, date palms, grapes, olives, pomegranates and other agricultural products.",
+        "interpretive_limit": "The verses do not provide a formal crop classification or modern agricultural model.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-049",
+      "title": "Agricultural dependence on rainfall",
+      "quran_reference": [
+        "6:99",
+        "16:10-11",
+        "32:27"
+      ],
+      "scientific_topic": "Rain-fed agriculture",
+      "scientific_finding": "Rain-fed agriculture depends on precipitation to supply crops with water, and productivity is affected by rainfall timing and variability.",
+      "connection": "The verses connect rain with the production of crops, fruits and vegetation.",
+      "limitations": "Agriculture can also depend on irrigation and stored water. Rainfall alone does not determine harvest success.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study rain-fed agricultural systems.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "16:10-11",
+          "32:27"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/16/10-11",
+          "https://quran.com/32/27"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rain-fed agriculture depends on precipitation to supply crops with water, and productivity is affected by rainfall timing and variability.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses connect rain with the production of crops, fruits and vegetation.",
+        "interpretive_limit": "Agriculture can also depend on irrigation and stored water. Rainfall alone does not determine harvest success.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "BOT-050",
+      "title": "Observing plants and fruits as signs",
+      "quran_reference": [
+        "6:99",
+        "36:33-36"
+      ],
+      "scientific_topic": "Observation of plant life and natural diversity",
+      "scientific_finding": "Botanical observation reveals patterns in germination, growth, flowering, fruiting, reproduction and ecological relationships.",
+      "connection": "These passages invite reflection on vegetation, crops, fruits and the processes through which plant life develops.",
+      "limitations": "This is a broad reflection theme, not a single scientific discovery or testable prediction.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; suitable as an introductory educational entry.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "36:33-36"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/36/33-36"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied dataset; Arabic wording and translations not individually verified in this draft.",
+        "context_note": "Read the full passage and surrounding verses before assigning a botanical interpretation."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Botanical observation reveals patterns in germination, growth, flowering, fruiting, reproduction and ecological relationships.",
+        "source_ids": [
+          "RHS_PLANT_GROWTH",
+          "FAO_CROP_PRODUCTION",
+          "Kew_SCIENCE"
+        ],
+        "source_scope_note": "These botanical and agricultural sources support general scientific background. They do not independently establish that the cited verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "These passages invite reflection on vegetation, crops, fruits and the processes through which plant life develops.",
+        "interpretive_limit": "This is a broad reflection theme, not a single scientific discovery or testable prediction.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not present modern botanical terminology as the definite meaning of a verse without linguistic, contextual and tafsir support."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    }
+  ],
+  "recommended_sources": {
+    "quran_and_language": [
+      {
+        "name": "Quran.com",
+        "url": "https://quran.com/"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Altafsir",
+        "url": "https://www.altafsir.com/"
+      },
+      {
+        "name": "Tanzil",
+        "url": "https://tanzil.net/"
+      }
+    ],
+    "scientific_sources": [
+      {
+        "name": "Kew Science",
+        "url": "https://www.kew.org/science"
+      },
+      {
+        "name": "FAO Plant Production and Protection",
+        "url": "https://www.fao.org/plant-production-protection/en/"
+      },
+      {
+        "name": "FAO Crop and Grassland Systems",
+        "url": "https://www.fao.org/"
+      },
+      {
+        "name": "Royal Horticultural Society",
+        "url": "https://www.rhs.org.uk/"
+      },
+      {
+        "name": "USDA Agricultural Research Service",
+        "url": "https://www.ars.usda.gov/"
+      },
+      {
+        "name": "Nature Plants",
+        "url": "https://www.nature.com/nplants/"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/"
+      }
+    ]
+  },
+  "research_rules": [
+    "Verify every Quran reference, Arabic word and translation before publication.",
+    "Read the full passage and surrounding verses.",
+    "Consult classical tafsir before assigning a modern botanical interpretation.",
+    "Distinguish the Quranic wording from classical interpretation and modern scientific explanation.",
+    "Do not claim that every plant reproduces through male and female individuals; plant reproductive systems vary.",
+    "Do not claim that 15:22 exclusively describes modern wind pollination.",
+    "Do not claim that 6:99 provides a technical explanation of photosynthesis, genetics or plant physiology.",
+    "Do not invent hadith, authenticity grades, scientific papers, authors or publication details.",
+    "Use peer-reviewed botanical research and authoritative agricultural institutions.",
+    "Treat evidence grades as provisional and revise them after detailed research.",
+    "A scientific similarity is not automatically evidence of a miraculous prediction."
+  ],
+  "research_scope": {
+    "purpose": "Evidence-linked research draft for the 50 original plant, agriculture and botany candidates. It is not a claim that all candidates are established scientific miracles.",
+    "method": "The supplied entries and their original wording, Qur'anic references, findings, connections, limitations and provisional grades are preserved. External sources are attached as scientific background with explicit scope notes.",
+    "grading_note": "Original evidence grades are preserved unchanged and remain provisional. General institutional references do not justify upgrading a grade.",
+    "interpretive_rule": "Keep Qur'anic wording and context, classical tafsir, botanical science, and proposed correspondence distinct. Similarity alone does not establish a scientific prediction."
+  },
+  "source_catalog": {
+    "FAO_POLLINATION_MANAGEMENT": {
+      "title": "Pollination Management",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/pollination-management/en/",
+      "supports": "Pollination is important in natural and agricultural ecosystems; animal pollinators, including bees and other animals, contribute to seed and crop production."
+    },
+    "FAO_POLLINATION_TYPES": {
+      "title": "Pollination",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/agriculture/crops/core-themes/theme/biodiversity/pollination/en/",
+      "supports": "Both wind and animal pollination occur; pollinator relationships vary among plant species and crops."
+    },
+    "FAO_POLLINATION_GUIDE": {
+      "title": "What is pollination management?",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/pollination-management/pm-what/en/",
+      "supports": "Pollination supports plant reproduction, fruit set and agricultural livelihoods; pollinators include insects and some vertebrates."
+    },
+    "FAO_POLLINATOR_PRACTICES": {
+      "title": "How to manage pollination",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/scpi-home/managing-ecosystems/pollination-management/pm-how/en/",
+      "supports": "Habitat, diverse flowering resources and farming practices can support pollinator populations and crop systems."
+    },
+    "UMN_PHOTOSYNTHESIS": {
+      "title": "Lighting for indoor plants and starting seeds",
+      "publisher": "University of Minnesota Extension",
+      "url": "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/lighting-for-indoor-plants",
+      "supports": "Plants use light in photosynthesis to convert carbon dioxide and water into carbohydrates; oxygen is released as a byproduct."
+    },
+    "USFS_PLANT_WATER": {
+      "title": "Assessing the water needs of riparian and wetland vegetation in the western United States",
+      "publisher": "USDA Forest Service",
+      "url": "https://www.fs.usda.gov/rm/pubs/rmrs_gtr282.pdf",
+      "supports": "Plant water uptake, turgor, xylem transport, stomata and water use in photosynthesis."
+    },
+    "Kew_SCIENCE": {
+      "title": "Kew Science",
+      "publisher": "Royal Botanic Gardens, Kew",
+      "url": "https://www.kew.org/science",
+      "supports": "Botanical research and plant diversity; broad institutional research portal rather than a source for every individual claim."
+    },
+    "FAO_CROP_PRODUCTION": {
+      "title": "Plant Production and Protection",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/plant-production-protection/en/",
+      "supports": "Agricultural plant production, crop protection, sustainable production systems and food security."
+    },
+    "FAO_SOIL": {
+      "title": "Soils and their management",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/soils-portal/soil-management/en/",
+      "supports": "Soil properties and management affect plant growth, water availability and agricultural productivity."
+    },
+    "USDA_POLLINATORS": {
+      "title": "Pollinators",
+      "publisher": "USDA Agricultural Research Service",
+      "url": "https://www.ars.usda.gov/oc/br/pollinators/",
+      "supports": "Research and information on pollinators, including bees, and their role in agricultural systems."
+    },
+    "USDA_HONEYBEES": {
+      "title": "Honey Bees and Beekeeping",
+      "publisher": "USDA Agricultural Research Service",
+      "url": "https://www.ars.usda.gov/oc/br/ honeybees/",
+      "supports": "Honey bee biology and beekeeping background; verify page availability before publication."
+    },
+    "RHS_PLANT_GROWTH": {
+      "title": "How plants grow",
+      "publisher": "Royal Horticultural Society",
+      "url": "https://www.rhs.org.uk/education-learning/gardening-basics/how-plants-grow",
+      "supports": "General plant growth, plant parts, roots, shoots, flowers, fruits and seeds."
+    },
+    "OPENSTAX_PLANT_REPRO": {
+      "title": "Plant Reproduction",
+      "publisher": "OpenStax Biology 2e",
+      "url": "https://openstax.org/books/biology-2e/pages/32-1-reproductive-development-and-structure",
+      "supports": "Plant reproductive structures and variation in plant reproductive systems."
+    }
+  },
+  "quality_control_summary": {
+    "input_entries": 50,
+    "output_entries": 50,
+    "original_ids_preserved": true,
+    "original_topic_fields_preserved": true,
+    "source_catalog_records": 13,
+    "entries_with_scientific_source_links": 50,
+    "arabic_texts_individually_verified": 0,
+    "translations_individually_verified": 0,
+    "individual_classical_tafsir_reviews_completed": 0,
+    "evidence_grades": "Original provisional grades retained unchanged.",
+    "critical_cautions": [
+      "Plant reproduction is diverse: some plants are wind-pollinated, some animal-pollinated, and some self-pollinate or reproduce asexually. Not every plant has separate male and female individuals.",
+      "Qur'an 15:22 should not be claimed to refer exclusively to modern wind pollination; its wording and classical interpretation need review.",
+      "Qur'an 16:68–69 does not, without further argument, constitute a technical account of all honeybee navigation, pollination or honey chemistry.",
+      "Qur'an 6:99 should not be presented as a technical explanation of photosynthesis, genetics, or plant physiology.",
+      "Fruit and seed formation vary across plant groups; avoid universal statements based on a single crop or flowering-plant example.",
+      "Plant growth depends on interacting factors including water, light, temperature, nutrients, soil properties and species-specific biology.",
+      "Pollination is important for many crops and wild plants, but not every crop or plant species depends on animal pollination.",
+      "A descriptive mention of crops, gardens, fruits or trees is not by itself a scientific prediction."
+    ],
+    "release_status": "research-enriched draft; requires verse-by-verse Arabic, translation, context and classical tafsir review plus topic-specific botanical literature validation before public claims."
+  }
+}

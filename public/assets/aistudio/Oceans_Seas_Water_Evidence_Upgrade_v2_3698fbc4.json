@@ -1,0 +1,2919 @@
+{
+  "category_id": "oceans_seas_water",
+  "heading": "Oceans, Seas and Water",
+  "version": "2.0-research-enriched-draft",
+  "status": "preliminary_research_dataset",
+  "description": "Fifty illustrated topics exploring oceans, rivers, fresh-and-salty estuary boundaries, deep underwater waves, rain cycles, and ships.",
+  "entries": [
+    {
+      "id": "WAT-001",
+      "title": "Every living thing created from water",
+      "quran_reference": [
+        "21:30"
+      ],
+      "scientific_topic": "Water and the origin and persistence of life",
+      "scientific_finding": "All known terrestrial life depends on water. Water is essential for cellular chemistry, metabolism and the biochemical processes of living organisms.",
+      "connection": "The verse states that every living thing was made from water. This has a broad connection with the fundamental role of water in known life.",
+      "limitations": "The verse is a theological statement, not a detailed account of how the very first living cells began or the chemical origin of life.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine classical tafsir and the meaning of the Arabic expression.",
+      "quranic_evidence": {
+        "references": [
+          "21:30"
+        ],
+        "quran_com_links": [
+          "https://quran.com/21/30"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "All known terrestrial life depends on water. Water is essential for cellular chemistry, metabolism and the biochemical processes of living organisms.",
+        "source_ids": [
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse states that every living thing was made from water. This has a broad connection with the fundamental role of water in known life.",
+        "interpretive_limit": "The verse is a theological statement, not a detailed account of how the very first living cells began or the chemical origin of life.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-002",
+      "title": "Living creatures created from water",
+      "quran_reference": [
+        "24:45"
+      ],
+      "scientific_topic": "Water content and biological life",
+      "scientific_finding": "Water is a major component of most organisms and is necessary for biological functions.",
+      "connection": "The verse explicitly associates living creatures with water.",
+      "limitations": "It does not provide percentages of water in organisms or describe cellular biology.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; distinguish the verse's wording from modern biological interpretation.",
+      "quranic_evidence": {
+        "references": [
+          "24:45"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/45"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is a major component of most organisms and is necessary for biological functions.",
+        "source_ids": [
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse explicitly associates living creatures with water.",
+        "interpretive_limit": "It does not provide percentages of water in organisms or describe cellular biology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-003",
+      "title": "Water as a source of human life",
+      "quran_reference": [
+        "25:54"
+      ],
+      "scientific_topic": "Human reproduction and biological dependence on water",
+      "scientific_finding": "Human reproduction involves water-rich biological fluids, and human development depends on a fluid environment.",
+      "connection": "The verse mentions creation of a human being from water and the resulting relationships of lineage and marriage.",
+      "limitations": "The verse's immediate subject includes human creation and kinship; it should not be reduced to a technical statement about reproductive physiology.",
+      "evidence_grade": "C",
+      "research_status": "Researchable; consult tafsir before making a biological claim.",
+      "quranic_evidence": {
+        "references": [
+          "25:54"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/54"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Human reproduction involves water-rich biological fluids, and human development depends on a fluid environment.",
+        "source_ids": [
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions creation of a human being from water and the resulting relationships of lineage and marriage.",
+        "interpretive_limit": "The verse's immediate subject includes human creation and kinship; it should not be reduced to a technical statement about reproductive physiology.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-004",
+      "title": "Rain sent down from the sky",
+      "quran_reference": [
+        "2:22",
+        "6:99"
+      ],
+      "scientific_topic": "Precipitation",
+      "scientific_finding": "Rain forms when atmospheric water droplets or ice particles grow sufficiently large and fall under gravity.",
+      "connection": "The verses describe rain being sent down and its role in sustaining life and producing vegetation.",
+      "limitations": "The verses do not specify the detailed microphysics of cloud formation and precipitation.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the Quranic description with basic meteorology.",
+      "quranic_evidence": {
+        "references": [
+          "2:22",
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/22",
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rain forms when atmospheric water droplets or ice particles grow sufficiently large and fall under gravity.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe rain being sent down and its role in sustaining life and producing vegetation.",
+        "interpretive_limit": "The verses do not specify the detailed microphysics of cloud formation and precipitation.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-005",
+      "title": "Water returning to Earth after evaporation",
+      "quran_reference": [
+        "86:11"
+      ],
+      "scientific_topic": "Atmospheric water and the water cycle",
+      "scientific_finding": "Water continuously circulates between Earth's surface, oceans, land and atmosphere through evaporation, condensation and precipitation.",
+      "connection": "The verse describes the sky as possessing a returning or repeating quality, depending on translation and interpretation.",
+      "limitations": "The interpretation of the Arabic word in this verse is not limited to the modern water-cycle cycle. Do not claim that it explicitly describes the entire cycle.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate classical Arabic usage and tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "86:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/86/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water continuously circulates between Earth's surface, oceans, land and atmosphere through evaporation, condensation and precipitation.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes the sky as possessing a returning or repeating quality, depending on translation and interpretation.",
+        "interpretive_limit": "The interpretation of the Arabic word in this verse is not limited to the modern water-cycle cycle. Do not claim that it explicitly describes the entire cycle.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-006",
+      "title": "Rain measured and sent down",
+      "quran_reference": [
+        "23:18"
+      ],
+      "scientific_topic": "Water distribution and precipitation",
+      "scientific_finding": "Earth's water cycle redistributes water through precipitation, surface runoff, infiltration, storage and evaporation.",
+      "connection": "The verse describes water being sent down in a measured amount and remaining on Earth by divine arrangement.",
+      "limitations": "A modern quantitative interpretation should not be imposed on the word measured without linguistic and scholarly support.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study the meaning of the Arabic wording and water-cycle science.",
+      "quranic_evidence": {
+        "references": [
+          "23:18"
+        ],
+        "quran_com_links": [
+          "https://quran.com/23/18"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Earth's water cycle redistributes water through precipitation, surface runoff, infiltration, storage and evaporation.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water being sent down in a measured amount and remaining on Earth by divine arrangement.",
+        "interpretive_limit": "A modern quantitative interpretation should not be imposed on the word measured without linguistic and scholarly support.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-007",
+      "title": "Rain reviving dead land",
+      "quran_reference": [
+        "7:57",
+        "16:65",
+        "30:24"
+      ],
+      "scientific_topic": "Rainfall and ecosystem recovery",
+      "scientific_finding": "Water availability can trigger seed germination, plant growth and renewed biological activity in dry environments.",
+      "connection": "The verses describe rainfall bringing life to land that appeared lifeless.",
+      "limitations": "Not all dry land recovers after rainfall; soil, temperature, seed availability and other environmental conditions matter.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate desert ecology and plant germination.",
+      "quranic_evidence": {
+        "references": [
+          "7:57",
+          "16:65",
+          "30:24"
+        ],
+        "quran_com_links": [
+          "https://quran.com/7/57",
+          "https://quran.com/16/65",
+          "https://quran.com/30/24"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water availability can trigger seed germination, plant growth and renewed biological activity in dry environments.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe rainfall bringing life to land that appeared lifeless.",
+        "interpretive_limit": "Not all dry land recovers after rainfall; soil, temperature, seed availability and other environmental conditions matter.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-008",
+      "title": "Rain bringing forth different crops",
+      "quran_reference": [
+        "2:22",
+        "6:99"
+      ],
+      "scientific_topic": "Plant growth and agricultural productivity",
+      "scientific_finding": "Water is necessary for photosynthesis, nutrient transport, cell expansion and plant development.",
+      "connection": "The verses associate rain with the production of fruits and crops.",
+      "limitations": "Plant growth also depends on nutrients, sunlight, temperature and other conditions.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use plant physiology sources.",
+      "quranic_evidence": {
+        "references": [
+          "2:22",
+          "6:99"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/22",
+          "https://quran.com/6/99"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is necessary for photosynthesis, nutrient transport, cell expansion and plant development.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses associate rain with the production of fruits and crops.",
+        "interpretive_limit": "Plant growth also depends on nutrients, sunlight, temperature and other conditions.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-009",
+      "title": "Water emerging from springs",
+      "quran_reference": [
+        "2:60",
+        "7:160"
+      ],
+      "scientific_topic": "Groundwater springs",
+      "scientific_finding": "Groundwater can emerge naturally at Earth's surface where geological conditions allow an aquifer to discharge.",
+      "connection": "The verses describe water emerging from the ground as springs.",
+      "limitations": "The verses do not describe aquifer structure, permeability or groundwater pressure.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate groundwater hydrology.",
+      "quranic_evidence": {
+        "references": [
+          "2:60",
+          "7:160"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/60",
+          "https://quran.com/7/160"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Groundwater can emerge naturally at Earth's surface where geological conditions allow an aquifer to discharge.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water emerging from the ground as springs.",
+        "interpretive_limit": "The verses do not describe aquifer structure, permeability or groundwater pressure.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-010",
+      "title": "Water stored within the Earth",
+      "quran_reference": [
+        "15:22",
+        "23:18"
+      ],
+      "scientific_topic": "Groundwater and terrestrial water storage",
+      "scientific_finding": "Water is stored underground in soil pores, fractures and aquifers.",
+      "connection": "The verses discuss water being sent down and retained or made to settle in the Earth.",
+      "limitations": "The wording should not be treated as a technical description of modern aquifer systems.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the wording with groundwater science.",
+      "quranic_evidence": {
+        "references": [
+          "15:22",
+          "23:18"
+        ],
+        "quran_com_links": [
+          "https://quran.com/15/22",
+          "https://quran.com/23/18"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is stored underground in soil pores, fractures and aquifers.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses discuss water being sent down and retained or made to settle in the Earth.",
+        "interpretive_limit": "The wording should not be treated as a technical description of modern aquifer systems.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-011",
+      "title": "Freshwater and saltwater",
+      "quran_reference": [
+        "25:53",
+        "35:12"
+      ],
+      "scientific_topic": "Freshwater and seawater composition",
+      "scientific_finding": "Freshwater and seawater differ significantly in dissolved salt concentration and other chemical properties.",
+      "connection": "The verses distinguish water that is fresh and palatable from water that is salty and bitter.",
+      "limitations": "The distinction is observable and familiar; the verses do not provide modern chemical measurements.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the Arabic terms and historical tafsir.",
+      "quranic_evidence": {
+        "references": [
+          "25:53",
+          "35:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/53",
+          "https://quran.com/35/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Freshwater and seawater differ significantly in dissolved salt concentration and other chemical properties.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses distinguish water that is fresh and palatable from water that is salty and bitter.",
+        "interpretive_limit": "The distinction is observable and familiar; the verses do not provide modern chemical measurements.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-012",
+      "title": "Two bodies of water meeting",
+      "quran_reference": [
+        "55:19-20"
+      ],
+      "scientific_topic": "Ocean boundaries and water-mass interactions",
+      "scientific_finding": "Different water masses meet and interact in oceans and coastal environments.",
+      "connection": "The verses describe two seas meeting with a barrier between them.",
+      "limitations": "The meaning of the barrier is debated. Water masses can mix, and the verses should not be presented as describing an absolute physical wall.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; compare classical tafsir and physical oceanography.",
+      "quranic_evidence": {
+        "references": [
+          "55:19-20"
+        ],
+        "quran_com_links": [
+          "https://quran.com/55/19-20"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Different water masses meet and interact in oceans and coastal environments.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe two seas meeting with a barrier between them.",
+        "interpretive_limit": "The meaning of the barrier is debated. Water masses can mix, and the verses should not be presented as describing an absolute physical wall.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-013",
+      "title": "A barrier between fresh and salt water",
+      "quran_reference": [
+        "25:53"
+      ],
+      "scientific_topic": "Estuaries and salinity gradients",
+      "scientific_finding": "Where rivers meet oceans, freshwater and seawater interact. Salinity gradients can develop, and mixing depends on tides, river flow and local conditions.",
+      "connection": "The verse describes fresh and salty bodies of water with a barzakh between them.",
+      "limitations": "An estuary is not generally separated by an impermeable barrier. The exact referent of the verse requires careful tafsir study.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate estuarine circulation and classical explanations.",
+      "quranic_evidence": {
+        "references": [
+          "25:53"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/53"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Where rivers meet oceans, freshwater and seawater interact. Salinity gradients can develop, and mixing depends on tides, river flow and local conditions.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes fresh and salty bodies of water with a barzakh between them.",
+        "interpretive_limit": "An estuary is not generally separated by an impermeable barrier. The exact referent of the verse requires careful tafsir study.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-014",
+      "title": "Different properties of two seas",
+      "quran_reference": [
+        "35:12"
+      ],
+      "scientific_topic": "Differences in aquatic environments",
+      "scientific_finding": "Aquatic environments differ in salinity, temperature, density, dissolved substances and biological communities.",
+      "connection": "The verse contrasts two bodies of water and describes differences in their qualities and uses.",
+      "limitations": "The verse does not present a modern classification of water bodies.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate the contextual meaning of the comparison.",
+      "quranic_evidence": {
+        "references": [
+          "35:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/35/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Aquatic environments differ in salinity, temperature, density, dissolved substances and biological communities.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse contrasts two bodies of water and describes differences in their qualities and uses.",
+        "interpretive_limit": "The verse does not present a modern classification of water bodies.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-015",
+      "title": "Salinity differences in water",
+      "quran_reference": [
+        "25:53",
+        "35:12"
+      ],
+      "scientific_topic": "Water salinity",
+      "scientific_finding": "Salinity is the concentration of dissolved salts in water. It varies between oceans, seas, rivers and lakes.",
+      "connection": "The verses explicitly distinguish fresh and salty water.",
+      "limitations": "The verses do not explain how salinity is measured or how it varies geographically.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use ocean chemistry references.",
+      "quranic_evidence": {
+        "references": [
+          "25:53",
+          "35:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/53",
+          "https://quran.com/35/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Salinity is the concentration of dissolved salts in water. It varies between oceans, seas, rivers and lakes.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses explicitly distinguish fresh and salty water.",
+        "interpretive_limit": "The verses do not explain how salinity is measured or how it varies geographically.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-016",
+      "title": "Deep sea darkness",
+      "quran_reference": [
+        "24:40"
+      ],
+      "scientific_topic": "Light penetration in the ocean",
+      "scientific_finding": "Sunlight decreases with depth in seawater. Below the photic zone, insufficient sunlight remains for ordinary photosynthesis.",
+      "connection": "The verse describes darkness in a deep sea, with waves above waves and clouds above them.",
+      "limitations": "The verse is part of a parable. Its imagery should not automatically be treated as a scientific diagram of ocean layers.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; study the full parable and ocean-light measurements.",
+      "quranic_evidence": {
+        "references": [
+          "24:40"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/40"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Qur'an 24:40 occurs in a parable concerning the deeds/state of disbelievers. The imagery should not be detached from its rhetorical and scholarly context and treated simply as a technical oceanography description."
+      },
+      "scientific_evidence": {
+        "summary": "Sunlight decreases with depth in seawater. Below the photic zone, insufficient sunlight remains for ordinary photosynthesis.",
+        "source_ids": [
+          "NOAA_DEEP_LIGHT"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes darkness in a deep sea, with waves above waves and clouds above them.",
+        "interpretive_limit": "The verse is part of a parable. Its imagery should not automatically be treated as a scientific diagram of ocean layers.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-017",
+      "title": "Waves above waves",
+      "quran_reference": [
+        "24:40"
+      ],
+      "scientific_topic": "Ocean wave systems",
+      "scientific_finding": "The ocean contains multiple interacting wave systems, including surface waves, swell and internal waves.",
+      "connection": "The verse uses the image of waves above other waves in describing deep-sea darkness.",
+      "limitations": "The verse does not explicitly identify internal waves or describe their physical mechanism.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; compare the parable's context with wave science.",
+      "quranic_evidence": {
+        "references": [
+          "24:40"
+        ],
+        "quran_com_links": [
+          "https://quran.com/24/40"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Qur'an 24:40 occurs in a parable concerning the deeds/state of disbelievers. The imagery should not be detached from its rhetorical and scholarly context and treated simply as a technical oceanography description."
+      },
+      "scientific_evidence": {
+        "summary": "The ocean contains multiple interacting wave systems, including surface waves, swell and internal waves.",
+        "source_ids": [
+          "NOAA_WAVES",
+          "NOAA_WIND_WAVES",
+          "NOAA_WAVES_STORM"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse uses the image of waves above other waves in describing deep-sea darkness.",
+        "interpretive_limit": "The verse does not explicitly identify internal waves or describe their physical mechanism.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-018",
+      "title": "Storm waves and dangerous seas",
+      "quran_reference": [
+        "10:22",
+        "31:32"
+      ],
+      "scientific_topic": "Storm-generated ocean waves",
+      "scientific_finding": "Strong winds and storms can generate large waves and dangerous sea conditions.",
+      "connection": "The verses describe people experiencing threatening waves at sea.",
+      "limitations": "The passages are not technical explanations of wave generation or storm forecasting.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine wave formation and the verses' narrative context.",
+      "quranic_evidence": {
+        "references": [
+          "10:22",
+          "31:32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/10/22",
+          "https://quran.com/31/32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Strong winds and storms can generate large waves and dangerous sea conditions.",
+        "source_ids": [
+          "NOAA_WAVES",
+          "NOAA_WIND_WAVES",
+          "NOAA_WAVES_STORM"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe people experiencing threatening waves at sea.",
+        "interpretive_limit": "The passages are not technical explanations of wave generation or storm forecasting.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-019",
+      "title": "Waves resembling mountains",
+      "quran_reference": [
+        "11:42"
+      ],
+      "scientific_topic": "Large waves and severe sea conditions",
+      "scientific_finding": "Severe storms can produce exceptionally large waves that threaten vessels.",
+      "connection": "The verse describes a wave like mountains during the flood narrative.",
+      "limitations": "The description is part of a specific narrative and does not establish a general scientific rule about wave heights.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; distinguish narrative description from oceanographic measurement.",
+      "quranic_evidence": {
+        "references": [
+          "11:42"
+        ],
+        "quran_com_links": [
+          "https://quran.com/11/42"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Severe storms can produce exceptionally large waves that threaten vessels.",
+        "source_ids": [
+          "NOAA_WAVES",
+          "NOAA_WIND_WAVES",
+          "NOAA_WAVES_STORM"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes a wave like mountains during the flood narrative.",
+        "interpretive_limit": "The description is part of a specific narrative and does not establish a general scientific rule about wave heights.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-020",
+      "title": "Ships moving through the sea",
+      "quran_reference": [
+        "2:164",
+        "14:32"
+      ],
+      "scientific_topic": "Ship buoyancy and navigation",
+      "scientific_finding": "Ships float through buoyancy and can travel through water using propulsion and navigation systems.",
+      "connection": "The verses refer to ships sailing through the sea and benefiting humanity.",
+      "limitations": "The verses do not describe Archimedes' principle or modern ship engineering.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the physics of buoyancy.",
+      "quranic_evidence": {
+        "references": [
+          "2:164",
+          "14:32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/164",
+          "https://quran.com/14/32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Ships float through buoyancy and can travel through water using propulsion and navigation systems.",
+        "source_ids": [
+          "OPENSTAX_BUOYANCY",
+          "NOAA_WAVES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to ships sailing through the sea and benefiting humanity.",
+        "interpretive_limit": "The verses do not describe Archimedes' principle or modern ship engineering.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-021",
+      "title": "Ships travelling by divine provision",
+      "quran_reference": [
+        "17:66",
+        "45:12"
+      ],
+      "scientific_topic": "Maritime transport",
+      "scientific_finding": "Ships enable the movement of people and goods across waterways and have played a major role in trade and transportation.",
+      "connection": "The verses describe ships travelling across the sea as a benefit for humanity.",
+      "limitations": "This is a broad reference to maritime travel rather than a technical claim about oceanography.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine the historical and practical context.",
+      "quranic_evidence": {
+        "references": [
+          "17:66",
+          "45:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/17/66",
+          "https://quran.com/45/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Ships enable the movement of people and goods across waterways and have played a major role in trade and transportation.",
+        "source_ids": [
+          "OPENSTAX_BUOYANCY",
+          "NOAA_WAVES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe ships travelling across the sea as a benefit for humanity.",
+        "interpretive_limit": "This is a broad reference to maritime travel rather than a technical claim about oceanography.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-022",
+      "title": "Sea as a source of food",
+      "quran_reference": [
+        "5:96",
+        "16:14"
+      ],
+      "scientific_topic": "Marine food resources",
+      "scientific_finding": "Marine ecosystems provide fish, shellfish and other edible organisms that support human food systems.",
+      "connection": "The verses permit or describe food obtained from the sea.",
+      "limitations": "The passages concern provision and lawful use, not a scientific prediction about marine food webs.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study marine biodiversity and fisheries.",
+      "quranic_evidence": {
+        "references": [
+          "5:96",
+          "16:14"
+        ],
+        "quran_com_links": [
+          "https://quran.com/5/96",
+          "https://quran.com/16/14"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Marine ecosystems provide fish, shellfish and other edible organisms that support human food systems.",
+        "source_ids": [
+          "NOAA_CORAL",
+          "UNEP_CORAL"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses permit or describe food obtained from the sea.",
+        "interpretive_limit": "The passages concern provision and lawful use, not a scientific prediction about marine food webs.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-023",
+      "title": "Marine animals as food",
+      "quran_reference": [
+        "16:14"
+      ],
+      "scientific_topic": "Marine biodiversity and human nutrition",
+      "scientific_finding": "Many aquatic animals are sources of protein, fats and micronutrients.",
+      "connection": "The verse describes extracting fresh meat from the sea.",
+      "limitations": "It does not make a nutritional comparison between marine and terrestrial foods.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use nutrition and fisheries sources.",
+      "quranic_evidence": {
+        "references": [
+          "16:14"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/14"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Many aquatic animals are sources of protein, fats and micronutrients.",
+        "source_ids": [
+          "NOAA_CORAL",
+          "UNEP_CORAL"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes extracting fresh meat from the sea.",
+        "interpretive_limit": "It does not make a nutritional comparison between marine and terrestrial foods.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-024",
+      "title": "Pearls obtained from water",
+      "quran_reference": [
+        "16:14",
+        "55:22"
+      ],
+      "scientific_topic": "Pearl formation",
+      "scientific_finding": "Natural pearls form within certain molluscs through biological processes involving layers of nacre.",
+      "connection": "The verses mention pearls obtained from bodies of water.",
+      "limitations": "The verses do not explain the biological process of pearl formation.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate mollusc biology and pearl formation.",
+      "quranic_evidence": {
+        "references": [
+          "16:14",
+          "55:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/14",
+          "https://quran.com/55/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Natural pearls form within certain molluscs through biological processes involving layers of nacre.",
+        "source_ids": [
+          "NOAA_PEARLS",
+          "SMITHSONIAN_PEARLS"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention pearls obtained from bodies of water.",
+        "interpretive_limit": "The verses do not explain the biological process of pearl formation.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-025",
+      "title": "Coral and marine treasures",
+      "quran_reference": [
+        "55:22"
+      ],
+      "scientific_topic": "Marine organisms and coral",
+      "scientific_finding": "Corals are marine animals, many of which build calcium-carbonate structures and form important reef ecosystems.",
+      "connection": "The verse mentions marjan, commonly translated as coral, alongside pearls.",
+      "limitations": "The verse does not describe coral anatomy, reef construction or coral ecology. The precise historical meaning of marjan should be investigated.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; verify lexical meanings and marine biology.",
+      "quranic_evidence": {
+        "references": [
+          "55:22"
+        ],
+        "quran_com_links": [
+          "https://quran.com/55/22"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Corals are marine animals, many of which build calcium-carbonate structures and form important reef ecosystems.",
+        "source_ids": [
+          "NOAA_CORAL",
+          "NOAA_CORAL_SPECIES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse mentions marjan, commonly translated as coral, alongside pearls.",
+        "interpretive_limit": "The verse does not describe coral anatomy, reef construction or coral ecology. The precise historical meaning of marjan should be investigated.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-026",
+      "title": "Ships and the properties of water",
+      "quran_reference": [
+        "31:31"
+      ],
+      "scientific_topic": "Buoyancy and fluid mechanics",
+      "scientific_finding": "The density of water and the volume of displaced fluid contribute to the buoyant force that allows vessels to float.",
+      "connection": "The verse refers to ships sailing through the sea by Allah's favour.",
+      "limitations": "It does not explicitly describe the mathematical principle of buoyancy.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; treat the scientific connection as explanatory context.",
+      "quranic_evidence": {
+        "references": [
+          "31:31"
+        ],
+        "quran_com_links": [
+          "https://quran.com/31/31"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "The density of water and the volume of displaced fluid contribute to the buoyant force that allows vessels to float.",
+        "source_ids": [
+          "OPENSTAX_BUOYANCY",
+          "NOAA_WAVES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse refers to ships sailing through the sea by Allah's favour.",
+        "interpretive_limit": "It does not explicitly describe the mathematical principle of buoyancy.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-027",
+      "title": "Sea travel and human dependence on waterways",
+      "quran_reference": [
+        "30:46",
+        "42:32"
+      ],
+      "scientific_topic": "Maritime transport and human settlement",
+      "scientific_finding": "Coastal communities have historically relied on seas for transportation, trade and access to resources.",
+      "connection": "The verses refer to ships and the movement of vessels through the sea.",
+      "limitations": "This is a broad human and geographical connection rather than a scientific discovery.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; historical and geographical study.",
+      "quranic_evidence": {
+        "references": [
+          "30:46",
+          "42:32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/30/46",
+          "https://quran.com/42/32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Coastal communities have historically relied on seas for transportation, trade and access to resources.",
+        "source_ids": [
+          "OPENSTAX_BUOYANCY",
+          "NOAA_WAVES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to ships and the movement of vessels through the sea.",
+        "interpretive_limit": "This is a broad human and geographical connection rather than a scientific discovery.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-028",
+      "title": "Water as a means of purification",
+      "quran_reference": [
+        "5:6",
+        "8:11"
+      ],
+      "scientific_topic": "Water and hygiene",
+      "scientific_finding": "Washing with clean water removes dirt and can reduce the transfer of some infectious agents, depending on the method and context.",
+      "connection": "The verses discuss washing and purification using water.",
+      "limitations": "Ritual purification and medical sanitation are related but distinct subjects. The verses do not establish modern infection-control protocols.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; keep religious rulings separate from medical evidence.",
+      "quranic_evidence": {
+        "references": [
+          "5:6",
+          "8:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/5/6",
+          "https://quran.com/8/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Washing with clean water removes dirt and can reduce the transfer of some infectious agents, depending on the method and context.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses discuss washing and purification using water.",
+        "interpretive_limit": "Ritual purification and medical sanitation are related but distinct subjects. The verses do not establish modern infection-control protocols.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-029",
+      "title": "Clean water as a blessing",
+      "quran_reference": [
+        "25:48",
+        "77:27"
+      ],
+      "scientific_topic": "Freshwater availability",
+      "scientific_finding": "Accessible freshwater is essential for drinking, sanitation, agriculture and ecosystems.",
+      "connection": "The verses describe water sent down and water provided for human benefit.",
+      "limitations": "They do not quantify global freshwater reserves or explain water treatment.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use authoritative freshwater statistics.",
+      "quranic_evidence": {
+        "references": [
+          "25:48",
+          "77:27"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/48",
+          "https://quran.com/77/27"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Accessible freshwater is essential for drinking, sanitation, agriculture and ecosystems.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water sent down and water provided for human benefit.",
+        "interpretive_limit": "They do not quantify global freshwater reserves or explain water treatment.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-030",
+      "title": "Water from the sky as a source of drinking water",
+      "quran_reference": [
+        "16:10"
+      ],
+      "scientific_topic": "Rainwater and freshwater resources",
+      "scientific_finding": "Rainfall replenishes rivers, lakes, soils and groundwater, although rainwater quality varies with environmental conditions.",
+      "connection": "The verse describes rainwater as something people drink and as a source of vegetation.",
+      "limitations": "Rainwater is not automatically safe to drink without considering contamination and collection conditions.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine water quality and rainfall collection.",
+      "quranic_evidence": {
+        "references": [
+          "16:10"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rainfall replenishes rivers, lakes, soils and groundwater, although rainwater quality varies with environmental conditions.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes rainwater as something people drink and as a source of vegetation.",
+        "interpretive_limit": "Rainwater is not automatically safe to drink without considering contamination and collection conditions.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-031",
+      "title": "Rivers flowing through the land",
+      "quran_reference": [
+        "13:3",
+        "16:15"
+      ],
+      "scientific_topic": "River systems and drainage",
+      "scientific_finding": "Rivers transport water and sediment through drainage basins and connect mountains, plains, wetlands and oceans.",
+      "connection": "The verses refer to rivers as features of the Earth.",
+      "limitations": "They do not describe river formation, drainage networks or water-cycle measurements.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate river geomorphology.",
+      "quranic_evidence": {
+        "references": [
+          "13:3",
+          "16:15"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/3",
+          "https://quran.com/16/15"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rivers transport water and sediment through drainage basins and connect mountains, plains, wetlands and oceans.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to rivers as features of the Earth.",
+        "interpretive_limit": "They do not describe river formation, drainage networks or water-cycle measurements.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-032",
+      "title": "Water flowing in rivers",
+      "quran_reference": [
+        "2:25",
+        "3:15"
+      ],
+      "scientific_topic": "River flow and freshwater ecosystems",
+      "scientific_finding": "Rivers carry flowing water and support freshwater habitats, agriculture and human settlements.",
+      "connection": "The verses describe gardens with rivers flowing beneath them.",
+      "limitations": "The primary context is often descriptions of Paradise, not a scientific explanation of terrestrial rivers.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; identify the context of each passage.",
+      "quranic_evidence": {
+        "references": [
+          "2:25",
+          "3:15"
+        ],
+        "quran_com_links": [
+          "https://quran.com/2/25",
+          "https://quran.com/3/15"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Rivers carry flowing water and support freshwater habitats, agriculture and human settlements.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe gardens with rivers flowing beneath them.",
+        "interpretive_limit": "The primary context is often descriptions of Paradise, not a scientific explanation of terrestrial rivers.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-033",
+      "title": "Rainfall and groundwater recharge",
+      "quran_reference": [
+        "39:21"
+      ],
+      "scientific_topic": "Infiltration and aquifer recharge",
+      "scientific_finding": "Some precipitation infiltrates soil and moves downward, replenishing groundwater stores.",
+      "connection": "The verse describes water sent down and made to flow as springs in the Earth.",
+      "limitations": "Not all rainfall becomes groundwater; some evaporates or runs off the surface.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate infiltration and groundwater recharge.",
+      "quranic_evidence": {
+        "references": [
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Some precipitation infiltrates soil and moves downward, replenishing groundwater stores.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water sent down and made to flow as springs in the Earth.",
+        "interpretive_limit": "Not all rainfall becomes groundwater; some evaporates or runs off the surface.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-034",
+      "title": "Water emerging from the Earth in different ways",
+      "quran_reference": [
+        "39:21",
+        "2:60"
+      ],
+      "scientific_topic": "Groundwater discharge",
+      "scientific_finding": "Groundwater may discharge through springs, seepage zones, wetlands and riverbeds.",
+      "connection": "The verses refer to water emerging from the ground and flowing as springs.",
+      "limitations": "The passages do not describe the geological conditions governing groundwater discharge.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare different spring types.",
+      "quranic_evidence": {
+        "references": [
+          "39:21",
+          "2:60"
+        ],
+        "quran_com_links": [
+          "https://quran.com/39/21",
+          "https://quran.com/2/60"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Groundwater may discharge through springs, seepage zones, wetlands and riverbeds.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to water emerging from the ground and flowing as springs.",
+        "interpretive_limit": "The passages do not describe the geological conditions governing groundwater discharge.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-035",
+      "title": "Water stored in the Earth for later use",
+      "quran_reference": [
+        "23:18"
+      ],
+      "scientific_topic": "Natural water storage",
+      "scientific_finding": "Water is stored in glaciers, lakes, soil moisture, groundwater and other reservoirs before moving through the water-cycle cycle.",
+      "connection": "The verse describes water being sent down and retained in the Earth.",
+      "limitations": "The verse does not list the different scientific water reservoirs.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate Earth's water reservoirs.",
+      "quranic_evidence": {
+        "references": [
+          "23:18"
+        ],
+        "quran_com_links": [
+          "https://quran.com/23/18"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water is stored in glaciers, lakes, soil moisture, groundwater and other reservoirs before moving through the water-cycle cycle.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse describes water being sent down and retained in the Earth.",
+        "interpretive_limit": "The verse does not list the different scientific water reservoirs.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-036",
+      "title": "Water scarcity and human dependence",
+      "quran_reference": [
+        "67:30"
+      ],
+      "scientific_topic": "Water security",
+      "scientific_finding": "Freshwater availability is limited by geography, climate, infrastructure, pollution and demand.",
+      "connection": "The verse asks who could provide flowing water if it disappeared into the Earth.",
+      "limitations": "The verse is a reflection on dependence upon divine provision, not a modern water-security assessment.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; explore freshwater access and water scarcity.",
+      "quranic_evidence": {
+        "references": [
+          "67:30"
+        ],
+        "quran_com_links": [
+          "https://quran.com/67/30"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Freshwater availability is limited by geography, climate, infrastructure, pollution and demand.",
+        "source_ids": [
+          "USGS_GROUNDWATER",
+          "USGS_GROUND_STORAGE",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verse asks who could provide flowing water if it disappeared into the Earth.",
+        "interpretive_limit": "The verse is a reflection on dependence upon divine provision, not a modern water-security assessment.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-037",
+      "title": "Water as a condition for agriculture",
+      "quran_reference": [
+        "20:53",
+        "32:27"
+      ],
+      "scientific_topic": "Irrigation and crop production",
+      "scientific_finding": "Agriculture depends on adequate water, and irrigation can support crop production where rainfall is insufficient.",
+      "connection": "The verses connect water, land and the growth of crops.",
+      "limitations": "Crop productivity also depends on soil, nutrients, sunlight, crop type and management.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study irrigation science and crop water requirements.",
+      "quranic_evidence": {
+        "references": [
+          "20:53",
+          "32:27"
+        ],
+        "quran_com_links": [
+          "https://quran.com/20/53",
+          "https://quran.com/32/27"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Agriculture depends on adequate water, and irrigation can support crop production where rainfall is insufficient.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses connect water, land and the growth of crops.",
+        "interpretive_limit": "Crop productivity also depends on soil, nutrients, sunlight, crop type and management.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-038",
+      "title": "Water and the growth of vegetation",
+      "quran_reference": [
+        "6:99",
+        "22:5"
+      ],
+      "scientific_topic": "Plant physiology",
+      "scientific_finding": "Water supports photosynthesis, nutrient movement, cell turgor and plant growth.",
+      "connection": "The verses describe water producing vegetation and varied plant growth.",
+      "limitations": "The verses do not explain the biochemical processes involved in photosynthesis.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; consult plant physiology references.",
+      "quranic_evidence": {
+        "references": [
+          "6:99",
+          "22:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/6/99",
+          "https://quran.com/22/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water supports photosynthesis, nutrient movement, cell turgor and plant growth.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe water producing vegetation and varied plant growth.",
+        "interpretive_limit": "The verses do not explain the biochemical processes involved in photosynthesis.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-039",
+      "title": "Water and the diversity of fruits",
+      "quran_reference": [
+        "13:4",
+        "16:11"
+      ],
+      "scientific_topic": "Plant diversity and fruit development",
+      "scientific_finding": "Water availability influences plant growth and fruit development, while genetic and environmental factors contribute to fruit diversity.",
+      "connection": "The verses mention water, crops and different kinds of fruits.",
+      "limitations": "Water alone does not explain fruit diversity; genetics, pollination, climate and soil conditions are also important.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study plant development and agricultural science.",
+      "quranic_evidence": {
+        "references": [
+          "13:4",
+          "16:11"
+        ],
+        "quran_com_links": [
+          "https://quran.com/13/4",
+          "https://quran.com/16/11"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water availability influences plant growth and fruit development, while genetic and environmental factors contribute to fruit diversity.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention water, crops and different kinds of fruits.",
+        "interpretive_limit": "Water alone does not explain fruit diversity; genetics, pollination, climate and soil conditions are also important.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-040",
+      "title": "Water and the revival of vegetation after drought",
+      "quran_reference": [
+        "16:65",
+        "45:5"
+      ],
+      "scientific_topic": "Drought recovery and plant ecology",
+      "scientific_finding": "Some plants survive dry periods through dormant seeds, underground organs or drought-adapted tissues and can resume growth when water returns.",
+      "connection": "The verses describe rain reviving the Earth after it has become dry.",
+      "limitations": "Not every ecosystem or plant species recovers in the same way after drought.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate drought adaptations and ecological recovery.",
+      "quranic_evidence": {
+        "references": [
+          "16:65",
+          "45:5"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/65",
+          "https://quran.com/45/5"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Some plants survive dry periods through dormant seeds, underground organs or drought-adapted tissues and can resume growth when water returns.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe rain reviving the Earth after it has become dry.",
+        "interpretive_limit": "Not every ecosystem or plant species recovers in the same way after drought.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-041",
+      "title": "Water as a means of human sustenance",
+      "quran_reference": [
+        "56:68-70"
+      ],
+      "scientific_topic": "Drinking water and human physiology",
+      "scientific_finding": "Humans require water for temperature regulation, circulation, digestion, kidney function and cellular processes.",
+      "connection": "The verses invite reflection on the water people drink and its provision.",
+      "limitations": "The passage does not provide medical guidance on hydration requirements.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; use established human physiology sources.",
+      "quranic_evidence": {
+        "references": [
+          "56:68-70"
+        ],
+        "quran_com_links": [
+          "https://quran.com/56/68-70"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Humans require water for temperature regulation, circulation, digestion, kidney function and cellular processes.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on the water people drink and its provision.",
+        "interpretive_limit": "The passage does not provide medical guidance on hydration requirements.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-042",
+      "title": "The taste and quality of drinking water",
+      "quran_reference": [
+        "56:68-70"
+      ],
+      "scientific_topic": "Water chemistry and palatability",
+      "scientific_finding": "Water taste can be influenced by dissolved minerals, salts, organic compounds and other substances.",
+      "connection": "The verses draw attention to the water people drink and ask them to reflect on its provision.",
+      "limitations": "The verses do not describe water chemistry or standards for drinking-water quality.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; useful for a broad educational entry, not a miracle claim.",
+      "quranic_evidence": {
+        "references": [
+          "56:68-70"
+        ],
+        "quran_com_links": [
+          "https://quran.com/56/68-70"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water taste can be influenced by dissolved minerals, salts, organic compounds and other substances.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses draw attention to the water people drink and ask them to reflect on its provision.",
+        "interpretive_limit": "The verses do not describe water chemistry or standards for drinking-water quality.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-043",
+      "title": "The sea as a source of natural resources",
+      "quran_reference": [
+        "16:14",
+        "45:12"
+      ],
+      "scientific_topic": "Marine resources and ocean ecosystems",
+      "scientific_finding": "Oceans provide food, minerals, energy resources and transport routes, while also supporting diverse ecosystems.",
+      "connection": "The verses refer to benefits obtained from the sea.",
+      "limitations": "The verses do not enumerate modern marine resources or endorse unrestricted extraction.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; consider ecological sustainability.",
+      "quranic_evidence": {
+        "references": [
+          "16:14",
+          "45:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/14",
+          "https://quran.com/45/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Oceans provide food, minerals, energy resources and transport routes, while also supporting diverse ecosystems.",
+        "source_ids": [
+          "NOAA_CORAL",
+          "UNEP_CORAL"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses refer to benefits obtained from the sea.",
+        "interpretive_limit": "The verses do not enumerate modern marine resources or endorse unrestricted extraction.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-044",
+      "title": "The movement of ships through the sea",
+      "quran_reference": [
+        "42:32",
+        "55:24"
+      ],
+      "scientific_topic": "Marine navigation and vessel movement",
+      "scientific_finding": "Ships move through water using propulsion, while currents, winds and waves influence their movement.",
+      "connection": "The verses mention ships moving through the sea.",
+      "limitations": "The passages do not specify modern navigation or the physics of ocean currents.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; investigate the interaction between ships and marine conditions.",
+      "quranic_evidence": {
+        "references": [
+          "42:32",
+          "55:24"
+        ],
+        "quran_com_links": [
+          "https://quran.com/42/32",
+          "https://quran.com/55/24"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Ships move through water using propulsion, while currents, winds and waves influence their movement.",
+        "source_ids": [
+          "OPENSTAX_BUOYANCY",
+          "NOAA_WAVES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses mention ships moving through the sea.",
+        "interpretive_limit": "The passages do not specify modern navigation or the physics of ocean currents.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-045",
+      "title": "Freshwater and seawater as distinct environments",
+      "quran_reference": [
+        "25:53",
+        "35:12"
+      ],
+      "scientific_topic": "Freshwater and marine ecosystems",
+      "scientific_finding": "Freshwater and marine environments support organisms adapted to different salinity conditions.",
+      "connection": "The verses distinguish fresh and salty bodies of water, which provides a starting point for studying different aquatic environments.",
+      "limitations": "The verses do not discuss osmoregulation or the biological adaptations of aquatic organisms.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; examine freshwater and marine biology.",
+      "quranic_evidence": {
+        "references": [
+          "25:53",
+          "35:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/25/53",
+          "https://quran.com/35/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "The imagery of two bodies of water and a barrier requires classical tafsir and linguistic-context review. It must not be assumed to mean that freshwater and seawater never mix."
+      },
+      "scientific_evidence": {
+        "summary": "Freshwater and marine environments support organisms adapted to different salinity conditions.",
+        "source_ids": [
+          "NOAA_ESTUARIES",
+          "NOAA_ESTUARY_MIXING",
+          "EPA_WATER_TYPES"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses distinguish fresh and salty bodies of water, which provides a starting point for studying different aquatic environments.",
+        "interpretive_limit": "The verses do not discuss osmoregulation or the biological adaptations of aquatic organisms.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-046",
+      "title": "The sea as a habitat for living organisms",
+      "quran_reference": [
+        "16:14",
+        "21:30"
+      ],
+      "scientific_topic": "Marine biodiversity",
+      "scientific_finding": "Oceans contain a wide range of organisms, from microscopic plankton to large marine animals.",
+      "connection": "The Quranic references to aquatic life and marine food can be studied alongside the diversity of ocean ecosystems.",
+      "limitations": "The cited verses do not give a classification of marine species or describe ocean biodiversity in detail.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; build the scientific explanation from marine biology sources.",
+      "quranic_evidence": {
+        "references": [
+          "16:14",
+          "21:30"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/14",
+          "https://quran.com/21/30"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Oceans contain a wide range of organisms, from microscopic plankton to large marine animals.",
+        "source_ids": [
+          "NASA_WATER_LIFE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The Quranic references to aquatic life and marine food can be studied alongside the diversity of ocean ecosystems.",
+        "interpretive_limit": "The cited verses do not give a classification of marine species or describe ocean biodiversity in detail.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-047",
+      "title": "Water and the balance of ecosystems",
+      "quran_reference": [
+        "16:10-11",
+        "50:9"
+      ],
+      "scientific_topic": "Water-dependent ecosystems",
+      "scientific_finding": "Water availability shapes terrestrial and aquatic ecosystems, influencing species distribution and ecosystem productivity.",
+      "connection": "The verses connect rainwater with vegetation and agricultural production.",
+      "limitations": "Ecological balance is a broad modern concept and should not be presented as a direct technical statement in the verses.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; investigate ecology and ecosystem functions.",
+      "quranic_evidence": {
+        "references": [
+          "16:10-11",
+          "50:9"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10-11",
+          "https://quran.com/50/9"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water availability shapes terrestrial and aquatic ecosystems, influencing species distribution and ecosystem productivity.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses connect rainwater with vegetation and agricultural production.",
+        "interpretive_limit": "Ecological balance is a broad modern concept and should not be presented as a direct technical statement in the verses.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-048",
+      "title": "The variety of water sources",
+      "quran_reference": [
+        "16:10",
+        "39:21"
+      ],
+      "scientific_topic": "Water sources and hydrology",
+      "scientific_finding": "Water occurs in rainfall, rivers, lakes, groundwater, glaciers, oceans and the atmosphere.",
+      "connection": "The verses describe rain, springs and water emerging from the Earth.",
+      "limitations": "The verses do not provide a complete scientific inventory of Earth's water sources.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; compare the passages with the modern hydrological system.",
+      "quranic_evidence": {
+        "references": [
+          "16:10",
+          "39:21"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/10",
+          "https://quran.com/39/21"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Water occurs in rainfall, rivers, lakes, groundwater, glaciers, oceans and the atmosphere.",
+        "source_ids": [
+          "USGS_WATER_CYCLE",
+          "USGS_GROUNDWATER"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe rain, springs and water emerging from the Earth.",
+        "interpretive_limit": "The verses do not provide a complete scientific inventory of Earth's water sources.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-049",
+      "title": "The sea and human vulnerability",
+      "quran_reference": [
+        "10:22",
+        "31:32"
+      ],
+      "scientific_topic": "Marine hazards and human safety",
+      "scientific_finding": "Storms, large waves, strong currents and other marine hazards can threaten human life and maritime travel.",
+      "connection": "The verses describe people facing danger at sea and turning to Allah in distress.",
+      "limitations": "The verses are religious and narrative descriptions, not a scientific catalogue of marine hazards.",
+      "evidence_grade": "B",
+      "research_status": "Researchable; study marine hazards and historical maritime context.",
+      "quranic_evidence": {
+        "references": [
+          "10:22",
+          "31:32"
+        ],
+        "quran_com_links": [
+          "https://quran.com/10/22",
+          "https://quran.com/31/32"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Storms, large waves, strong currents and other marine hazards can threaten human life and maritime travel.",
+        "source_ids": [
+          "NOAA_WAVES",
+          "NOAA_WIND_WAVES",
+          "NOAA_WAVES_STORM"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses describe people facing danger at sea and turning to Allah in distress.",
+        "interpretive_limit": "The verses are religious and narrative descriptions, not a scientific catalogue of marine hazards.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    },
+    {
+      "id": "WAT-050",
+      "title": "The sea as a sign inviting reflection",
+      "quran_reference": [
+        "16:14",
+        "45:12"
+      ],
+      "scientific_topic": "Ocean systems and natural phenomena",
+      "scientific_finding": "Oceans influence climate, support biodiversity, store and transport heat, and participate in Earth's water and carbon cycles.",
+      "connection": "The verses invite reflection on the sea and its benefits to human life.",
+      "limitations": "This is a broad theological and educational theme, not one specific scientific prediction or discovery.",
+      "evidence_grade": "C",
+      "research_status": "Interpretive; use as a general introductory entry rather than a scientific-miracle claim.",
+      "quranic_evidence": {
+        "references": [
+          "16:14",
+          "45:12"
+        ],
+        "quran_com_links": [
+          "https://quran.com/16/14",
+          "https://quran.com/45/12"
+        ],
+        "arabic_text": null,
+        "translation": null,
+        "verification_status": "References retained from supplied file; Arabic wording and translation not individually checked in this draft.",
+        "context_note": "Read the complete passage and surrounding verses before assigning a scientific meaning."
+      },
+      "classical_tafsir_review": {
+        "status": "pending_individual_review",
+        "note": "Read this verse in its full Arabic story and check recognised early scholar commentaries alongside it."
+      },
+      "scientific_evidence": {
+        "summary": "Oceans influence climate, support biodiversity, store and transport heat, and participate in Earth's water and carbon cycles.",
+        "source_ids": [
+          "NOAA_WAVES",
+          "NOAA_CORAL",
+          "USGS_WATER_CYCLE"
+        ],
+        "source_scope_note": "Linked institutional or educational sources support the general scientific background. They do not independently prove that the verse anticipated the finding."
+      },
+      "connection_analysis": {
+        "assessment": "The verses invite reflection on the sea and its benefits to human life.",
+        "interpretive_limit": "This is a broad theological and educational theme, not one specific scientific prediction or discovery.",
+        "claim_strength": "broad_or_interpretive_unless_specific_correspondence_is_demonstrated",
+        "publication_caution": "Do not label a topic a scientific miracle solely because a broad modern fact resembles a verse."
+      },
+      "verification_status": {
+        "scientific_background": "institutional_source_linked_initial_review",
+        "verse_arabic": "pending",
+        "translation": "pending",
+        "verse_context": "pending_individual_review",
+        "classical_tafsir": "pending_individual_review",
+        "peer_reviewed_topic_literature": "additional_topic_specific_review_needed",
+        "publication_ready": false
+      }
+    }
+  ],
+  "recommended_sources": {
+    "quran_and_language": [
+      {
+        "name": "Quran.com",
+        "url": "https://quran.com/"
+      },
+      {
+        "name": "Quranic Arabic Corpus",
+        "url": "https://corpus.quran.com/"
+      },
+      {
+        "name": "Altafsir",
+        "url": "https://www.altafsir.com/"
+      },
+      {
+        "name": "Tanzil",
+        "url": "https://tanzil.net/"
+      }
+    ],
+    "scientific_sources": [
+      {
+        "name": "NOAA Ocean Service",
+        "url": "https://oceanservice.noaa.gov/"
+      },
+      {
+        "name": "NOAA Ocean Exploration",
+        "url": "https://oceanexplorer.noaa.gov/"
+      },
+      {
+        "name": "NOAA Ocean Currents",
+        "url": "https://oceanservice.noaa.gov/facts/current.html"
+      },
+      {
+        "name": "NOAA Global Ocean Conveyor Belt",
+        "url": "https://oceanservice.noaa.gov/facts/conveyor.html"
+      },
+      {
+        "name": "USGS Water Science School",
+        "url": "https://www.usgs.gov/special-topics/water-science-school"
+      },
+      {
+        "name": "NASA Earth Science",
+        "url": "https://science.nasa.gov/earth-science/"
+      },
+      {
+        "name": "UNESCO Intergovernmental Oceanographic Commission",
+        "url": "https://ioc.unesco.org/"
+      }
+    ]
+  },
+  "research_rules": [
+    "Verify every Quran reference, Arabic word and translation before publication.",
+    "Read the full passage and surrounding verses, not just an isolated phrase.",
+    "Consult classical tafsir before assigning a modern scientific interpretation.",
+    "Distinguish the Quranic wording, classical interpretation and modern scientific explanation.",
+    "Do not claim that two seas never mix; water masses and estuaries do mix.",
+    "Do not claim that the Quran explicitly describes thermohaline circulation or internal waves.",
+    "Do not present deep-sea darkness as a technical scientific description without considering the parable in 24:40.",
+    "Do not claim that every form of rainwater is safe to drink.",
+    "Do not invent hadith, authenticity grades, scientific papers, authors or publication details.",
+    "Use peer-reviewed research and authoritative scientific institutions for specific scientific claims.",
+    "Treat the evidence grades as provisional and revise them when detailed research is completed.",
+    "A scientific similarity is not automatically evidence of a miraculous prediction."
+  ],
+  "research_scope": {
+    "purpose": "Evidence-linked research draft expanding the original 50 candidate topics without presenting them as 50 proven scientific miracles.",
+    "method": "Original supplied entries, references, scientific findings, connections, limitations and provisional grades are preserved. External sources are attached as scientific background and their scope is stated.",
+    "grading_note": "Original evidence grades are retained unchanged and remain provisional; they have not been upgraded by adding general background links.",
+    "interpretive_rule": "Distinguish Qur'anic wording and context, classical tafsir, modern scientific knowledge, and proposed correspondence. Broad similarity does not prove a scientific prediction."
+  },
+  "source_catalog": {
+    "NASA_WATER_LIFE": {
+      "title": "Why is water so important for life as we know it?",
+      "publisher": "NASA Science",
+      "url": "https://science.nasa.gov/astrobiology/learning-resources/alp/water-so-important-for-life/",
+      "supports": "Water is essential for known life and cellular function; this does not explain abiogenesis."
+    },
+    "USGS_WATER_CYCLE": {
+      "title": "Water cycle",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/water-science-school/water-cycle",
+      "supports": "Evaporation, condensation, precipitation, runoff, infiltration, groundwater recharge and discharge."
+    },
+    "USGS_GROUNDWATER": {
+      "title": "Groundwater Flow and the Water Cycle",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/water-science-school/science/groundwater-flow-and-water-cycle",
+      "supports": "Groundwater movement through pores and fractures and discharge to springs, streams and oceans."
+    },
+    "USGS_GROUND_STORAGE": {
+      "title": "Groundwater Storage and the Water Cycle",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://www.usgs.gov/water-science-school/science/groundwater-storage-and-water-cycle",
+      "supports": "Water stored in soil, pores, cracks and aquifers; much groundwater originates from infiltrating precipitation."
+    },
+    "NOAA_ESTUARIES": {
+      "title": "Estuaries Tutorial: What is an estuary?",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_estuaries/est01_whatis.html",
+      "supports": "Estuaries are transition zones where freshwater and seawater meet; salinity varies with tides, weather and freshwater inflow."
+    },
+    "NOAA_ESTUARY_MIXING": {
+      "title": "Estuaries Tutorial: Circulation",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://uat.oceanservice.noaa.gov/education/tutorial_estuaries/est05_circulation.html",
+      "supports": "Fresh and salt water may stratify or mix; degree of mixing depends on estuary conditions."
+    },
+    "EPA_WATER_TYPES": {
+      "title": "Water Body Types",
+      "publisher": "U.S. Environmental Protection Agency",
+      "url": "https://www.epa.gov/n-steps-online/water-body-types",
+      "supports": "Estuarine boundaries and salinity gradients are dynamic and change with tides, inflow, wind and seasons."
+    },
+    "NOAA_DEEP_LIGHT": {
+      "title": "How far does light travel in the ocean?",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/light_travel.html",
+      "supports": "Light declines rapidly with depth; photosynthesis is generally not possible below the euphotic zone, and the deep aphotic zone receives no sunlight."
+    },
+    "NOAA_WAVES": {
+      "title": "Why does the ocean have waves?",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/wavesinocean.html",
+      "supports": "Wind-generated surface waves, storm surge and tsunamis have distinct mechanisms; waves transfer energy."
+    },
+    "NOAA_WIND_WAVES": {
+      "title": "Waves",
+      "publisher": "NOAA JetStream",
+      "url": "https://www.noaa.gov/jetstream/ocean/waves",
+      "supports": "Wind strength, duration and fetch affect wave size; swells can travel far from storms."
+    },
+    "OPENSTAX_BUOYANCY": {
+      "title": "Archimedes’ Principle and Buoyancy",
+      "publisher": "OpenStax, University Physics Volume 1",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/14-4-archimedes-principle-and-buoyancy",
+      "supports": "Buoyant force equals the weight of displaced fluid; ship flotation depends on average density and displacement."
+    },
+    "NOAA_PEARLS": {
+      "title": "How do oysters produce pearls?",
+      "publisher": "NOAA Fisheries",
+      "url": "https://www.fisheries.noaa.gov/national/outreach-and-education/fun-facts-about-intriguing-invertebrates",
+      "supports": "Pearls form as molluscs deposit layers of nacre-like material around an irritant or foreign body."
+    },
+    "SMITHSONIAN_PEARLS": {
+      "title": "Pearls of Wisdom",
+      "publisher": "Smithsonian Ocean",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/pearls-wisdom",
+      "supports": "Pearl formation in pearl oysters and nacre deposition."
+    },
+    "NOAA_CORAL": {
+      "title": "Coral reef ecosystems",
+      "publisher": "NOAA",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems",
+      "supports": "Corals are animals; reef ecosystems support diverse marine life and provide ecosystem services."
+    },
+    "NOAA_CORAL_SPECIES": {
+      "title": "What species live in and around coral reefs?",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/facts/coral_species.html",
+      "supports": "Coral reefs provide habitat for many marine species."
+    },
+    "UNEP_CORAL": {
+      "title": "Coral reefs",
+      "publisher": "UNEP",
+      "url": "https://www.unep.org/en/what-we-do/ocean-seas-and-coasts/blue-ecosystems/coral-reefs",
+      "supports": "Coral reef biodiversity, food security and coastal protection."
+    },
+    "NOAA_FOOD_FISHERIES": {
+      "title": "Coral reef ecosystems",
+      "publisher": "NOAA",
+      "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems",
+      "supports": "Marine habitats support fisheries and food resources; ecological services depend on healthy ecosystems."
+    },
+    "NOAA_WAVES_STORM": {
+      "title": "What causes ocean waves?",
+      "publisher": "NOAA Ocean Exploration",
+      "url": "https://oceanexplorer.noaa.gov/ocean-fact/waves/",
+      "supports": "Surface waves, storm surge and tsunamis; different physical causes and hazards."
+    }
+  },
+  "quality_control_summary": {
+    "input_entries": 50,
+    "output_entries": 50,
+    "original_ids_preserved": true,
+    "original_topic_fields_preserved": true,
+    "source_catalog_records": 18,
+    "entries_with_scientific_source_links": 50,
+    "arabic_texts_individually_verified": 0,
+    "translations_individually_verified": 0,
+    "individual_classical_tafsir_reviews_completed": 0,
+    "evidence_grades": "Original provisional grades retained unchanged.",
+    "critical_cautions": [
+      "Water is essential to all known life, but this does not mean science has established how life first originated.",
+      "Freshwater and seawater meet and can mix. Estuaries often contain salinity gradients or stratification, but the interface is dynamic, not an impermeable wall.",
+      "Qur'an 24:40 must be read in its parable context; deep-ocean darkness is a scientific fact but should not be claimed as the verse's definite technical subject.",
+      "The phrase 'waves above waves' should not automatically be equated with internal waves; multiple wave phenomena exist and textual interpretation needs separate evidence.",
+      "Storm waves, storm surge and tsunamis are different phenomena and should not be conflated.",
+      "Rainwater is not automatically safe to drink; contamination can occur during atmospheric passage, collection, storage or handling.",
+      "Pearls are produced by certain molluscs through nacre deposition; avoid oversimplified claims that every pearl is formed around a grain of sand.",
+      "Corals are animals, and coral reefs are complex ecosystems; don't conflate coral with all marine 'treasures'.",
+      "Buoyancy is explained by fluid mechanics and displacement; the existence of ships is not by itself a scientific prediction.",
+      "Scientific descriptions of the hydrological cycle are modern explanatory models; individual Qur'anic verses should not be made to carry details absent from their wording."
+    ],
+    "release_status": "research-enriched draft; requires verse-by-verse Arabic, translation, context and classical tafsir review plus topic-specific scientific literature validation before public claims."
+  }
+}
